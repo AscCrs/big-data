@@ -1,0 +1,112 @@
+{
+  "__comment": "Esquema JSON para la base de datos de gestión hospitalaria",
+  "pacientes": {
+    "_id": "ObjectId",
+    "nombre": "string",
+    "edad": "number",
+    "sexo": "string",
+    "contacto": {
+      "telefono": "string",
+      "email": "string",
+      "direccion": {
+        "calle": "string",
+        "ciudad": "string",
+        "estado": "string",
+        "cp": "string"
+      }
+    },
+    "fecha_registro": "date",
+    "activo": "boolean",
+    "alergias": ["string"],
+    "condiciones_cronicas": ["string"],
+    "historial_clinico": [
+      {
+        "fecha": "date",
+        "diagnostico_id": "ObjectId",
+        "tratamiento_id": "ObjectId",
+        "doctor_id": "ObjectId",
+        "notas": "string"
+      }
+    ],
+    "dispositivos_asignados": ["ObjectId"]
+  },
+
+  "doctores": {
+    "_id": "ObjectId",
+    "nombre": "string",
+    "especialidad": "string",
+    "licencia_medica": "string",
+    "fecha_contratacion": "date",
+    "activo": "boolean",
+    "pacientes_asignados": ["ObjectId"],
+    "horarios": {
+      "lunes": ["string"],
+      "martes": ["string"],
+      "miercoles": ["string"],
+      "jueves": ["string"],
+      "viernes": ["string"]
+    },
+    "ubicacion": {
+      "hospital": "string",
+      "sala": "string"
+    }
+  },
+
+  "diagnosticos": {
+    "_id": "ObjectId",
+    "codigo": "string",
+    "nombre": "string",
+    "descripcion": "string",
+    "categoria": "string",
+    "fecha_creacion": "date",
+    "activo": "boolean"
+  },
+
+  "tratamientos": {
+    "_id": "ObjectId",
+    "nombre": "string",
+    "diagnostico_id": "ObjectId",
+    "pasos": [
+      {
+        "etapa": "number",
+        "descripcion": "string"
+      }
+    ],
+    "medicamentos": ["string"],
+    "duracion_estimada_dias": "number",
+    "requiere_hospitalizacion": "boolean",
+    "observaciones": "string"
+  },
+
+  "historial_clinico": {
+    "_id": "ObjectId",
+    "paciente_id": "ObjectId",
+    "doctor_id": "ObjectId",
+    "diagnostico_id": "ObjectId",
+    "tratamiento_id": "ObjectId",
+    "fecha_consulta": "date",
+    "notas": "string",
+    "seguimiento": [
+      {
+        "fecha": "date",
+        "observacion": "string"
+      }
+    ]
+  },
+
+  "dispositivos_medicos": {
+    "_id": "ObjectId",
+    "nombre": "string",
+    "tipo": "string",
+    "numero_serie": "string",
+    "paciente_asignado": "ObjectId",
+    "fecha_asignacion": "date",
+    "estado_operativo": "boolean",
+    "lecturas": [
+      {
+        "fecha": "date",
+        "valor": "number"
+      }
+    ]
+  }
+}

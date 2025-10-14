@@ -1,0 +1,3830 @@
+[
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228368"
+        },
+        "nombre": "junto",
+        "tipo": "Sensor",
+        "fabricante": "Almonte, Arteaga y Valdés",
+        "fecha_adquisicion": {
+            "$date": 1760425830457
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1747127693604
+                },
+                "descripcion": "Bueno incluso resultado igual francisco centros instituto mal."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228369"
+        },
+        "nombre": "debido",
+        "tipo": "Bomba",
+        "fabricante": "Flores-Rosado",
+        "fecha_adquisicion": {
+            "$date": 1760425830457
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1733464393524
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1750680100846
+                },
+                "descripcion": "Que voluntad grandes aparece nombre mal."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022836a"
+        },
+        "nombre": "precio",
+        "tipo": "Respirador",
+        "fabricante": "Proyectos Berríos-Acevedo",
+        "fecha_adquisicion": {
+            "$date": 1760425830458
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1735968077666
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1749060204757
+                },
+                "descripcion": "Explicó paciente cuatro asociación ve."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022836b"
+        },
+        "nombre": "paso",
+        "tipo": "Sensor",
+        "fabricante": "Meraz y Rodarte A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830458
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1758621196740
+                },
+                "descripcion": "O qué ocho derecha total."
+            },
+            {
+                "fecha": {
+                    "$date": 1729701140059
+                },
+                "descripcion": "Cuarto precios político jóvenes dicho dejar de."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022836c"
+        },
+        "nombre": "hombre",
+        "tipo": "Respirador",
+        "fabricante": "Grupo Toro y Moya",
+        "fecha_adquisicion": {
+            "$date": 1760425830459
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1730766556956
+                },
+                "descripcion": "Quiere pero pueblo cambios misma."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022836d"
+        },
+        "nombre": "mucha",
+        "tipo": "Monitor",
+        "fabricante": "Valladares y Jasso y Asociados",
+        "fecha_adquisicion": {
+            "$date": 1760425830459
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1744168958746
+                },
+                "descripcion": "Pasado va pensar animales."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022836e"
+        },
+        "nombre": "produce",
+        "tipo": "Sensor",
+        "fabricante": "Club Bustamante, Olvera y Sánchez",
+        "fecha_adquisicion": {
+            "$date": 1760425830460
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1757846286722
+                },
+                "descripcion": "Saber millones dijo las medida ninguna tan duda."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022836f"
+        },
+        "nombre": "tenido",
+        "tipo": "Sensor",
+        "fabricante": "Márquez-Riojas y Asociados",
+        "fecha_adquisicion": {
+            "$date": 1760425830460
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1742601554199
+                },
+                "descripcion": "Banco semana caso."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228370"
+        },
+        "nombre": "interés",
+        "tipo": "Sensor",
+        "fabricante": "Espinoza, Gómez y Ornelas",
+        "fecha_adquisicion": {
+            "$date": 1760425830461
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228371"
+        },
+        "nombre": "tierra",
+        "tipo": "Respirador",
+        "fabricante": "Razo y Ríos S.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830461
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1746917017431
+                },
+                "descripcion": "Santa pp seguir derechos."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228372"
+        },
+        "nombre": "habla",
+        "tipo": "Respirador",
+        "fecha_adquisicion": {
+            "$date": 1760425830462
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1757662453123
+                },
+                "descripcion": "Hora aquella encuentra propio medida reforma son flores."
+            },
+            {
+                "fecha": {
+                    "$date": 1735281263213
+                },
+                "descripcion": "Operación natural dan mesa."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228373"
+        },
+        "nombre": "autoridades",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830462
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1743080155659
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228374"
+        },
+        "nombre": "conjunto",
+        "tipo": "Respirador",
+        "fabricante": "Despacho Lomeli, Olivo y Garrido",
+        "fecha_adquisicion": {
+            "$date": 1760425830463
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1749796460480
+                },
+                "descripcion": "Yo suerte grado imágenes."
+            },
+            {
+                "fecha": {
+                    "$date": 1757315443579
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228375"
+        },
+        "nombre": "línea",
+        "tipo": "Respirador",
+        "fabricante": "Laboratorios Cabrera, Escobedo y Villanueva",
+        "fecha_adquisicion": {
+            "$date": 1760425830463
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228376"
+        },
+        "nombre": "presenta",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830463
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1741808296463
+                },
+                "descripcion": "Europa produce produce poco eso visto valor."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228377"
+        },
+        "nombre": "habrá",
+        "tipo": "Bomba",
+        "fabricante": "Aguilera S.A. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830464
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1732963512765
+                },
+                "descripcion": "Animales diferentes palabra salir afirmó chile larga."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228378"
+        },
+        "nombre": "reforma",
+        "tipo": "Respirador",
+        "fabricante": "Herrera-Marín",
+        "fecha_adquisicion": {
+            "$date": 1760425830464
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1742503648194
+                },
+                "descripcion": "Plazo dolor segundo español semanas después han."
+            },
+            {
+                "fecha": {
+                    "$date": 1747261605689
+                },
+                "descripcion": "Siempre señaló mayoría salir problemas pie."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228379"
+        },
+        "nombre": "minutos",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830465
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1758882585649
+                },
+                "descripcion": "Pasó pasado diez nos."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022837a"
+        },
+        "nombre": "película",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830465
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022837b"
+        },
+        "nombre": "solamente",
+        "tipo": "Respirador",
+        "fabricante": "Terrazas A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830465
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022837c"
+        },
+        "nombre": "partes",
+        "tipo": "Sensor",
+        "fabricante": "Industrias Orosco y Hernádez",
+        "fecha_adquisicion": {
+            "$date": 1760425830466
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1749150515412
+                },
+                "descripcion": "Distintas va nuevos deja pedro ciencia lucha máximo."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022837d"
+        },
+        "nombre": "dijo",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830466
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1755791403407
+                },
+                "descripcion": "Cuya cantidad se arte fuerzas cada."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022837e"
+        },
+        "nombre": "sentido",
+        "tipo": "Respirador",
+        "fabricante": "Venegas-Archuleta",
+        "fecha_adquisicion": {
+            "$date": 1760425830466
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1729089338266
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022837f"
+        },
+        "nombre": "siglo",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830467
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228380"
+        },
+        "nombre": "mejor",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830467
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228381"
+        },
+        "nombre": "temas",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830467
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228382"
+        },
+        "nombre": "conocer",
+        "tipo": "Monitor",
+        "fabricante": "Proyectos Cornejo y Navarro",
+        "fecha_adquisicion": {
+            "$date": 1760425830468
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1741078422867
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1757195963607
+                },
+                "descripcion": "Al nueva entre los miguel general suficiente."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228383"
+        },
+        "nombre": "persona",
+        "tipo": "Bomba",
+        "fabricante": "Club Rojo-Adame",
+        "fecha_adquisicion": {
+            "$date": 1760425830468
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1732860163417
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1756977579655
+                },
+                "descripcion": "Solución relación mano sigue."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228384"
+        },
+        "nombre": "presenta",
+        "tipo": "Sensor",
+        "fabricante": "Almanza-Aranda S.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830469
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1751308057720
+                },
+                "descripcion": "Medios así suelo."
+            },
+            {
+                "fecha": {
+                    "$date": 1733503913426
+                },
+                "descripcion": "Trabajo elecciones cierto buen pese."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228385"
+        },
+        "nombre": "salir",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830469
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228386"
+        },
+        "nombre": "lugar",
+        "tipo": "Bomba",
+        "fabricante": "Vélez y Valdés S.A. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830469
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228387"
+        },
+        "nombre": "sigue",
+        "tipo": "Monitor",
+        "fabricante": "Rodríguez S.A. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830470
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228388"
+        },
+        "nombre": "serán",
+        "tipo": "Bomba",
+        "fabricante": "Corporacin Ortega, Sotelo y Meléndez",
+        "fecha_adquisicion": {
+            "$date": 1760425830470
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1741235533991
+                },
+                "descripcion": "Después durante mucho respecto."
+            },
+            {
+                "fecha": {
+                    "$date": 1738099801913
+                },
+                "descripcion": "Director explicó habrá políticos sociedad ministro."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228389"
+        },
+        "nombre": "horas",
+        "tipo": "Respirador",
+        "fabricante": "Chacón-Robles",
+        "fecha_adquisicion": {
+            "$date": 1760425830470
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1746026213460
+                },
+                "descripcion": "Llamado eran adelante pedro programa."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022838a"
+        },
+        "nombre": "arriba",
+        "tipo": "Bomba",
+        "fabricante": "Club Corral y Escalante",
+        "fecha_adquisicion": {
+            "$date": 1760425830471
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1751114116072
+                },
+                "descripcion": "Voluntad pregunta encuentran sala."
+            },
+            {
+                "fecha": {
+                    "$date": 1746321114541
+                },
+                "descripcion": "Policía idea personas hoy."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022838b"
+        },
+        "nombre": "premio",
+        "tipo": "Respirador",
+        "fabricante": "Munguía y de la Rosa A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830471
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1739839017229
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022838c"
+        },
+        "nombre": "mayoría",
+        "tipo": "Monitor",
+        "fabricante": "Sarabia y Solano y Asociados",
+        "fecha_adquisicion": {
+            "$date": 1760425830471
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022838d"
+        },
+        "nombre": "nacional",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830472
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022838e"
+        },
+        "nombre": "superior",
+        "tipo": "Monitor",
+        "fabricante": "Rosas, Salas y Camacho",
+        "fecha_adquisicion": {
+            "$date": 1760425830472
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022838f"
+        },
+        "nombre": "realidad",
+        "tipo": "Respirador",
+        "fabricante": "de León S.A. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830472
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1737739886385
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228390"
+        },
+        "nombre": "grandes",
+        "tipo": "Monitor",
+        "fabricante": "Despacho Valdez, Gollum y Solorzano",
+        "fecha_adquisicion": {
+            "$date": 1760425830473
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1745450850261
+                },
+                "descripcion": "Tratamiento quien muestra recursos."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228391"
+        },
+        "nombre": "aspecto",
+        "tipo": "Respirador",
+        "fabricante": "Despacho Prieto, Raya y Haro",
+        "fecha_adquisicion": {
+            "$date": 1760425830473
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228392"
+        },
+        "nombre": "empresa",
+        "tipo": "Sensor",
+        "fabricante": "Padilla-Cadena S. R.L. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830473
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1751910489518
+                },
+                "descripcion": "Parece deben marco podemos quizá."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228393"
+        },
+        "nombre": "alguien",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830474
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1753540607527
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228394"
+        },
+        "nombre": "resultado",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830474
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1744314453598
+                },
+                "descripcion": "Gran personas dejó seguir los."
+            },
+            {
+                "fecha": {
+                    "$date": 1759364299449
+                },
+                "descripcion": "Sectores martín cabo objeto dice carlos."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228395"
+        },
+        "nombre": "mundial",
+        "tipo": "Respirador",
+        "fabricante": "Alemán S.A.",
+        "fecha_adquisicion": {
+            "$date": 1760425830475
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228396"
+        },
+        "nombre": "relaciones",
+        "tipo": "Bomba",
+        "fabricante": "Arias A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830475
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1737960689765
+                },
+                "descripcion": "Actual fiscal estas ello."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228397"
+        },
+        "nombre": "mar",
+        "tipo": "Bomba",
+        "fabricante": "Despacho Olivo, Centeno y Lucio",
+        "fecha_adquisicion": {
+            "$date": 1760425830475
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1739602294699
+                },
+                "descripcion": "Hijos niveles sea."
+            },
+            {
+                "fecha": {
+                    "$date": 1743131915858
+                },
+                "descripcion": "Cambios enfermedad bien nuevas boca hermano."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228398"
+        },
+        "nombre": "fuerte",
+        "tipo": "Respirador",
+        "fecha_adquisicion": {
+            "$date": 1760425830476
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1738355458411
+                },
+                "descripcion": "Todos nuestro mismo miembros mira."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228399"
+        },
+        "nombre": "fuego",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830476
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022839a"
+        },
+        "nombre": "aquel",
+        "tipo": "Respirador",
+        "fabricante": "Sáenz-Ulibarri",
+        "fecha_adquisicion": {
+            "$date": 1760425830477
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1757646926488
+                },
+                "descripcion": "Mayor tengo ambos militar productos."
+            },
+            {
+                "fecha": {
+                    "$date": 1736433427370
+                },
+                "descripcion": "Instituciones ha memoria bien ser."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022839b"
+        },
+        "nombre": "movimiento",
+        "tipo": "Bomba",
+        "fabricante": "Frías A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830477
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1730122075401
+                },
+                "descripcion": "Mitad sociedad ambiente."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022839c"
+        },
+        "nombre": "alto",
+        "tipo": "Monitor",
+        "fabricante": "Grupo Vázquez, Orozco y Sepúlveda",
+        "fecha_adquisicion": {
+            "$date": 1760425830477
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022839d"
+        },
+        "nombre": "cerca",
+        "tipo": "Sensor",
+        "fabricante": "Guzmán, Niño y Tijerina",
+        "fecha_adquisicion": {
+            "$date": 1760425830478
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022839e"
+        },
+        "nombre": "arriba",
+        "tipo": "Respirador",
+        "fabricante": "Almaraz-Jasso S.A.",
+        "fecha_adquisicion": {
+            "$date": 1760425830478
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022839f"
+        },
+        "nombre": "grande",
+        "tipo": "Respirador",
+        "fabricante": "Corporacin Feliciano, Cazares y Gamboa",
+        "fecha_adquisicion": {
+            "$date": 1760425830478
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1743561793405
+                },
+                "descripcion": "Esta mismo bastante mundial imposible quiere."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a0"
+        },
+        "nombre": "ir",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830479
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1735449112063
+                },
+                "descripcion": "Bastante vio económica autor autor libertad natural formación."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a1"
+        },
+        "nombre": "estuvo",
+        "tipo": "Sensor",
+        "fabricante": "Club Barajas, Madera y Jasso",
+        "fecha_adquisicion": {
+            "$date": 1760425830479
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a2"
+        },
+        "nombre": "amigos",
+        "tipo": "Sensor",
+        "fabricante": "Curiel y Valladares S.A. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830479
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a3"
+        },
+        "nombre": "cual",
+        "tipo": "Sensor",
+        "fabricante": "Olivera e Hijos",
+        "fecha_adquisicion": {
+            "$date": 1760425830480
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a4"
+        },
+        "nombre": "mayoría",
+        "tipo": "Monitor",
+        "fabricante": "Despacho Gamboa, Medina y Jasso",
+        "fecha_adquisicion": {
+            "$date": 1760425830480
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a5"
+        },
+        "nombre": "esos",
+        "tipo": "Respirador",
+        "fabricante": "Laboratorios Chávez-Lugo",
+        "fecha_adquisicion": {
+            "$date": 1760425830480
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1735124128714
+                },
+                "descripcion": "Dejar pie principio salir paciente calle objeto."
+            },
+            {
+                "fecha": {
+                    "$date": 1742440710680
+                },
+                "descripcion": "Momentos haya pocos pueblo tipos salir."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a6"
+        },
+        "nombre": "yo",
+        "tipo": "Respirador",
+        "fabricante": "Ojeda y Brito S. R.L. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830481
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1737071601111
+                },
+                "descripcion": "Amigos precisamente español clase recursos militar amigos."
+            },
+            {
+                "fecha": {
+                    "$date": 1752468136637
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a7"
+        },
+        "nombre": "presidente",
+        "tipo": "Bomba",
+        "fabricante": "Alcántar, Anaya y Tijerina",
+        "fecha_adquisicion": {
+            "$date": 1760425830481
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a8"
+        },
+        "nombre": "hace",
+        "tipo": "Bomba",
+        "fabricante": "Proyectos Bueno-Tamayo",
+        "fecha_adquisicion": {
+            "$date": 1760425830482
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1752405475841
+                },
+                "descripcion": "Pasa acerca ellas aspecto lo tengo."
+            },
+            {
+                "fecha": {
+                    "$date": 1751146484513
+                },
+                "descripcion": "Obra fin ante cabeza título."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283a9"
+        },
+        "nombre": "hubiera",
+        "tipo": "Sensor",
+        "fabricante": "Muñoz-Peralta",
+        "fecha_adquisicion": {
+            "$date": 1760425830482
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1754042881531
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1751684461232
+                },
+                "descripcion": "Pasa población asunto aquellas usted pasar voy."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283aa"
+        },
+        "nombre": "necesidad",
+        "tipo": "Bomba",
+        "fabricante": "Club Díaz-Gaona",
+        "fecha_adquisicion": {
+            "$date": 1760425830483
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ab"
+        },
+        "nombre": "arriba",
+        "tipo": "Sensor",
+        "fabricante": "Barreto-Quintero",
+        "fecha_adquisicion": {
+            "$date": 1760425830483
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1733683956830
+                },
+                "descripcion": "Considera más casos."
+            },
+            {
+                "fecha": {
+                    "$date": 1748953720562
+                },
+                "descripcion": "Han puedo al crisis."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ac"
+        },
+        "nombre": "técnica",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830483
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1752853026380
+                },
+                "descripcion": "Atrás jefe creación las historia sangre parece ideas."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ad"
+        },
+        "nombre": "datos",
+        "tipo": "Monitor",
+        "fabricante": "Industrias Acevedo-Espinoza",
+        "fecha_adquisicion": {
+            "$date": 1760425830484
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1756404161142
+                },
+                "descripcion": "Aquí fuerza paz dejó él."
+            },
+            {
+                "fecha": {
+                    "$date": 1758350916150
+                },
+                "descripcion": "Destino haciendo octubre ni seis juicio madrid."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ae"
+        },
+        "nombre": "artículo",
+        "tipo": "Monitor",
+        "fabricante": "Cardenas y Mares y Asociados",
+        "fecha_adquisicion": {
+            "$date": 1760425830484
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1734599614310
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283af"
+        },
+        "nombre": "día",
+        "tipo": "Respirador",
+        "fabricante": "Zamora, Botello y Carvajal",
+        "fecha_adquisicion": {
+            "$date": 1760425830485
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1753526636936
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1744519238061
+                },
+                "descripcion": "De estoy manos buscar."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b0"
+        },
+        "nombre": "conciencia",
+        "tipo": "Monitor",
+        "fabricante": "Altamirano A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830485
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1735921611122
+                },
+                "descripcion": "Tomar sería propios posibilidades común actividad organización."
+            },
+            {
+                "fecha": {
+                    "$date": 1754284169873
+                },
+                "descripcion": "Sido educación último esa destino médico."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b1"
+        },
+        "nombre": "línea",
+        "tipo": "Sensor",
+        "fabricante": "Longoria-Pacheco e Hijos",
+        "fecha_adquisicion": {
+            "$date": 1760425830486
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1731852961465
+                },
+                "descripcion": "Incluso debía suficiente iba pensar."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b2"
+        },
+        "nombre": "pp",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830486
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1749902104537
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b3"
+        },
+        "nombre": "dirección",
+        "tipo": "Monitor",
+        "fabricante": "Acevedo, Campos y Gamez",
+        "fecha_adquisicion": {
+            "$date": 1760425830486
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1735275529365
+                },
+                "descripcion": "Través personas pudo días mucha."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b4"
+        },
+        "nombre": "aquella",
+        "tipo": "Respirador",
+        "fabricante": "Rodríquez, Santillán y Cabrera",
+        "fecha_adquisicion": {
+            "$date": 1760425830487
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1752354351221
+                },
+                "descripcion": "Junto carrera civil servicio posición."
+            },
+            {
+                "fecha": {
+                    "$date": 1750167594016
+                },
+                "descripcion": "Estuvo recuerdo mucho sabía precisamente marco suelo especial."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b5"
+        },
+        "nombre": "primer",
+        "tipo": "Sensor",
+        "fabricante": "Laureano y Santillán y Asociados",
+        "fecha_adquisicion": {
+            "$date": 1760425830487
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b6"
+        },
+        "nombre": "varios",
+        "tipo": "Respirador",
+        "fabricante": "Lugo y Báez S. R.L. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830487
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b7"
+        },
+        "nombre": "consumo",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830488
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b8"
+        },
+        "nombre": "fernando",
+        "tipo": "Monitor",
+        "fabricante": "Industrias Montes-Barrientos",
+        "fecha_adquisicion": {
+            "$date": 1760425830488
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1745465709653
+                },
+                "descripcion": "Vivir texto segundo mesa técnica."
+            },
+            {
+                "fecha": {
+                    "$date": 1752763465646
+                },
+                "descripcion": "Yo después curso educación experiencia francisco cuya."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283b9"
+        },
+        "nombre": "resulta",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830489
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1756444647407
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1734376340766
+                },
+                "descripcion": "Poder cómo persona actividad grande aquí etapa."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ba"
+        },
+        "nombre": "tenían",
+        "tipo": "Sensor",
+        "fabricante": "Corporacin Suárez, Olivárez y Jaramillo",
+        "fecha_adquisicion": {
+            "$date": 1760425830489
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283bb"
+        },
+        "nombre": "materia",
+        "tipo": "Respirador",
+        "fecha_adquisicion": {
+            "$date": 1760425830489
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283bc"
+        },
+        "nombre": "antes",
+        "tipo": "Respirador",
+        "fabricante": "Club Espinal, Casanova y Quiñones",
+        "fecha_adquisicion": {
+            "$date": 1760425830490
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1743941960877
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1744742438506
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283bd"
+        },
+        "nombre": "casos",
+        "tipo": "Sensor",
+        "fabricante": "Proyectos Casanova y Almanza",
+        "fecha_adquisicion": {
+            "$date": 1760425830490
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283be"
+        },
+        "nombre": "boca",
+        "tipo": "Sensor",
+        "fabricante": "Covarrubias y Cano A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830490
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1747068238835
+                },
+                "descripcion": "Ocasión unidad allá ex caso."
+            },
+            {
+                "fecha": {
+                    "$date": 1756479650828
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283bf"
+        },
+        "nombre": "afirmó",
+        "tipo": "Respirador",
+        "fabricante": "Corporacin Montez, Meléndez y Briseño",
+        "fecha_adquisicion": {
+            "$date": 1760425830491
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1752001110006
+                },
+                "descripcion": "Riesgo pero principales."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c0"
+        },
+        "nombre": "podía",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830491
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1747518954611
+                },
+                "descripcion": "Lucha o j segunda ojos."
+            },
+            {
+                "fecha": {
+                    "$date": 1735610106253
+                },
+                "descripcion": "Cualquier cuyo resultado."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c1"
+        },
+        "nombre": "fondo",
+        "tipo": "Sensor",
+        "fabricante": "Moreno S.A.",
+        "fecha_adquisicion": {
+            "$date": 1760425830492
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1729608257906
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1738369807066
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c2"
+        },
+        "nombre": "dos",
+        "tipo": "Respirador",
+        "fabricante": "Despacho Fernández y Castillo",
+        "fecha_adquisicion": {
+            "$date": 1760425830492
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1733116119784
+                },
+                "descripcion": "Título medida mal programas."
+            },
+            {
+                "fecha": {
+                    "$date": 1740547795124
+                },
+                "descripcion": "Especialmente pueda soy principal mediante texto próximo."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c3"
+        },
+        "nombre": "creo",
+        "tipo": "Sensor",
+        "fabricante": "Valdés-de la Fuente",
+        "fecha_adquisicion": {
+            "$date": 1760425830492
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1744435120785
+                },
+                "descripcion": "Millones tal conseguir encima primeras."
+            },
+            {
+                "fecha": {
+                    "$date": 1743611528396
+                },
+                "descripcion": "Afirmó va cómo semanas cuba según cabeza propios."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c4"
+        },
+        "nombre": "existen",
+        "tipo": "Sensor",
+        "fabricante": "Grupo Menéndez, Sanches y Rosario",
+        "fecha_adquisicion": {
+            "$date": 1760425830493
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1753088634353
+                },
+                "descripcion": "Organización peso políticas."
+            },
+            {
+                "fecha": {
+                    "$date": 1731431393270
+                },
+                "descripcion": "Señora lucha puso que deben has todos n."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c5"
+        },
+        "nombre": "menor",
+        "tipo": "Bomba",
+        "fabricante": "Corporacin Longoria-Palacios",
+        "fecha_adquisicion": {
+            "$date": 1760425830493
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c6"
+        },
+        "nombre": "tampoco",
+        "tipo": "Bomba",
+        "fabricante": "Club Ybarra y Nieves",
+        "fecha_adquisicion": {
+            "$date": 1760425830494
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1739988685227
+                },
+                "descripcion": "Constitución ayuda resulta hora son blanca luego medidas."
+            },
+            {
+                "fecha": {
+                    "$date": 1748038140586
+                },
+                "descripcion": "Llama calle manos ex empresas boca vista flores."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c7"
+        },
+        "nombre": "aquella",
+        "tipo": "Sensor",
+        "fabricante": "Fonseca y Nazario S.A. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830494
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c8"
+        },
+        "nombre": "supuesto",
+        "tipo": "Respirador",
+        "fabricante": "Robles, Borrego y Gómez",
+        "fecha_adquisicion": {
+            "$date": 1760425830494
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1748610582914
+                },
+                "descripcion": "Sigue c sólo diversas lucha oro."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283c9"
+        },
+        "nombre": "libertad",
+        "tipo": "Respirador",
+        "fabricante": "Industrias Grijalva-Collado",
+        "fecha_adquisicion": {
+            "$date": 1760425830495
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1757577897232
+                },
+                "descripcion": "París período antonio nuestra clase veces teatro."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ca"
+        },
+        "nombre": "mes",
+        "tipo": "Bomba",
+        "fabricante": "Aragón e Hijos",
+        "fecha_adquisicion": {
+            "$date": 1760425830495
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1740861170762
+                },
+                "descripcion": "Empresas marzo encima."
+            },
+            {
+                "fecha": {
+                    "$date": 1738233841846
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283cb"
+        },
+        "nombre": "música",
+        "tipo": "Sensor",
+        "fabricante": "Martínez y Portillo A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830496
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283cc"
+        },
+        "nombre": "espacio",
+        "tipo": "Bomba",
+        "fabricante": "Proyectos Calderón y Mojica",
+        "fecha_adquisicion": {
+            "$date": 1760425830496
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283cd"
+        },
+        "nombre": "humana",
+        "tipo": "Respirador",
+        "fabricante": "Fonseca-Osorio S.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830496
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ce"
+        },
+        "nombre": "etapa",
+        "tipo": "Monitor",
+        "fabricante": "Ochoa S.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830496
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283cf"
+        },
+        "nombre": "español",
+        "tipo": "Bomba",
+        "fabricante": "Medrano-Alva S.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830497
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1750325352882
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1754116695458
+                },
+                "descripcion": "Llegar hasta aparece precisamente partidos proyecto."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d0"
+        },
+        "nombre": "enfermedad",
+        "tipo": "Monitor",
+        "fabricante": "Industrias Gil-Otero",
+        "fecha_adquisicion": {
+            "$date": 1760425830497
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d1"
+        },
+        "nombre": "ideas",
+        "tipo": "Sensor",
+        "fabricante": "Grupo Quiñónez-Escalante",
+        "fecha_adquisicion": {
+            "$date": 1760425830498
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1746248515609
+                },
+                "descripcion": "Mismos hijos aquella encuentro consumo."
+            },
+            {
+                "fecha": {
+                    "$date": 1745473725803
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d2"
+        },
+        "nombre": "asunto",
+        "tipo": "Bomba",
+        "fabricante": "Corporacin Soria, Carvajal y Quezada",
+        "fecha_adquisicion": {
+            "$date": 1760425830498
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d3"
+        },
+        "nombre": "niveles",
+        "tipo": "Sensor",
+        "fabricante": "Industrias Zambrano-de la Torre",
+        "fecha_adquisicion": {
+            "$date": 1760425830498
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1759453946641
+                },
+                "descripcion": "Bueno alta pequeña."
+            },
+            {
+                "fecha": {
+                    "$date": 1747704552336
+                },
+                "descripcion": "Principales toma da derecho."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d4"
+        },
+        "nombre": "sé",
+        "tipo": "Monitor",
+        "fabricante": "Club Granado-Gonzales",
+        "fecha_adquisicion": {
+            "$date": 1760425830499
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1759986026140
+                },
+                "descripcion": "Papel españoles posible mirada juan."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d5"
+        },
+        "nombre": "cuales",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830499
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1739940145767
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d6"
+        },
+        "nombre": "hace",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830499
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1735413491552
+                },
+                "descripcion": "Dólares primero ambiente."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d7"
+        },
+        "nombre": "octubre",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830500
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d8"
+        },
+        "nombre": "poner",
+        "tipo": "Bomba",
+        "fabricante": "Laboratorios Escamilla-Contreras",
+        "fecha_adquisicion": {
+            "$date": 1760425830500
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283d9"
+        },
+        "nombre": "hospital",
+        "tipo": "Respirador",
+        "fabricante": "Maya, Quiroz y Tirado",
+        "fecha_adquisicion": {
+            "$date": 1760425830500
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283da"
+        },
+        "nombre": "llegar",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830501
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283db"
+        },
+        "nombre": "se",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830501
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1748961778129
+                },
+                "descripcion": "Decir futuro miedo buena si acuerdo diferentes formas."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283dc"
+        },
+        "nombre": "consejo",
+        "tipo": "Sensor",
+        "fabricante": "Alcaraz-Pedroza A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830501
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283dd"
+        },
+        "nombre": "juego",
+        "tipo": "Bomba",
+        "fabricante": "Jaramillo-Montalvo",
+        "fecha_adquisicion": {
+            "$date": 1760425830502
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1754977516262
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1738619227125
+                },
+                "descripcion": "Salida opinión trabajar tenemos siguiente industria considera diario."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283de"
+        },
+        "nombre": "tenían",
+        "tipo": "Bomba",
+        "fabricante": "Club Garica y Zayas",
+        "fecha_adquisicion": {
+            "$date": 1760425830502
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1733849308929
+                },
+                "descripcion": "Televisión adelante vuelve."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283df"
+        },
+        "nombre": "allí",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830503
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1731616361899
+                },
+                "descripcion": "P ayer ningún ciudad texto fecha calle en."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e0"
+        },
+        "nombre": "alta",
+        "tipo": "Monitor",
+        "fabricante": "Club Anaya y Zavala",
+        "fecha_adquisicion": {
+            "$date": 1760425830503
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1753911512250
+                },
+                "descripcion": "Zona desde nuestro única hizo."
+            },
+            {
+                "fecha": {
+                    "$date": 1746995684114
+                },
+                "descripcion": "Seguridad existencia importante ambiente conseguir ley riesgo."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e1"
+        },
+        "nombre": "etc",
+        "tipo": "Sensor",
+        "fabricante": "Barreto-Zamudio",
+        "fecha_adquisicion": {
+            "$date": 1760425830503
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1728907256625
+                },
+                "descripcion": "Tengo llegado comunidad derechos ejército centros."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e2"
+        },
+        "nombre": "tú",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830504
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e3"
+        },
+        "nombre": "local",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830504
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1744768032412
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1754174950270
+                },
+                "descripcion": "Donde particular ha les ciento persona."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e4"
+        },
+        "nombre": "noche",
+        "tipo": "Sensor",
+        "fabricante": "Vela-Márquez y Asociados",
+        "fecha_adquisicion": {
+            "$date": 1760425830505
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1746439268675
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1754799808900
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e5"
+        },
+        "nombre": "ocasiones",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830505
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1740522211815
+                },
+                "descripcion": "Jóvenes tu partir s carta."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e6"
+        },
+        "nombre": "no",
+        "tipo": "Bomba",
+        "fabricante": "Industrias Esquivel-Porras",
+        "fecha_adquisicion": {
+            "$date": 1760425830505
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1756273295731
+                },
+                "descripcion": "Lado hijos objeto si zona iba chile."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e7"
+        },
+        "nombre": "estar",
+        "tipo": "Monitor",
+        "fabricante": "Véliz-Hernandes",
+        "fecha_adquisicion": {
+            "$date": 1760425830506
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1756648474519
+                },
+                "descripcion": "Campo pasar vivir."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e8"
+        },
+        "nombre": "serán",
+        "tipo": "Monitor",
+        "fabricante": "Ceja-Munguía S.A.",
+        "fecha_adquisicion": {
+            "$date": 1760425830506
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1746377753732
+                },
+                "descripcion": "Única llegó aparece nada electoral u maría."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283e9"
+        },
+        "nombre": "actual",
+        "tipo": "Sensor",
+        "fabricante": "Fuentes-Martínez",
+        "fecha_adquisicion": {
+            "$date": 1760425830506
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1740514890736
+                },
+                "descripcion": "Crecimiento resultados nadie formas relaciones."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ea"
+        },
+        "nombre": "electoral",
+        "tipo": "Bomba",
+        "fabricante": "Rico, Porras y Esquibel",
+        "fecha_adquisicion": {
+            "$date": 1760425830507
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1731493739925
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1732884576030
+                },
+                "descripcion": "Bien así perdido aquellas difícil intereses."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283eb"
+        },
+        "nombre": "me",
+        "tipo": "Bomba",
+        "fabricante": "Barreto e Hijos",
+        "fecha_adquisicion": {
+            "$date": 1760425830507
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1751562032795
+                },
+                "descripcion": "Unidos soy comunidad luego causa cuya."
+            },
+            {
+                "fecha": {
+                    "$date": 1758737270128
+                },
+                "descripcion": "Niveles justicia buenos pueden."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ec"
+        },
+        "nombre": "tipo",
+        "tipo": "Respirador",
+        "fabricante": "Villareal, Quintero y Llamas",
+        "fecha_adquisicion": {
+            "$date": 1760425830508
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ed"
+        },
+        "nombre": "sea",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830508
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ee"
+        },
+        "nombre": "sin",
+        "tipo": "Bomba",
+        "fabricante": "Gollum S.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830508
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1733049233058
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ef"
+        },
+        "nombre": "cuya",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830509
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f0"
+        },
+        "nombre": "estados",
+        "tipo": "Monitor",
+        "fabricante": "Industrias Corrales y Manzanares",
+        "fecha_adquisicion": {
+            "$date": 1760425830509
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1741327903779
+                },
+                "descripcion": "Diario juicio nivel van."
+            },
+            {
+                "fecha": {
+                    "$date": 1730554063244
+                },
+                "descripcion": "Nuevo participación puesto propuesta."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f1"
+        },
+        "nombre": "autoridades",
+        "tipo": "Bomba",
+        "fabricante": "Cervantes-Solano",
+        "fecha_adquisicion": {
+            "$date": 1760425830509
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1754561176599
+                },
+                "descripcion": "Habla septiembre según."
+            },
+            {
+                "fecha": {
+                    "$date": 1729180314161
+                },
+                "descripcion": "Tu trabajadores proyecto operación total."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f2"
+        },
+        "nombre": "vamos",
+        "tipo": "Respirador",
+        "fecha_adquisicion": {
+            "$date": 1760425830510
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1753924764600
+                },
+                "descripcion": "Exterior pues distintas cambio fuerte desde juan cargo."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f3"
+        },
+        "nombre": "cuando",
+        "tipo": "Respirador",
+        "fabricante": "Lebrón y Almanza S.A.",
+        "fecha_adquisicion": {
+            "$date": 1760425830510
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1756682036137
+                },
+                "descripcion": "Muerto posible palabra día caso palabra esto fútbol."
+            },
+            {
+                "fecha": {
+                    "$date": 1759948241400
+                },
+                "descripcion": "Horas carrera hacía pasa español grupo ejemplo tampoco."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f4"
+        },
+        "nombre": "materia",
+        "tipo": "Monitor",
+        "fabricante": "Acuña S.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830511
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f5"
+        },
+        "nombre": "puede",
+        "tipo": "Sensor",
+        "fabricante": "Pulido-Zayas A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830511
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1729807746301
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1732290950937
+                },
+                "descripcion": "Manera pp asunto aun niveles sentido sueño."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f6"
+        },
+        "nombre": "una",
+        "tipo": "Monitor",
+        "fabricante": "Alcántar A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830511
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1740282892718
+                },
+                "descripcion": "Importancia sin rey precio habían."
+            },
+            {
+                "fecha": {
+                    "$date": 1740492344924
+                },
+                "descripcion": "Dos pública van primeras orden pregunta."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f7"
+        },
+        "nombre": "alguna",
+        "tipo": "Bomba",
+        "fabricante": "Club Montoya, Alarcón y Padrón",
+        "fecha_adquisicion": {
+            "$date": 1760425830512
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1760179283475
+                },
+                "descripcion": "Necesidad cuadro tengo pequeña fuera posibilidades."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f8"
+        },
+        "nombre": "estoy",
+        "tipo": "Respirador",
+        "fabricante": "Sanabria y Alcala y Asociados",
+        "fecha_adquisicion": {
+            "$date": 1760425830512
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1738732983346
+                },
+                "descripcion": "Ella plazo final pueda mano sur."
+            },
+            {
+                "fecha": {
+                    "$date": 1750740296832
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283f9"
+        },
+        "nombre": "he",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830513
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1744999512203
+                },
+                "descripcion": "Mejores segundo dejar precio amigos esta."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283fa"
+        },
+        "nombre": "llamado",
+        "tipo": "Bomba",
+        "fabricante": "Madrigal-Chávez y Asociados",
+        "fecha_adquisicion": {
+            "$date": 1760425830513
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1729017119874
+                },
+                "descripcion": "Primero unión nombre pueden título aquella carne buenos."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283fb"
+        },
+        "nombre": "trata",
+        "tipo": "Bomba",
+        "fabricante": "Valle, Maldonado y Ornelas",
+        "fecha_adquisicion": {
+            "$date": 1760425830514
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1760124180455
+                },
+                "descripcion": "Poder tu formas la."
+            },
+            {
+                "fecha": {
+                    "$date": 1758392299833
+                },
+                "descripcion": "Escuela suerte aspecto saber aquí todavía."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283fc"
+        },
+        "nombre": "siguiente",
+        "tipo": "Bomba",
+        "fabricante": "Club Orozco-Montes",
+        "fecha_adquisicion": {
+            "$date": 1760425830514
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283fd"
+        },
+        "nombre": "espacio",
+        "tipo": "Monitor",
+        "fabricante": "Gamez, Valladares y Valdés",
+        "fecha_adquisicion": {
+            "$date": 1760425830514
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283fe"
+        },
+        "nombre": "van",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830515
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1749724741934
+                },
+                "descripcion": "Fueron uno análisis junio sociales."
+            },
+            {
+                "fecha": {
+                    "$date": 1731516196866
+                },
+                "descripcion": "Base octubre les cuatro."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02283ff"
+        },
+        "nombre": "anterior",
+        "tipo": "Respirador",
+        "fabricante": "Sanches-Saiz",
+        "fecha_adquisicion": {
+            "$date": 1760425830515
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228400"
+        },
+        "nombre": "congreso",
+        "tipo": "Respirador",
+        "fecha_adquisicion": {
+            "$date": 1760425830515
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228401"
+        },
+        "nombre": "hablar",
+        "tipo": "Respirador",
+        "fabricante": "Grupo Luna-Zedillo",
+        "fecha_adquisicion": {
+            "$date": 1760425830516
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1757322620523
+                },
+                "descripcion": "Autor desarrollo cerca cosas efecto."
+            },
+            {
+                "fecha": {
+                    "$date": 1736588021524
+                },
+                "descripcion": "Realidad respuesta camino libre."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228402"
+        },
+        "nombre": "de",
+        "tipo": "Monitor",
+        "fabricante": "Leiva, Mejía y Bustamante",
+        "fecha_adquisicion": {
+            "$date": 1760425830516
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228403"
+        },
+        "nombre": "dejar",
+        "tipo": "Bomba",
+        "fabricante": "Moya, Concepción y Páez",
+        "fecha_adquisicion": {
+            "$date": 1760425830516
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228404"
+        },
+        "nombre": "muchas",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830517
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1754683065904
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228405"
+        },
+        "nombre": "carlos",
+        "tipo": "Bomba",
+        "fabricante": "Sisneros S.A. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830517
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1740886134820
+                },
+                "descripcion": "Universidad objetivo corazón principal tratamiento centro sea padres."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228406"
+        },
+        "nombre": "nacional",
+        "tipo": "Monitor",
+        "fabricante": "Industrias Fonseca-Caballero",
+        "fecha_adquisicion": {
+            "$date": 1760425830517
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1729671380308
+                },
+                "descripcion": "Apoyo mucho problema ninguna victoria manuel."
+            },
+            {
+                "fecha": {
+                    "$date": 1743351376511
+                },
+                "descripcion": "Pasado concepto tenemos don luis calidad."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228407"
+        },
+        "nombre": "santiago",
+        "tipo": "Sensor",
+        "fabricante": "Romo e Hijos",
+        "fecha_adquisicion": {
+            "$date": 1760425830518
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228408"
+        },
+        "nombre": "económico",
+        "tipo": "Sensor",
+        "fabricante": "Industrias Santana, Quiñónez y Colón",
+        "fecha_adquisicion": {
+            "$date": 1760425830518
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1734584531297
+                },
+                "descripcion": "Formas música mantener profesional."
+            },
+            {
+                "fecha": {
+                    "$date": 1736406929678
+                },
+                "descripcion": "Congreso garcía asimismo práctica esta precio nacional."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228409"
+        },
+        "nombre": "tenían",
+        "tipo": "Monitor",
+        "fabricante": "Santillán-Echeverría",
+        "fecha_adquisicion": {
+            "$date": 1760425830519
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1750157323324
+                },
+                "descripcion": "Su conocer ningún ahora cuerpo."
+            },
+            {
+                "fecha": {
+                    "$date": 1739099021035
+                },
+                "descripcion": "Paso máximo nuevos importante."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022840a"
+        },
+        "nombre": "suelo",
+        "tipo": "Sensor",
+        "fecha_adquisicion": {
+            "$date": 1760425830519
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1757195198238
+                },
+                "descripcion": "Última nuestro muerto sala izquierda plaza."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022840b"
+        },
+        "nombre": "hombres",
+        "tipo": "Monitor",
+        "fabricante": "Posada y Avilés S. R.L. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830519
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1746854181922
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022840c"
+        },
+        "nombre": "último",
+        "tipo": "Bomba",
+        "fabricante": "Despacho Ordóñez, Quiroz y Santillán",
+        "fecha_adquisicion": {
+            "$date": 1760425830520
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022840d"
+        },
+        "nombre": "para",
+        "tipo": "Monitor",
+        "fabricante": "Jáquez y Arias y Asociados",
+        "fecha_adquisicion": {
+            "$date": 1760425830520
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1759860003120
+                },
+                "descripcion": "Un dio poco película últimos propia ciento."
+            },
+            {
+                "fecha": {
+                    "$date": 1730975375497
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022840e"
+        },
+        "nombre": "revolución",
+        "tipo": "Respirador",
+        "fabricante": "Escobedo-Cardona",
+        "fecha_adquisicion": {
+            "$date": 1760425830520
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022840f"
+        },
+        "nombre": "ley",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830521
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228410"
+        },
+        "nombre": "don",
+        "tipo": "Bomba",
+        "fabricante": "Club Rolón-Borrego",
+        "fecha_adquisicion": {
+            "$date": 1760425830521
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1751365662549
+                },
+                "descripcion": "Verdad partir creo podemos libro otro humana."
+            },
+            {
+                "fecha": {
+                    "$date": 1748999098218
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228411"
+        },
+        "nombre": "sola",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830521
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1735157771821
+                },
+                "descripcion": "Mismo estos importancia políticas campo cambio."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228412"
+        },
+        "nombre": "principio",
+        "tipo": "Respirador",
+        "fabricante": "Trejo-Tovar",
+        "fecha_adquisicion": {
+            "$date": 1760425830522
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228413"
+        },
+        "nombre": "precios",
+        "tipo": "Monitor",
+        "fabricante": "Figueroa y Tirado S. R.L. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830522
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1732898826036
+                },
+                "descripcion": "Sido quería dolor hecho ahora sector."
+            },
+            {
+                "fecha": {
+                    "$date": 1730201883543
+                },
+                "descripcion": "Conocimiento uso a."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228414"
+        },
+        "nombre": "podría",
+        "tipo": "Respirador",
+        "fabricante": "Arce S.A. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830523
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1733225455451
+                },
+                "descripcion": "Mayor meses metros actividad pequeña."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228415"
+        },
+        "nombre": "concepto",
+        "tipo": "Respirador",
+        "fabricante": "Despacho Salazar-Terrazas",
+        "fecha_adquisicion": {
+            "$date": 1760425830523
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1731194214282
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228416"
+        },
+        "nombre": "sean",
+        "tipo": "Bomba",
+        "fabricante": "Linares-Rocha",
+        "fecha_adquisicion": {
+            "$date": 1760425830523
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1740742415667
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1747606328963
+                },
+                "descripcion": "Investigación orden nacional partir tenían."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228417"
+        },
+        "nombre": "creación",
+        "tipo": "Bomba",
+        "fabricante": "Club Ibarra, Tapia y Jaimes",
+        "fecha_adquisicion": {
+            "$date": 1760425830524
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1744064559908
+                },
+                "descripcion": "Sangre tal ejemplo santa."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228418"
+        },
+        "nombre": "i",
+        "tipo": "Sensor",
+        "fabricante": "Despacho Romo-Farías",
+        "fecha_adquisicion": {
+            "$date": 1760425830524
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228419"
+        },
+        "nombre": "resultado",
+        "tipo": "Monitor",
+        "fabricante": "Grupo Corral-Tello",
+        "fecha_adquisicion": {
+            "$date": 1760425830524
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022841a"
+        },
+        "nombre": "ministro",
+        "tipo": "Bomba",
+        "fabricante": "Grupo Ibarra-Rojas",
+        "fecha_adquisicion": {
+            "$date": 1760425830525
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1756015224170
+                },
+                "descripcion": "Línea dirección medida supuesto."
+            },
+            {
+                "fecha": {
+                    "$date": 1733448074183
+                },
+                "descripcion": "Valores hubiera mejores unos."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022841b"
+        },
+        "nombre": "fiscal",
+        "tipo": "Monitor",
+        "fabricante": "Castañeda-Morales",
+        "fecha_adquisicion": {
+            "$date": 1760425830525
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1741294727774
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1744720745167
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022841c"
+        },
+        "nombre": "esa",
+        "tipo": "Sensor",
+        "fabricante": "Urbina S.A.",
+        "fecha_adquisicion": {
+            "$date": 1760425830526
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1753074591541
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1737766096524
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022841d"
+        },
+        "nombre": "lenguaje",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830526
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1752634220401
+                },
+                "descripcion": "Los ningún final."
+            },
+            {
+                "fecha": {
+                    "$date": 1730209547848
+                },
+                "descripcion": "Su mientras su."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022841e"
+        },
+        "nombre": "manuel",
+        "tipo": "Bomba",
+        "fabricante": "Industrias Romero, Cornejo y Gaytán",
+        "fecha_adquisicion": {
+            "$date": 1760425830527
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022841f"
+        },
+        "nombre": "habían",
+        "tipo": "Bomba",
+        "fabricante": "López, Barragán y Marrero",
+        "fecha_adquisicion": {
+            "$date": 1760425830527
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1756306621864
+                },
+                "descripcion": "Hora diez entonces hacerlo llevar era."
+            },
+            {
+                "fecha": {
+                    "$date": 1729689327618
+                },
+                "descripcion": "Problemas noche mismos."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228420"
+        },
+        "nombre": "sé",
+        "tipo": "Bomba",
+        "fabricante": "Proyectos Hernádez, Báez y Laboy",
+        "fecha_adquisicion": {
+            "$date": 1760425830528
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1733280597489
+                },
+                "descripcion": "Larga piel principal capaz frente."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228421"
+        },
+        "nombre": "ciencia",
+        "tipo": "Sensor",
+        "fabricante": "Industrias Gallardo-Chávez",
+        "fecha_adquisicion": {
+            "$date": 1760425830528
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1740993493640
+                },
+                "descripcion": "Partir oficial cama marcha oposición ejército que."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228422"
+        },
+        "nombre": "ocasiones",
+        "tipo": "Sensor",
+        "fabricante": "García y Ibarra e Hijos",
+        "fecha_adquisicion": {
+            "$date": 1760425830529
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228423"
+        },
+        "nombre": "méxico",
+        "tipo": "Bomba",
+        "fabricante": "Soria y Quiñones S. R.L. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830529
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1745566241708
+                },
+                "descripcion": "Es agua figura muchos unión universidad."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228424"
+        },
+        "nombre": "sociales",
+        "tipo": "Monitor",
+        "fecha_adquisicion": {
+            "$date": 1760425830530
+        },
+        "en_uso": true,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228425"
+        },
+        "nombre": "mí",
+        "tipo": "Monitor",
+        "fabricante": "Duarte S. R.L. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830530
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1755723431524
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228426"
+        },
+        "nombre": "realizar",
+        "tipo": "Bomba",
+        "fecha_adquisicion": {
+            "$date": 1760425830530
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1741546777667
+                },
+                "descripcion": "Cierto actividad muestra."
+            },
+            {
+                "fecha": {
+                    "$date": 1729781655255
+                },
+                "descripcion": "Formación empresa sol."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228427"
+        },
+        "nombre": "izquierda",
+        "tipo": "Monitor",
+        "fabricante": "Industrias Duarte, Villanueva y Ceja",
+        "fecha_adquisicion": {
+            "$date": 1760425830531
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228428"
+        },
+        "nombre": "mayoría",
+        "tipo": "Respirador",
+        "fecha_adquisicion": {
+            "$date": 1760425830531
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1758774068768
+                },
+                "descripcion": "Cuerpo justicia pueden razones general dar proceso."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228429"
+        },
+        "nombre": "quiero",
+        "tipo": "Respirador",
+        "fabricante": "Grupo Rosas, Almonte y Tejada",
+        "fecha_adquisicion": {
+            "$date": 1760425830532
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022842a"
+        },
+        "nombre": "puerta",
+        "tipo": "Sensor",
+        "fabricante": "Proyectos Sánchez y Lara",
+        "fecha_adquisicion": {
+            "$date": 1760425830532
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022842b"
+        },
+        "nombre": "hablar",
+        "tipo": "Sensor",
+        "fabricante": "Pelayo S.A. de C.V.",
+        "fecha_adquisicion": {
+            "$date": 1760425830532
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1743143159878
+                }
+            },
+            {
+                "fecha": {
+                    "$date": 1744146093442
+                },
+                "descripcion": "Aun haya cuya casi."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022842c"
+        },
+        "nombre": "estoy",
+        "tipo": "Sensor",
+        "fabricante": "Guzmán, Ramos y Tijerina",
+        "fecha_adquisicion": {
+            "$date": 1760425830533
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1750320688600
+                },
+                "descripcion": "Ejemplo otro decía se tras."
+            },
+            {
+                "fecha": {
+                    "$date": 1760026007798
+                },
+                "descripcion": "Aspecto mitad gobierno jorge materia reforma."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022842d"
+        },
+        "nombre": "sea",
+        "tipo": "Respirador",
+        "fabricante": "Valentín-Maestas e Hijos",
+        "fecha_adquisicion": {
+            "$date": 1760425830534
+        },
+        "en_uso": false,
+        "mantenimiento": []
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022842e"
+        },
+        "nombre": "ni",
+        "tipo": "Respirador",
+        "fabricante": "Zavala y Huerta A.C.",
+        "fecha_adquisicion": {
+            "$date": 1760425830534
+        },
+        "en_uso": true,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1746710802600
+                },
+                "descripcion": "Joven muchos hizo bien."
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022842f"
+        },
+        "nombre": "diversos",
+        "tipo": "Respirador",
+        "fecha_adquisicion": {
+            "$date": 1760425830535
+        },
+        "en_uso": false,
+        "mantenimiento": [
+            {
+                "fecha": {
+                    "$date": 1736737636272
+                },
+                "descripcion": "Mayo quería tenemos fuentes cambios."
+            }
+        ]
+    }
+]

@@ -1,0 +1,6663 @@
+[
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a0"
+        },
+        "nombre": "Dr. Homero Mayorga",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-85732",
+        "fecha_contratacion": {
+            "$date": 1577964044542
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Cortés e Hijos",
+            "sala": "Sala 13"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a1"
+        },
+        "nombre": "Teresa Miramontes",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-82305",
+        "fecha_contratacion": {
+            "$date": 1565796002808
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Ríos y Jasso y Asociados",
+            "sala": "Sala 26"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a2"
+        },
+        "nombre": "Patricia Bianca Zaragoza",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-30057",
+        "fecha_contratacion": {
+            "$date": 1531323786303
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Duarte y Olivárez y Asociados",
+            "sala": "Sala 73"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a3"
+        },
+        "nombre": "Ángela Mercado",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-53267",
+        "fecha_contratacion": {
+            "$date": 1545149842239
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Industrias Guerrero-Varela",
+            "sala": "Sala 57"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a4"
+        },
+        "nombre": "Liliana Cristian Torres",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-80140",
+        "fecha_contratacion": {
+            "$date": 1460055687777
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Esquivel y Olmos"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a5"
+        },
+        "nombre": "Sr(a). Caridad Villalobos",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-71613",
+        "fecha_contratacion": {
+            "$date": 1582373996646
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Márquez-Sanches"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a6"
+        },
+        "nombre": "Gonzalo Rangel Quiñones",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-93099",
+        "fecha_contratacion": {
+            "$date": 1462652529304
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Zambrano-Baeza e Hijos",
+            "sala": "Sala 69"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a7"
+        },
+        "nombre": "Camila Araceli Niño",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-87438",
+        "fecha_contratacion": {
+            "$date": 1566295871253
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Regalado, Posada y Vanegas",
+            "sala": "Sala 00"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a8"
+        },
+        "nombre": "Elvira Reynaldo Salgado Blanco",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-15071",
+        "fecha_contratacion": {
+            "$date": 1495484556492
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Montalvo, Olvera y Vela",
+            "sala": "Sala 81"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282a9"
+        },
+        "nombre": "José Emilio Sotelo Salcido",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-06088",
+        "fecha_contratacion": {
+            "$date": 1578177905947
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Zaragoza e Hijos"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282aa"
+        },
+        "nombre": "Felipe Federico Cervántez Sevilla",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-35109",
+        "fecha_contratacion": {
+            "$date": 1639760722224
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Castillo-Torres",
+            "sala": "Sala 64"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ab"
+        },
+        "nombre": "César Uriel Cuellar Marrero",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-86715",
+        "fecha_contratacion": {
+            "$date": 1670471932741
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Ureña-de León"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ac"
+        },
+        "nombre": "José Eduardo Escalante",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-70360",
+        "fecha_contratacion": {
+            "$date": 1687400104131
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Tejada-Montenegro S. R.L. de C.V.",
+            "sala": "Sala 04"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ad"
+        },
+        "nombre": "Julio Patricia Medrano Lemus",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-56107",
+        "fecha_contratacion": {
+            "$date": 1525608457029
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Salinas y Collazo"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ae"
+        },
+        "nombre": "Dulce María Benito Vaca Altamirano",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-00571",
+        "fecha_contratacion": {
+            "$date": 1637394915376
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Godoy y Bétancourt",
+            "sala": "Sala 48"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282af"
+        },
+        "nombre": "Alicia Cristal Saiz",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-10384",
+        "fecha_contratacion": {
+            "$date": 1581373403374
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Franco, Gonzales y Lemus",
+            "sala": "Sala 79"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b0"
+        },
+        "nombre": "Dr. Elsa Prieto",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-38538",
+        "fecha_contratacion": {
+            "$date": 1732768248894
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Posada-Garrido"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b1"
+        },
+        "nombre": "Mtro. Luis Miguel de la Fuente",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-57323",
+        "fecha_contratacion": {
+            "$date": 1549460515137
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Barrientos, Olvera y Gamboa",
+            "sala": "Sala 02"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b2"
+        },
+        "nombre": "María Eugenia Barajas",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-49555",
+        "fecha_contratacion": {
+            "$date": 1700763765058
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Montañez y Medina e Hijos"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b3"
+        },
+        "nombre": "Mtro. Eduardo Segura",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-83554",
+        "fecha_contratacion": {
+            "$date": 1562226457297
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Collado S.A."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b4"
+        },
+        "nombre": "Lic. Mariana Espinal",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-73129",
+        "fecha_contratacion": {
+            "$date": 1575560639850
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Barragán y Navarro",
+            "sala": "Sala 45"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b5"
+        },
+        "nombre": "Bernabé Paulina Saldaña Gil",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-96285",
+        "fecha_contratacion": {
+            "$date": 1736589079162
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Paz-Franco",
+            "sala": "Sala 31"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b6"
+        },
+        "nombre": "Anel Mauro Segovia",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-18140",
+        "fecha_contratacion": {
+            "$date": 1484790474857
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Valencia, Solorzano y Pineda"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b7"
+        },
+        "nombre": "Óscar Alonzo Granados",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-41788",
+        "fecha_contratacion": {
+            "$date": 1583405729460
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Mejía S.A. de C.V."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b8"
+        },
+        "nombre": "Jos Durán",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-21267",
+        "fecha_contratacion": {
+            "$date": 1511176136626
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Ledesma y Melgar S.A. de C.V."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282b9"
+        },
+        "nombre": "Octavio Pabón",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-41248",
+        "fecha_contratacion": {
+            "$date": 1579204019039
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Ávalos, Véliz y Salazar",
+            "sala": "Sala 93"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ba"
+        },
+        "nombre": "Bernardo Díaz Zamudio",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-86023",
+        "fecha_contratacion": {
+            "$date": 1726484032834
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Muñiz S. R.L. de C.V.",
+            "sala": "Sala 72"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282bb"
+        },
+        "nombre": "Yolanda Óscar Gutiérrez",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-25585",
+        "fecha_contratacion": {
+            "$date": 1520537780336
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Piña, Garrido y Fuentes"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282bc"
+        },
+        "nombre": "Uriel Elisa Melgar Santana",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-52400",
+        "fecha_contratacion": {
+            "$date": 1472332207619
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Longoria S. R.L. de C.V.",
+            "sala": "Sala 14"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282bd"
+        },
+        "nombre": "Cecilia Óscar Pabón",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-80745",
+        "fecha_contratacion": {
+            "$date": 1463594097674
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Carvajal y Asociados",
+            "sala": "Sala 61"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282be"
+        },
+        "nombre": "Lorenzo Montes Concepción",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-71440",
+        "fecha_contratacion": {
+            "$date": 1695284354045
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Peralta, Gómez y Godoy",
+            "sala": "Sala 84"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282bf"
+        },
+        "nombre": "Asunción Centeno",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-06668",
+        "fecha_contratacion": {
+            "$date": 1511336176503
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Vásquez, Soliz y Zarate",
+            "sala": "Sala 21"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c0"
+        },
+        "nombre": "Bernabé Contreras Huerta",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-63881",
+        "fecha_contratacion": {
+            "$date": 1760076311645
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Montemayor, Trejo y Trujillo"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c1"
+        },
+        "nombre": "Karina Beltrán Rico",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-49556",
+        "fecha_contratacion": {
+            "$date": 1629782722207
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Esquibel y Beltrán S.C.",
+            "sala": "Sala 20"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c2"
+        },
+        "nombre": "Ing. María Merino",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-06073",
+        "fecha_contratacion": {
+            "$date": 1591917468911
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Zelaya-Valentín S. R.L. de C.V.",
+            "sala": "Sala 36"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c3"
+        },
+        "nombre": "Dr. Lucía Zúñiga",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-94163",
+        "fecha_contratacion": {
+            "$date": 1511143354578
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Córdova-Estrada"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c4"
+        },
+        "nombre": "Homero Elvia Granado Holguín",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-52959",
+        "fecha_contratacion": {
+            "$date": 1660042630349
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Industrias Gallegos y Leiva"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c5"
+        },
+        "nombre": "Mauricio Godínez Rojas",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-10049",
+        "fecha_contratacion": {
+            "$date": 1603909609699
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Industrias Gamez-de León",
+            "sala": "Sala 64"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c6"
+        },
+        "nombre": "Cynthia Téllez Mesa",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-82165",
+        "fecha_contratacion": {
+            "$date": 1671770264901
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Jurado-Cano S.A.",
+            "sala": "Sala 52"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c7"
+        },
+        "nombre": "Mónica Palomino",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-37277",
+        "fecha_contratacion": {
+            "$date": 1490126685467
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Navarro-Perea",
+            "sala": "Sala 34"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c8"
+        },
+        "nombre": "Sr(a). José Santillán",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-61345",
+        "fecha_contratacion": {
+            "$date": 1747712628478
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corona-Valle S.A. de C.V.",
+            "sala": "Sala 41"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282c9"
+        },
+        "nombre": "Olga Iván Bañuelos Delgadillo",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-58736",
+        "fecha_contratacion": {
+            "$date": 1581122369316
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboy y Ureña S.C.",
+            "sala": "Sala 73"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ca"
+        },
+        "nombre": "Martha Carrero",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-83481",
+        "fecha_contratacion": {
+            "$date": 1569657061981
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Cabán y Gaitán",
+            "sala": "Sala 12"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282cb"
+        },
+        "nombre": "Trinidad Figueroa Lugo",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-16531",
+        "fecha_contratacion": {
+            "$date": 1714650121742
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Abrego, Candelaria y Elizondo"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282cc"
+        },
+        "nombre": "Raúl Arenas",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-76104",
+        "fecha_contratacion": {
+            "$date": 1507468213936
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Vallejo y Avilés",
+            "sala": "Sala 57"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282cd"
+        },
+        "nombre": "Pablo Adela Linares",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-90149",
+        "fecha_contratacion": {
+            "$date": 1705450234762
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Patiño-Escamilla",
+            "sala": "Sala 47"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ce"
+        },
+        "nombre": "Dr. Espartaco Castro",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-51405",
+        "fecha_contratacion": {
+            "$date": 1586148901039
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Montemayor-Partida",
+            "sala": "Sala 68"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282cf"
+        },
+        "nombre": "Gilberto Serrano Saiz",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-67941",
+        "fecha_contratacion": {
+            "$date": 1576401463625
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corona y Rico S.C."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d0"
+        },
+        "nombre": "Estefanía Macías Pedroza",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-90331",
+        "fecha_contratacion": {
+            "$date": 1722872628500
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Razo y Asociados",
+            "sala": "Sala 08"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d1"
+        },
+        "nombre": "Lic. Tania Marroquín",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-22594",
+        "fecha_contratacion": {
+            "$date": 1720247818199
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Padrón, Quiñones y Domínguez"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d2"
+        },
+        "nombre": "Pedro Leonel Caldera",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-28329",
+        "fecha_contratacion": {
+            "$date": 1557507652550
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Montaño y Castillo S. R.L. de C.V.",
+            "sala": "Sala 03"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d3"
+        },
+        "nombre": "Rosario Gerónimo Blanco",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-18286",
+        "fecha_contratacion": {
+            "$date": 1685196370988
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Villareal-Cervantes",
+            "sala": "Sala 82"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d4"
+        },
+        "nombre": "Guillermina Alvaro Escalante",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-67845",
+        "fecha_contratacion": {
+            "$date": 1484008703515
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Salinas y Arellano y Asociados",
+            "sala": "Sala 78"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d5"
+        },
+        "nombre": "Reynaldo Barragán Alvarado",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-82789",
+        "fecha_contratacion": {
+            "$date": 1543423278870
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Chapa y Piña",
+            "sala": "Sala 29"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d6"
+        },
+        "nombre": "Mtro. Arcelia Uribe",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-86129",
+        "fecha_contratacion": {
+            "$date": 1510083437714
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Arenas y Cadena",
+            "sala": "Sala 78"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d7"
+        },
+        "nombre": "Vicente Isabel Rodríguez",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-24323",
+        "fecha_contratacion": {
+            "$date": 1553835431914
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Industrias Meraz y Aguilar",
+            "sala": "Sala 97"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d8"
+        },
+        "nombre": "María Luisa Silvano Angulo",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-24967",
+        "fecha_contratacion": {
+            "$date": 1449208599949
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Duarte-Sisneros"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282d9"
+        },
+        "nombre": "Ing. Frida Muro",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-14701",
+        "fecha_contratacion": {
+            "$date": 1530327458383
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Feliciano S. R.L. de C.V."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282da"
+        },
+        "nombre": "Yeni Rosario Armendáriz",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-65611",
+        "fecha_contratacion": {
+            "$date": 1723416816548
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Barrios, Molina y Solano",
+            "sala": "Sala 63"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282db"
+        },
+        "nombre": "Alfredo Humberto Pichardo Acuña",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-94256",
+        "fecha_contratacion": {
+            "$date": 1752711836946
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Jaimes y Villanueva S.A."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282dc"
+        },
+        "nombre": "Ing. Ana Guillen",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-23987",
+        "fecha_contratacion": {
+            "$date": 1619630574732
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Cornejo S.C.",
+            "sala": "Sala 82"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282dd"
+        },
+        "nombre": "Ángela Juana Herrera",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-77478",
+        "fecha_contratacion": {
+            "$date": 1611322893157
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Barreto y Mena",
+            "sala": "Sala 23"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282de"
+        },
+        "nombre": "Aurora Federico Guajardo",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-87471",
+        "fecha_contratacion": {
+            "$date": 1730510355379
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Rincón, Lucero y Vanegas",
+            "sala": "Sala 35"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282df"
+        },
+        "nombre": "Dr. Karla Colón",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-82792",
+        "fecha_contratacion": {
+            "$date": 1709725307723
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Barragán, Mora y Gollum"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e0"
+        },
+        "nombre": "Alfonso Mariana Enríquez Casárez",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-47283",
+        "fecha_contratacion": {
+            "$date": 1554155119748
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Barragán-Adame",
+            "sala": "Sala 61"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e1"
+        },
+        "nombre": "Julio César Gabriela Pantoja Sarabia",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-75205",
+        "fecha_contratacion": {
+            "$date": 1473218243163
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Ureña-Cruz",
+            "sala": "Sala 77"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e2"
+        },
+        "nombre": "Inés Guerra Niño",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-37023",
+        "fecha_contratacion": {
+            "$date": 1703523264445
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Cedillo-Fuentes",
+            "sala": "Sala 01"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e3"
+        },
+        "nombre": "Alfonso José Luis Montañez Almonte",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-92000",
+        "fecha_contratacion": {
+            "$date": 1713933791657
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Llamas y Linares"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e4"
+        },
+        "nombre": "Julia Francisco Ceballos",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-20383",
+        "fecha_contratacion": {
+            "$date": 1477789000942
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Mascareñas-Mateo"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e5"
+        },
+        "nombre": "Mtro. Noemí Noriega",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-25841",
+        "fecha_contratacion": {
+            "$date": 1467610115843
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Mares S.A."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e6"
+        },
+        "nombre": "Mitzy Germán de la Rosa",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-97508",
+        "fecha_contratacion": {
+            "$date": 1643701070998
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Villa-Campos"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e7"
+        },
+        "nombre": "Claudia Villa",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-69678",
+        "fecha_contratacion": {
+            "$date": 1627658364040
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Orta, Chavarría y Alonso",
+            "sala": "Sala 93"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e8"
+        },
+        "nombre": "Oswaldo Ríos",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-52725",
+        "fecha_contratacion": {
+            "$date": 1567909793423
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Sierra-Arroyo",
+            "sala": "Sala 54"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282e9"
+        },
+        "nombre": "Marcos Victoria de León",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-38360",
+        "fecha_contratacion": {
+            "$date": 1532572847841
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Tórrez y Mondragón S.A. de C.V.",
+            "sala": "Sala 36"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ea"
+        },
+        "nombre": "Mateo Emilio Calvillo",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-35520",
+        "fecha_contratacion": {
+            "$date": 1562583305861
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Baeza-Mojica"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282eb"
+        },
+        "nombre": "Cynthia Coronado",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-65716",
+        "fecha_contratacion": {
+            "$date": 1550884626929
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Quiñones S.A."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ec"
+        },
+        "nombre": "Angélica Raya Baeza",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-09740",
+        "fecha_contratacion": {
+            "$date": 1521400888881
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Esquivel-Perea y Asociados",
+            "sala": "Sala 61"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ed"
+        },
+        "nombre": "Lic. Paulina Viera",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-92668",
+        "fecha_contratacion": {
+            "$date": 1540216625322
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Orozco, Amador y Ulloa"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ee"
+        },
+        "nombre": "Ing. Eva Matos",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-48160",
+        "fecha_contratacion": {
+            "$date": 1487574532903
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Mayorga, Laboy y Ochoa",
+            "sala": "Sala 00"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ef"
+        },
+        "nombre": "Ing. Abigail Maldonado",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-06456",
+        "fecha_contratacion": {
+            "$date": 1710567899278
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Cortez, Nieto y Jasso",
+            "sala": "Sala 16"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f0"
+        },
+        "nombre": "José María Alejandro",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-40709",
+        "fecha_contratacion": {
+            "$date": 1482197863787
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Casares S.C.",
+            "sala": "Sala 54"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f1"
+        },
+        "nombre": "Rodolfo José Eduardo Huerta",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-61779",
+        "fecha_contratacion": {
+            "$date": 1752412322792
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Calvillo-Puente",
+            "sala": "Sala 69"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f2"
+        },
+        "nombre": "Débora Fierro",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-81804",
+        "fecha_contratacion": {
+            "$date": 1745305709280
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Preciado, Narváez y Godoy"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f3"
+        },
+        "nombre": "Octavio Merino",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-53499",
+        "fecha_contratacion": {
+            "$date": 1590302243631
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Merino, Heredia y Véliz",
+            "sala": "Sala 89"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f4"
+        },
+        "nombre": "Margarita Aponte",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-58199",
+        "fecha_contratacion": {
+            "$date": 1719616881511
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Palacios-Arellano",
+            "sala": "Sala 12"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f5"
+        },
+        "nombre": "Dr. Zeferino Gurule",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-59873",
+        "fecha_contratacion": {
+            "$date": 1756795277383
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Quintero y Barrientos",
+            "sala": "Sala 06"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f6"
+        },
+        "nombre": "Diana Lerma Alcántar",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-29461",
+        "fecha_contratacion": {
+            "$date": 1452988293826
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Madera y Acevedo",
+            "sala": "Sala 70"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f7"
+        },
+        "nombre": "Ofelia Castillo Valencia",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-74727",
+        "fecha_contratacion": {
+            "$date": 1510596530122
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Santillán y Aguirre",
+            "sala": "Sala 94"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f8"
+        },
+        "nombre": "Mayte Ernesto Ayala",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-20858",
+        "fecha_contratacion": {
+            "$date": 1744590836483
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Avilés y Estévez S.A.",
+            "sala": "Sala 46"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282f9"
+        },
+        "nombre": "Mauro Lozano Jimínez",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-27674",
+        "fecha_contratacion": {
+            "$date": 1680288358739
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Cabrera, Serna y Maya",
+            "sala": "Sala 00"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282fa"
+        },
+        "nombre": "Lic. Rubén Valles",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-71240",
+        "fecha_contratacion": {
+            "$date": 1480477650669
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Ruelas y Arevalo S.C.",
+            "sala": "Sala 95"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282fb"
+        },
+        "nombre": "Homero Silvia Caballero Cotto",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-96646",
+        "fecha_contratacion": {
+            "$date": 1726956399311
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Guardado, Orosco y Bermúdez",
+            "sala": "Sala 04"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282fc"
+        },
+        "nombre": "Indira Briseño Cintrón",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-92345",
+        "fecha_contratacion": {
+            "$date": 1548638682698
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Aguilar y Ocasio",
+            "sala": "Sala 19"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282fd"
+        },
+        "nombre": "Martha Alcala Regalado",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-76366",
+        "fecha_contratacion": {
+            "$date": 1656856096289
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Apodaca-Piña",
+            "sala": "Sala 04"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282fe"
+        },
+        "nombre": "Sessa Elsa Robledo",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-95961",
+        "fecha_contratacion": {
+            "$date": 1756404448475
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Meléndez, Carreón y Ceja",
+            "sala": "Sala 44"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02282ff"
+        },
+        "nombre": "Citlali Ponce Maldonado",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-28371",
+        "fecha_contratacion": {
+            "$date": 1747150134883
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Rascón, Escamilla y Jaime",
+            "sala": "Sala 52"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228300"
+        },
+        "nombre": "Mtro. Indira Gallardo",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-38828",
+        "fecha_contratacion": {
+            "$date": 1758164733432
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Barraza-Amador"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228301"
+        },
+        "nombre": "Irene Galván Armendáriz",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-95432",
+        "fecha_contratacion": {
+            "$date": 1638609088187
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Fajardo, Chávez y Orellana",
+            "sala": "Sala 83"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228302"
+        },
+        "nombre": "Gustavo Rolón",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-06328",
+        "fecha_contratacion": {
+            "$date": 1751308058157
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Mendoza, Calvillo y Posada",
+            "sala": "Sala 92"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228303"
+        },
+        "nombre": "Laura Cazares",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-44024",
+        "fecha_contratacion": {
+            "$date": 1612818605220
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Barragán-Mata",
+            "sala": "Sala 61"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228304"
+        },
+        "nombre": "Rosario Baca Cortez",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-95621",
+        "fecha_contratacion": {
+            "$date": 1484892332163
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Prado y Ornelas"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228305"
+        },
+        "nombre": "Abelardo Verónica Arreola",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-44254",
+        "fecha_contratacion": {
+            "$date": 1608029346252
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Jaramillo, Batista y Bravo",
+            "sala": "Sala 88"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228306"
+        },
+        "nombre": "Hugo Medrano Solís",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-32341",
+        "fecha_contratacion": {
+            "$date": 1507294019294
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Zedillo y Ordóñez A.C.",
+            "sala": "Sala 73"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228307"
+        },
+        "nombre": "Zeferino Miguel Ángel Covarrubias Saldivar",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-43229",
+        "fecha_contratacion": {
+            "$date": 1517156408148
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Arce-Gollum",
+            "sala": "Sala 23"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228308"
+        },
+        "nombre": "Ing. Miguel Ureña",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-16784",
+        "fecha_contratacion": {
+            "$date": 1449613025085
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Calderón y Madrigal A.C.",
+            "sala": "Sala 76"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228309"
+        },
+        "nombre": "Ing. Marisol Sanches",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-23740",
+        "fecha_contratacion": {
+            "$date": 1649463633800
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Peralta, Mercado y Ozuna",
+            "sala": "Sala 77"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022830a"
+        },
+        "nombre": "Rodrigo Gabino Vallejo Marín",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-41241",
+        "fecha_contratacion": {
+            "$date": 1683290664553
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Irizarry S.A.",
+            "sala": "Sala 60"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022830b"
+        },
+        "nombre": "Dulce Gutiérrez",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-70642",
+        "fecha_contratacion": {
+            "$date": 1699198191878
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Cortés, Raya y Mercado",
+            "sala": "Sala 67"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022830c"
+        },
+        "nombre": "Zacarías Marín",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-07318",
+        "fecha_contratacion": {
+            "$date": 1620960395837
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Treviño-Paz",
+            "sala": "Sala 58"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022830d"
+        },
+        "nombre": "Abel Alvaro Mayorga Mascareñas",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-10726",
+        "fecha_contratacion": {
+            "$date": 1514187385107
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Salazar A.C."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022830e"
+        },
+        "nombre": "Eduardo Melgar Cisneros",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-99871",
+        "fecha_contratacion": {
+            "$date": 1521896186819
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Trejo-Batista",
+            "sala": "Sala 87"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022830f"
+        },
+        "nombre": "Leonor Garibay",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-97353",
+        "fecha_contratacion": {
+            "$date": 1522387943822
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Industrias Espinoza-Monroy",
+            "sala": "Sala 81"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228310"
+        },
+        "nombre": "Lic. Jorge Carreón",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-68716",
+        "fecha_contratacion": {
+            "$date": 1557581211573
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Esquibel-Carmona"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228311"
+        },
+        "nombre": "Mtro. Socorro Porras",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-66691",
+        "fecha_contratacion": {
+            "$date": 1701446793472
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Fajardo y Reyes S.C.",
+            "sala": "Sala 02"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228312"
+        },
+        "nombre": "Pablo Jesús Lomeli",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-15154",
+        "fecha_contratacion": {
+            "$date": 1531051001942
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Archuleta-Menchaca"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228313"
+        },
+        "nombre": "Natividad René Rivera",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-97813",
+        "fecha_contratacion": {
+            "$date": 1751022882331
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Saucedo, Medina y Caballero",
+            "sala": "Sala 25"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228314"
+        },
+        "nombre": "Víctor Mitzy Bonilla",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-59283",
+        "fecha_contratacion": {
+            "$date": 1477914359382
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Maya-Saiz A.C.",
+            "sala": "Sala 23"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228315"
+        },
+        "nombre": "Elvira Ponce Cedillo",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-08655",
+        "fecha_contratacion": {
+            "$date": 1701390167794
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Gallegos-Páez",
+            "sala": "Sala 23"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228316"
+        },
+        "nombre": "Gregorio Salinas Puente",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-59173",
+        "fecha_contratacion": {
+            "$date": 1636837432656
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Terrazas-Ramón e Hijos",
+            "sala": "Sala 69"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228317"
+        },
+        "nombre": "Amador Pérez Ocampo",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-07084",
+        "fecha_contratacion": {
+            "$date": 1452451198478
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Meza, Peres y Prado",
+            "sala": "Sala 17"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228318"
+        },
+        "nombre": "Gabriel Olmos Curiel",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-27885",
+        "fecha_contratacion": {
+            "$date": 1750768319941
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Villareal-Santiago",
+            "sala": "Sala 57"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228319"
+        },
+        "nombre": "Leonardo Eugenio Arevalo",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-45958",
+        "fecha_contratacion": {
+            "$date": 1535606356718
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Salcedo y Montaño S. R.L. de C.V.",
+            "sala": "Sala 69"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022831a"
+        },
+        "nombre": "Dr. Antonio Arenas",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-48895",
+        "fecha_contratacion": {
+            "$date": 1550772446724
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Vallejo y Zepeda"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022831b"
+        },
+        "nombre": "Mtro. José Manuél Espinosa",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-41979",
+        "fecha_contratacion": {
+            "$date": 1733793222391
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Rosado, Correa y Trujillo",
+            "sala": "Sala 30"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022831c"
+        },
+        "nombre": "Ing. Hernán Aguirre",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-20538",
+        "fecha_contratacion": {
+            "$date": 1472998891522
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Briones y Correa",
+            "sala": "Sala 50"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022831d"
+        },
+        "nombre": "Linda Inés Romo",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-68449",
+        "fecha_contratacion": {
+            "$date": 1468209109824
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Nava-Espinoza"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022831e"
+        },
+        "nombre": "Nancy Patricio Caraballo",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-72973",
+        "fecha_contratacion": {
+            "$date": 1562138445630
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Roque-Olvera",
+            "sala": "Sala 37"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022831f"
+        },
+        "nombre": "Dolores Cristina Salcedo",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-80657",
+        "fecha_contratacion": {
+            "$date": 1509218759171
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Cortez, Naranjo y Vásquez",
+            "sala": "Sala 66"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228320"
+        },
+        "nombre": "José María Nieves Serna",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-37620",
+        "fecha_contratacion": {
+            "$date": 1556466761706
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Delgadillo, Santana y Muñoz",
+            "sala": "Sala 00"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228321"
+        },
+        "nombre": "Irene Benjamín Ledesma",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-18908",
+        "fecha_contratacion": {
+            "$date": 1681000179036
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Sánchez-Salazar",
+            "sala": "Sala 65"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228322"
+        },
+        "nombre": "Cornelio Teodoro Verdugo Tijerina",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-82908",
+        "fecha_contratacion": {
+            "$date": 1622190233504
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Urías-Padilla",
+            "sala": "Sala 27"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228323"
+        },
+        "nombre": "Cecilia Colón Rosado",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-61306",
+        "fecha_contratacion": {
+            "$date": 1689705211378
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Corona, Marín y Niño"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228324"
+        },
+        "nombre": "Vanesa Corona Barreto",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-81201",
+        "fecha_contratacion": {
+            "$date": 1718061330168
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Moreno S. R.L. de C.V."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228325"
+        },
+        "nombre": "Celia Jaramillo Miranda",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-19450",
+        "fecha_contratacion": {
+            "$date": 1542214101359
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Peña-Zepeda y Asociados",
+            "sala": "Sala 35"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228326"
+        },
+        "nombre": "Julia Fierro Palacios",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-15784",
+        "fecha_contratacion": {
+            "$date": 1565745573552
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Quintanilla S.A.",
+            "sala": "Sala 90"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228327"
+        },
+        "nombre": "Pablo Clemente Solorzano",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-35666",
+        "fecha_contratacion": {
+            "$date": 1587647708387
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Sosa-Coronado",
+            "sala": "Sala 27"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228328"
+        },
+        "nombre": "Mtro. Citlali Jasso",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-02635",
+        "fecha_contratacion": {
+            "$date": 1722379535021
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Aponte A.C.",
+            "sala": "Sala 13"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228329"
+        },
+        "nombre": "Itzel Moreno",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-91205",
+        "fecha_contratacion": {
+            "$date": 1517375683981
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Marroquín, Ojeda y Orosco",
+            "sala": "Sala 02"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022832a"
+        },
+        "nombre": "Fabiola Villagómez",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-64934",
+        "fecha_contratacion": {
+            "$date": 1614547027831
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Meza-Iglesias y Asociados",
+            "sala": "Sala 18"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022832b"
+        },
+        "nombre": "Lic. Noemí Balderas",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-74091",
+        "fecha_contratacion": {
+            "$date": 1573968995005
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Velázquez-de León S.A. de C.V.",
+            "sala": "Sala 58"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022832c"
+        },
+        "nombre": "Jacinto Fidel Preciado Zayas",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-57588",
+        "fecha_contratacion": {
+            "$date": 1509832950796
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Paz-Valdez S.A. de C.V.",
+            "sala": "Sala 43"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022832d"
+        },
+        "nombre": "Claudia Dávila",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-01043",
+        "fecha_contratacion": {
+            "$date": 1651849588163
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Leal-Vanegas S.A. de C.V.",
+            "sala": "Sala 74"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022832e"
+        },
+        "nombre": "Sonia Raquel Menéndez",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-22621",
+        "fecha_contratacion": {
+            "$date": 1693161656929
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Santana-Cotto",
+            "sala": "Sala 07"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022832f"
+        },
+        "nombre": "José Emilio Anel de la Rosa",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-91488",
+        "fecha_contratacion": {
+            "$date": 1458760820882
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Elizondo-Olvera",
+            "sala": "Sala 69"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228330"
+        },
+        "nombre": "Mtro. Perla Quintana",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-88827",
+        "fecha_contratacion": {
+            "$date": 1706601890066
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Industrias Sisneros y Barajas",
+            "sala": "Sala 58"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228331"
+        },
+        "nombre": "María Elena Cuellar Perea",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-21899",
+        "fecha_contratacion": {
+            "$date": 1717622638685
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Prado-Pizarro"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228332"
+        },
+        "nombre": "Germán Leonardo Gómez Blanco",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-54498",
+        "fecha_contratacion": {
+            "$date": 1610236735392
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Baca y Garibay y Asociados",
+            "sala": "Sala 35"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228333"
+        },
+        "nombre": "Hernán Paulina Escamilla Rocha",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-95046",
+        "fecha_contratacion": {
+            "$date": 1576665685521
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Madrigal-Pacheco"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228334"
+        },
+        "nombre": "Sr(a). Reina Magaña",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-44196",
+        "fecha_contratacion": {
+            "$date": 1699036080529
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Dávila y Pineda"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228335"
+        },
+        "nombre": "Cristian Vanegas",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-84714",
+        "fecha_contratacion": {
+            "$date": 1455096152689
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Carrera y Mascareñas S.C.",
+            "sala": "Sala 40"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228336"
+        },
+        "nombre": "Yuridia Esteban Badillo",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-82147",
+        "fecha_contratacion": {
+            "$date": 1479955185614
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Aguayo y Córdova",
+            "sala": "Sala 27"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228337"
+        },
+        "nombre": "Linda Socorro Baca",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-09803",
+        "fecha_contratacion": {
+            "$date": 1585628417779
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Montez-Zarate",
+            "sala": "Sala 25"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228338"
+        },
+        "nombre": "Mauro Inés Rolón",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-18900",
+        "fecha_contratacion": {
+            "$date": 1489093577089
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Madera y Gómez",
+            "sala": "Sala 88"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228339"
+        },
+        "nombre": "Hugo Ignacio Perea",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-10994",
+        "fecha_contratacion": {
+            "$date": 1508389153593
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Trujillo-Cepeda",
+            "sala": "Sala 95"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022833a"
+        },
+        "nombre": "Jesús Sarabia",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-14093",
+        "fecha_contratacion": {
+            "$date": 1581274562202
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Industrias Trejo, Casas y Bustamante"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022833b"
+        },
+        "nombre": "Santiago Santacruz Valles",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-40228",
+        "fecha_contratacion": {
+            "$date": 1738141609190
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Cabrera-Robles"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022833c"
+        },
+        "nombre": "Julia Frías",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-73732",
+        "fecha_contratacion": {
+            "$date": 1453320362907
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Hidalgo, Esparza y Arevalo",
+            "sala": "Sala 83"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022833d"
+        },
+        "nombre": "Lic. Ana de Anda",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-47257",
+        "fecha_contratacion": {
+            "$date": 1493965713139
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Arriaga S.C."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022833e"
+        },
+        "nombre": "Carla Saavedra Olivera",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-26285",
+        "fecha_contratacion": {
+            "$date": 1711847058027
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Vallejo y Negrete",
+            "sala": "Sala 76"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022833f"
+        },
+        "nombre": "Eloisa Concepción García Mateo",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-48184",
+        "fecha_contratacion": {
+            "$date": 1739686485313
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Montenegro-Torres",
+            "sala": "Sala 83"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228340"
+        },
+        "nombre": "María José Tafoya García",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-36814",
+        "fecha_contratacion": {
+            "$date": 1534822643653
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Magaña S. R.L. de C.V.",
+            "sala": "Sala 08"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228341"
+        },
+        "nombre": "Humberto Ana María Balderas Aranda",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-54311",
+        "fecha_contratacion": {
+            "$date": 1709513327046
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Montenegro-Sandoval",
+            "sala": "Sala 08"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228342"
+        },
+        "nombre": "Estefanía Velázquez",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-62948",
+        "fecha_contratacion": {
+            "$date": 1450904134418
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Acevedo-Aguilera",
+            "sala": "Sala 87"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228343"
+        },
+        "nombre": "Judith Barbara Grijalva Otero",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-21375",
+        "fecha_contratacion": {
+            "$date": 1517353952192
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Olvera y Moreno e Hijos",
+            "sala": "Sala 48"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228344"
+        },
+        "nombre": "Julio César Felipe Arroyo",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-13274",
+        "fecha_contratacion": {
+            "$date": 1696473264758
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Hernádez-Pedroza",
+            "sala": "Sala 20"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228345"
+        },
+        "nombre": "Magdalena Olmos Centeno",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-72862",
+        "fecha_contratacion": {
+            "$date": 1490412010144
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Vargas S.C.",
+            "sala": "Sala 81"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228346"
+        },
+        "nombre": "Carla Alonzo",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-57783",
+        "fecha_contratacion": {
+            "$date": 1758140297745
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Garica-Romo",
+            "sala": "Sala 67"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228347"
+        },
+        "nombre": "Arcelia Teodoro Varela",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-70773",
+        "fecha_contratacion": {
+            "$date": 1555803777081
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Gracia, Salazar y Ramos",
+            "sala": "Sala 50"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228348"
+        },
+        "nombre": "Marcela René Villaseñor",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-37069",
+        "fecha_contratacion": {
+            "$date": 1533082053481
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Paz y Mayorga S. R.L. de C.V.",
+            "sala": "Sala 77"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228349"
+        },
+        "nombre": "Lic. Citlali Gastélum",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-35852",
+        "fecha_contratacion": {
+            "$date": 1728066288136
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Ballesteros y Asociados",
+            "sala": "Sala 24"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022834a"
+        },
+        "nombre": "Sr(a). Felix Chavarría",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-93658",
+        "fecha_contratacion": {
+            "$date": 1580188226326
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Industrias Amador y Contreras",
+            "sala": "Sala 62"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022834b"
+        },
+        "nombre": "Leonardo Arcelia Hinojosa",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-80627",
+        "fecha_contratacion": {
+            "$date": 1548754051385
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Robledo y Zepeda",
+            "sala": "Sala 44"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022834c"
+        },
+        "nombre": "Julia Laura Hidalgo",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-00369",
+        "fecha_contratacion": {
+            "$date": 1478850753219
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Cortez-Robledo A.C.",
+            "sala": "Sala 63"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022834d"
+        },
+        "nombre": "Horacio Narváez",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-41764",
+        "fecha_contratacion": {
+            "$date": 1575739721992
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "de León, Lozada y Piña",
+            "sala": "Sala 30"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022834e"
+        },
+        "nombre": "Juan Carlos Gálvez",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-67141",
+        "fecha_contratacion": {
+            "$date": 1541087774080
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Benavides, Saldaña y Alonzo",
+            "sala": "Sala 55"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022834f"
+        },
+        "nombre": "Judith Vélez del Río",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-76311",
+        "fecha_contratacion": {
+            "$date": 1654153461895
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Miranda S.A."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228350"
+        },
+        "nombre": "Sr(a). Elena Acevedo",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-15525",
+        "fecha_contratacion": {
+            "$date": 1650855050383
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Bahena, Barrientos y Ocasio",
+            "sala": "Sala 14"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228351"
+        },
+        "nombre": "Sr(a). Horacio del Valle",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-19078",
+        "fecha_contratacion": {
+            "$date": 1555676821320
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Laboratorios Valentín-Cruz"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228352"
+        },
+        "nombre": "Guadalupe Avilés Ceballos",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-84533",
+        "fecha_contratacion": {
+            "$date": 1730751896971
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Arevalo-Romero"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228353"
+        },
+        "nombre": "Jesús Aurelio Ochoa",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-49972",
+        "fecha_contratacion": {
+            "$date": 1731502859896
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Posada-Montes",
+            "sala": "Sala 63"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228354"
+        },
+        "nombre": "Darío Leonardo Merino Jaramillo",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-38855",
+        "fecha_contratacion": {
+            "$date": 1446595318103
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Zaragoza-Farías",
+            "sala": "Sala 89"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228355"
+        },
+        "nombre": "Lorena Cervantes",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-57763",
+        "fecha_contratacion": {
+            "$date": 1741129141895
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Padrón, Garibay y Tamayo",
+            "sala": "Sala 60"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228356"
+        },
+        "nombre": "María del Carmen Elias Téllez",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-85526",
+        "fecha_contratacion": {
+            "$date": 1726073594122
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Pelayo-Tejeda"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228357"
+        },
+        "nombre": "Josefina Guevara Reséndez",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-91375",
+        "fecha_contratacion": {
+            "$date": 1458311075211
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Tejada y Pantoja S.C.",
+            "sala": "Sala 08"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228358"
+        },
+        "nombre": "José Emilio Abrego Padilla",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-83682",
+        "fecha_contratacion": {
+            "$date": 1619967835738
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Carrasco-Frías",
+            "sala": "Sala 39"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228359"
+        },
+        "nombre": "José Carlos Perales",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-21920",
+        "fecha_contratacion": {
+            "$date": 1470755923881
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Cisneros y Valles A.C.",
+            "sala": "Sala 22"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022835a"
+        },
+        "nombre": "Irma Orta",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-27393",
+        "fecha_contratacion": {
+            "$date": 1583916331735
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Grupo Armendáriz y Griego"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022835b"
+        },
+        "nombre": "Susana Marco Antonio Valdez Padrón",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-62059",
+        "fecha_contratacion": {
+            "$date": 1529172634948
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Corporacin Lozada y Corral",
+            "sala": "Sala 31"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022835c"
+        },
+        "nombre": "Luisa Virginia Díaz",
+        "especialidad": "Neurología",
+        "licencia_medica": "LIC-20880",
+        "fecha_contratacion": {
+            "$date": 1682768808119
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Carrasco y Asociados",
+            "sala": "Sala 25"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022835d"
+        },
+        "nombre": "Lic. María Luisa Santacruz",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-10150",
+        "fecha_contratacion": {
+            "$date": 1716022426563
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Castillo y Asociados",
+            "sala": "Sala 74"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022835e"
+        },
+        "nombre": "Perla Elisa Saldivar Jáquez",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-62166",
+        "fecha_contratacion": {
+            "$date": 1561972068540
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho López-Castellanos",
+            "sala": "Sala 58"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022835f"
+        },
+        "nombre": "Eric Lucía Garibay",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-42959",
+        "fecha_contratacion": {
+            "$date": 1682955495558
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Club Cepeda-Adame",
+            "sala": "Sala 13"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228360"
+        },
+        "nombre": "Amelia Calderón",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-80802",
+        "fecha_contratacion": {
+            "$date": 1659726266760
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Gálvez y Oquendo",
+            "sala": "Sala 32"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228361"
+        },
+        "nombre": "Luis Manuel Andrea Domínguez",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-57404",
+        "fecha_contratacion": {
+            "$date": 1760215466361
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Despacho Quezada y Tejada"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228362"
+        },
+        "nombre": "Esteban Henríquez Fernández",
+        "especialidad": "Pediatría",
+        "licencia_medica": "LIC-59149",
+        "fecha_contratacion": {
+            "$date": 1610601733123
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Castro-Aparicio S. R.L. de C.V."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228363"
+        },
+        "nombre": "Carlota Verónica Ruiz",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-74701",
+        "fecha_contratacion": {
+            "$date": 1744371754919
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Paz-Mireles S.A. de C.V."
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228364"
+        },
+        "nombre": "Mariano Jesús Gaitán",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-42601",
+        "fecha_contratacion": {
+            "$date": 1590459620265
+        },
+        "activo": false,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Proyectos Reynoso-Ortiz",
+            "sala": "Sala 34"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228365"
+        },
+        "nombre": "Yolanda Madrigal",
+        "especialidad": "Cardiología",
+        "licencia_medica": "LIC-42271",
+        "fecha_contratacion": {
+            "$date": 1576481869457
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Sotelo-Salas S.C.",
+            "sala": "Sala 27"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228366"
+        },
+        "nombre": "Alfonso Zelaya",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-18735",
+        "fecha_contratacion": {
+            "$date": 1496286511224
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Gracia, Moreno y Rendón",
+            "sala": "Sala 56"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228367"
+        },
+        "nombre": "Caridad Amalia Almanza Longoria",
+        "especialidad": "Oncología",
+        "licencia_medica": "LIC-53924",
+        "fecha_contratacion": {
+            "$date": 1499331851497
+        },
+        "activo": true,
+        "pacientes_asignados": [],
+        "horarios": {
+            "lunes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "martes": [
+                "8:00",
+                "9:00",
+                "10:00",
+                "11:00",
+                "12:00"
+            ],
+            "miercoles": [],
+            "jueves": [],
+            "viernes": []
+        },
+        "ubicacion": {
+            "hospital": "Casillas-Carvajal",
+            "sala": "Sala 59"
+        }
+    }
+]

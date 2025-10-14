@@ -1,0 +1,5005 @@
+[
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281d8"
+        },
+        "nombre": "analista misión crítica llave pública",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022814a"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Principales mano total propio haber existencia."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Ella hubo así pablo vuelta nueva."
+            }
+        ],
+        "medicamentos": [
+            "saber",
+            "oficial",
+            "hermano"
+        ],
+        "duracion_estimada_dias": 11,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Verdad serie nuevos blanca."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281d9"
+        },
+        "nombre": "inteligencia artificial defectos cero reactivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022816e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Tema pese medidas que."
+            }
+        ],
+        "medicamentos": [
+            "queda",
+            "precisamente"
+        ],
+        "duracion_estimada_dias": 27,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Son amigo podía."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281da"
+        },
+        "nombre": "acceso defectos cero enfocado al negocio",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228159"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "América música quienes quiero."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Mantener cabeza etapa septiembre."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Siete tiempos diario buena comunicación importante único."
+            }
+        ],
+        "medicamentos": [
+            "artículo",
+            "importante"
+        ],
+        "duracion_estimada_dias": 30,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Calidad cuales algunos pueden propios años posibilidades."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281db"
+        },
+        "nombre": "implementación cohesiva programable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228112"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Estudio líder secretario mañana segundo algunas mis."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Posición bien local persona."
+            }
+        ],
+        "medicamentos": [
+            "medidas",
+            "cambio"
+        ],
+        "duracion_estimada_dias": 38,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Situación tiene pues estoy cuales conocer respuesta."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281dc"
+        },
+        "nombre": "estrategia basado en contenido ergonómico",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228177"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Media arte deseo autoridades suelo."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Cinco presenta cuatro acción sueño países medida mitad."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Razones hasta entre cambios noche abril así."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 30,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Mujeres momentos felipe todavía."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281dd"
+        },
+        "nombre": "aplicación intermedia actualizable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b1"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Intereses hacia partidos."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "México mis m pasa organización otra instituto fuerza."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Podría creación primeros luz apoyo hermano estuvo niños."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 42,
+        "requiere_hospitalizacion": true,
+        "observaciones": "París lejos unidad constitución victoria te evitar."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281de"
+        },
+        "nombre": "arquitectura abierta nueva generación enfocado a la calidad",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228129"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Ella veces decisión único."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Mar democracia expresión mitad política."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Estuvo g rodríguez victoria veces encontrar importantes."
+            }
+        ],
+        "medicamentos": [
+            "te"
+        ],
+        "duracion_estimada_dias": 32,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Pudo medios diferentes septiembre nivel dice edad."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281df"
+        },
+        "nombre": "proyecto potenciada enfocado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022817d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Mundo posibilidad medios momentos conseguir todos respuesta hacia."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Sigue resultados cama psoe viaje."
+            }
+        ],
+        "medicamentos": [
+            "mano",
+            "medidas"
+        ],
+        "duracion_estimada_dias": 33,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e0"
+        },
+        "nombre": "groupware basado en necesidades personalizable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228179"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Entre la solución mujer esta nosotros he."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Compañía acerca buenos días vivir."
+            }
+        ],
+        "medicamentos": [
+            "importante",
+            "siendo"
+        ],
+        "duracion_estimada_dias": 56,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e1"
+        },
+        "nombre": "actitud discreta multicanal",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228135"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "J hizo duda iglesia acerca alguna precisamente."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Social viene gobierno."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Semanas día ex haciendo dios trabajar interior nuevo."
+            }
+        ],
+        "medicamentos": [
+            "cuba",
+            "decía",
+            "radio"
+        ],
+        "duracion_estimada_dias": 24,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Precisamente ello tenía maría cámara estructura."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e2"
+        },
+        "nombre": "software estable reactivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228170"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Generales posición junio primer."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Falta quedó argentina palabra flores."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Muestra usted ciento."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 34,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Atención permite particular boca animales través."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e3"
+        },
+        "nombre": "paradigma analizada universal",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022815f"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Club equipo embargo puso palabras televisión comisión."
+            }
+        ],
+        "medicamentos": [
+            "se",
+            "esos",
+            "próximo"
+        ],
+        "duracion_estimada_dias": 16,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e4"
+        },
+        "nombre": "soporte regional robusto",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228155"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Alta industria peor no consejo mientras."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Fue conseguir nuestras bien."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Futuro democracia misma buen oficial comunidad."
+            }
+        ],
+        "medicamentos": [
+            "hermano"
+        ],
+        "duracion_estimada_dias": 59,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Dice español comisión aquella semanas personal paz."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e5"
+        },
+        "nombre": "paralelismo holística organizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281bc"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Exterior bajo san."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Miguel sean diciembre actividades hablar familia banco alto."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 60,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Base ellos ambiente voluntad."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e6"
+        },
+        "nombre": "sinergia monitorizada por red polarizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022818d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Paso volver prueba largo será va crecimiento."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Respecto cuya pequeño causa local algunas."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Medios entonces tenemos rey dolor unas."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 33,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Instituciones concepto dijo carlos encontrar cuba."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e7"
+        },
+        "nombre": "data-warehouse basado en necesidades centralizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228158"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Casi central unión consejo ve."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Misma bajo guerra través."
+            }
+        ],
+        "medicamentos": [
+            "riesgo",
+            "aumento",
+            "por"
+        ],
+        "duracion_estimada_dias": 39,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Septiembre concepto volver dólares educación hermano yo deseo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e8"
+        },
+        "nombre": "alianza transicional administrado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228162"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Tiempo resultados algunas."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Plaza análisis américa eran ii grandes."
+            }
+        ],
+        "medicamentos": [
+            "nuestra"
+        ],
+        "duracion_estimada_dias": 49,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Siempre juez partido."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281e9"
+        },
+        "nombre": "base de datos nacional universal",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c8"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Suficiente defensa ayer supuesto durante."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Grupos obras te conocimiento."
+            }
+        ],
+        "medicamentos": [
+            "evitar"
+        ],
+        "duracion_estimada_dias": 43,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281ea"
+        },
+        "nombre": "conglomeración sistémica asimilado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228156"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Entrar haya tu último sobre."
+            }
+        ],
+        "medicamentos": [
+            "todos",
+            "usted"
+        ],
+        "duracion_estimada_dias": 50,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281eb"
+        },
+        "nombre": "capacidad dinámica de arquitectura abierta",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022815d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Conjunto estos consejo consecuencia vuelta educación voluntad."
+            }
+        ],
+        "medicamentos": [
+            "ya"
+        ],
+        "duracion_estimada_dias": 25,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Cuales siempre nuevas ningún director conocer."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281ec"
+        },
+        "nombre": "paradigma multitarea orientado a equipos",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228120"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Carne económica grupo tema conocimiento."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Libertad ser pie económico."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Demasiado conseguir sistemas dicho."
+            }
+        ],
+        "medicamentos": [
+            "encuentran",
+            "economía",
+            "lucha"
+        ],
+        "duracion_estimada_dias": 9,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Sean particular carácter j rafael apenas tema deben."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281ed"
+        },
+        "nombre": "definición tolerante a fallos configurable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a0"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Cualquier permite veces oro persona."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Hizo no al precisamente están."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Objeto mirada ocasiones hacía."
+            }
+        ],
+        "medicamentos": [
+            "qué"
+        ],
+        "duracion_estimada_dias": 36,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Calle director pesetas cuadro partido voluntad da acerca."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281ee"
+        },
+        "nombre": "base de datos cohesiva enfocado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228125"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Opinión sueño jefe centro tres resultados s."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Principios cuales mirada así diario."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Trabajo mar banco respecto central alguien yo."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 5,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Según libre iba llegó."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281ef"
+        },
+        "nombre": "paradigma defectos cero integrado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022819f"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Real real pacientes."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Producto objeto cuales fuerza general parece ex."
+            }
+        ],
+        "medicamentos": [
+            "parecía"
+        ],
+        "duracion_estimada_dias": 29,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Edad existe social misma local les."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f0"
+        },
+        "nombre": "middleware híbrida adaptativo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228138"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Derecha enfermedad club oposición metros."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Cabeza civil así precio esta días horas nuestras."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Aquella nivel elementos número últimos llama debía."
+            }
+        ],
+        "medicamentos": [
+            "menos"
+        ],
+        "duracion_estimada_dias": 31,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Local será estoy c diferencia actual tener."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f1"
+        },
+        "nombre": "sistema abierto homogénea de tamaño adecuado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022815e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Momentos haya estamos."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Dejar pequeño españoles bastante llamado del."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Artículo se muy educación tengo sociedad cama."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 48,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Pasar violencia superior mil."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f2"
+        },
+        "nombre": "moderador modular inverso",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022817d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Luis justicia industria principales precisamente."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Propio propia gonzález allí menos popular."
+            }
+        ],
+        "medicamentos": [
+            "ningún",
+            "mujeres"
+        ],
+        "duracion_estimada_dias": 7,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Reunión tenemos especie."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f3"
+        },
+        "nombre": "matrices uniforme administrado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022818e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Lado función anterior atención."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Vio acuerdo decisión memoria."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 14,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Manuel cual lleva supuesto además tú especial."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f4"
+        },
+        "nombre": "fidelidad defectos cero innovador",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c8"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Como los quien has productos."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Elementos momentos éxito cada."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Servicios aquel grupo recursos paciente fútbol jóvenes."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 20,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f5"
+        },
+        "nombre": "proyección óptima con ingeniería inversa",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022819e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Modo acciones política vez."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Eran aumento francia."
+            }
+        ],
+        "medicamentos": [
+            "torno"
+        ],
+        "duracion_estimada_dias": 53,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Nuestros objetivo mirada buen hecho tribunal régimen baja."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f6"
+        },
+        "nombre": "analista transicional mejorado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a0"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Primero tienen mantener jóvenes tener general."
+            }
+        ],
+        "medicamentos": [
+            "director",
+            "habrá",
+            "ii"
+        ],
+        "duracion_estimada_dias": 51,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Ya pronto juicio septiembre negro una derecho."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f7"
+        },
+        "nombre": "caja de herramientas 6ta generación digitalizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228120"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Operación servicios mi particular otras."
+            }
+        ],
+        "medicamentos": [
+            "niveles",
+            "menos",
+            "hechos"
+        ],
+        "duracion_estimada_dias": 56,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f8"
+        },
+        "nombre": "solución tolerancia cero recontextualizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228144"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Poner vez conocer respecto."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Hicieron libros movimiento francisco nuevos hicieron."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Obra apenas práctica trabajo."
+            }
+        ],
+        "medicamentos": [
+            "vuelta",
+            "visto"
+        ],
+        "duracion_estimada_dias": 17,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Considera poner plaza generales pedro falta ningún."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281f9"
+        },
+        "nombre": "marco de tiempo uniforme robusto",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228161"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Trabajadores dios contrario socialista época hicieron verdad."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Gente acerca social con visto habían acciones."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Suelo apenas primer concepto va general relación."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 52,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281fa"
+        },
+        "nombre": "superestructura híbrida organizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b3"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Vamos salida próximo partir."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Unión justicia camino política nadie haciendo."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Servicios nuevas estamos."
+            }
+        ],
+        "medicamentos": [
+            "población",
+            "proceso",
+            "viene"
+        ],
+        "duracion_estimada_dias": 53,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Nuestros todavía aumento lenguaje."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281fb"
+        },
+        "nombre": "línea segura bifurcada totalmente configurable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228157"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Presente civil viaje pesetas."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 21,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Director barcelona resultados hijo poco."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281fc"
+        },
+        "nombre": "arquitectura asimétrica de primera línea",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228119"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Centros condiciones tiene manuel cuatro cualquier construcción estar."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Finalmente área sigue marzo objetivo eran arriba."
+            }
+        ],
+        "medicamentos": [
+            "mediante",
+            "busca",
+            "casi"
+        ],
+        "duracion_estimada_dias": 16,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Último única comunicación hijo naturaleza."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281fd"
+        },
+        "nombre": "protocolo intermedia progresivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228192"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Derecha tu cierta demás diferencia."
+            }
+        ],
+        "medicamentos": [
+            "negro"
+        ],
+        "duracion_estimada_dias": 13,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281fe"
+        },
+        "nombre": "línea segura estática enfocado al cliente",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c0"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Destino volver chile día electoral debido."
+            }
+        ],
+        "medicamentos": [
+            "tras",
+            "así",
+            "principal"
+        ],
+        "duracion_estimada_dias": 30,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b02281ff"
+        },
+        "nombre": "estandarización basado en contenido asimilado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022816b"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Sean nuestros origen mes diez existe."
+            }
+        ],
+        "medicamentos": [
+            "condiciones",
+            "fin",
+            "pasado"
+        ],
+        "duracion_estimada_dias": 18,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Vio si expresión españoles derechos."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228200"
+        },
+        "nombre": "website 3ra generación orgánico",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b6"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Habría visita producto hijo posición esfuerzo."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Medios está existe elecciones conocimiento."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Mitad ya dejó administración productos solamente américa."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 26,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Principio constitución contenido prueba música."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228201"
+        },
+        "nombre": "concepto innovadora ergonómico",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228159"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Debía posición dio ellos imposible ni fondo."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "U mayo oficial unos diario."
+            }
+        ],
+        "medicamentos": [
+            "idea"
+        ],
+        "duracion_estimada_dias": 36,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Esa asimismo televisión electoral."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228202"
+        },
+        "nombre": "infraestructura orientado a objetos polarizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228181"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Medio suelo medidas crecimiento tipos tu movimiento grandes."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Principales puedo negro llamado camino operación tienen."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Muy hacen no encuentro."
+            }
+        ],
+        "medicamentos": [
+            "maría",
+            "volver",
+            "jamás"
+        ],
+        "duracion_estimada_dias": 23,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Opinión estamos formación quién pasa práctica cambios."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228203"
+        },
+        "nombre": "portal escalable asimilado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c7"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Casos adelante investigación personas hace queda."
+            }
+        ],
+        "medicamentos": [
+            "técnica"
+        ],
+        "duracion_estimada_dias": 12,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Puerto medio vuelve volvió."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228204"
+        },
+        "nombre": "circuito dedicada opcional",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c0"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Años mujeres fuerzas natural estudios sala corazón."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 45,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Única produce éste años rodríguez."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228205"
+        },
+        "nombre": "conjunto de instrucciones tolerante a fallos avanzado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022815f"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Vuelve interés anterior mal."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Aparece título tenía ninguna hubo."
+            }
+        ],
+        "medicamentos": [
+            "propuesta"
+        ],
+        "duracion_estimada_dias": 46,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Pronto por agua mes sido demasiado no."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228206"
+        },
+        "nombre": "proyecto modular enfocado a ganancias",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228114"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Mediante poco cabeza acto ejemplo contenido quiero."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Fuego carrera i vuelve niveles general sueño."
+            }
+        ],
+        "medicamentos": [
+            "tenido"
+        ],
+        "duracion_estimada_dias": 38,
+        "requiere_hospitalizacion": false,
+        "observaciones": "República vuelta ayer asociación propios conseguir curso."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228207"
+        },
+        "nombre": "sinergia escalable asimilado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228169"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Palabras ley base psoe enfermedad."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Cual prueba tras zona garcía plan lenguaje cargo."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Media ocasión actitud argentina pasar."
+            }
+        ],
+        "medicamentos": [
+            "voz",
+            "haciendo"
+        ],
+        "duracion_estimada_dias": 28,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Hijos río cosas nada donde propia."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228208"
+        },
+        "nombre": "política basado en necesidades de tamaño adecuado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228113"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Veces mercado ninguna aunque pueda estados grande grupos."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 34,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228209"
+        },
+        "nombre": "producto radical programable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022818d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Tras memoria va existe suerte."
+            }
+        ],
+        "medicamentos": [
+            "lo",
+            "campo",
+            "servicio"
+        ],
+        "duracion_estimada_dias": 10,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Tipo ojos muerto."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022820a"
+        },
+        "nombre": "solución tiempo real polarizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228171"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Domingo palabras el superior papel cosa comisión."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Diferencia lópez condiciones un número jamás niveles."
+            }
+        ],
+        "medicamentos": [
+            "lópez",
+            "capital",
+            "dos"
+        ],
+        "duracion_estimada_dias": 21,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Donde figura mujeres productos corte imposible."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022820b"
+        },
+        "nombre": "adaptador discreta persistente",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b7"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Derecha he tratamiento evitar enero fiscal español."
+            }
+        ],
+        "medicamentos": [
+            "población",
+            "cosas",
+            "mediante"
+        ],
+        "duracion_estimada_dias": 16,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022820c"
+        },
+        "nombre": "interfaz gráfico de usuario logística inverso",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022817e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Política justicia amigos durante deseo dentro."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Ninguna seguridad en popular público."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Puso tú diario semana vía imágenes autoridades libro."
+            }
+        ],
+        "medicamentos": [
+            "puede",
+            "nuevas"
+        ],
+        "duracion_estimada_dias": 18,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Buen semana entrar hace tenemos instituto g."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022820d"
+        },
+        "nombre": "migración orientada a soluciones perseverante",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281cf"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Ir dos policía debe."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 58,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Millones hemos consejo humana."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022820e"
+        },
+        "nombre": "encriptar bifurcada avanzado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b2"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Cuadro últimos fin."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Explicó esta nuestra durante sociedad."
+            }
+        ],
+        "medicamentos": [
+            "hacia",
+            "casa"
+        ],
+        "duracion_estimada_dias": 47,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Hombre gobierno cambios en c estructura."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022820f"
+        },
+        "nombre": "estructura acompasada implementado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228145"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Pasado formación trabajadores voz futuro."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Puntos oro durante américa."
+            }
+        ],
+        "medicamentos": [
+            "tema",
+            "en",
+            "banco"
+        ],
+        "duracion_estimada_dias": 36,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Presente algunos plan rafael cuatro ningún."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228210"
+        },
+        "nombre": "productividad tolerancia cero inverso",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c8"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Boca gente consumo población."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 35,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Director negro apenas servicios intereses mal."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228211"
+        },
+        "nombre": "data-warehouse estática basado en objetos",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022816e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Gran actitud comunicación."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Prensa las etapa proyectos presente varios marco destino."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Viene ejército eran cerca personas."
+            }
+        ],
+        "medicamentos": [
+            "llegó",
+            "estado",
+            "estar"
+        ],
+        "duracion_estimada_dias": 42,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Posición francia arriba llegado pp tenía."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228212"
+        },
+        "nombre": "contingencia alto nivel multicanal",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228154"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Tribunal valor miedo cultural marco."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Orden única conciencia guerra largo técnica."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Países oficial película diferentes."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 13,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228213"
+        },
+        "nombre": "interfaz nacional implementado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228191"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Familia objeto mucha dios bueno instituciones."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Elementos económica radio parecía ahí esfuerzo."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Permite nuestro hacer algo parís ciento corte."
+            }
+        ],
+        "medicamentos": [
+            "baja",
+            "materia"
+        ],
+        "duracion_estimada_dias": 54,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Te sus poder este paso pequeña."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228214"
+        },
+        "nombre": "colaboración 6ta generación expandido",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c5"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Para desde realidad deben presencia permite."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 40,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Ocasión padres crecimiento blanca director don consejo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228215"
+        },
+        "nombre": "red de area local intermedia centrado en el usuario",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281ac"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Anterior libros palabra."
+            }
+        ],
+        "medicamentos": [
+            "aunque",
+            "productos",
+            "dólares"
+        ],
+        "duracion_estimada_dias": 53,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228216"
+        },
+        "nombre": "sistema abierto uniforme reactivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022819a"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Cama norte parís porque más interés mujeres."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Pocos su libre mucha uno demasiado d."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Momento autoridades español ocasión consecuencia llama."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 12,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Hacia su encuentra visto."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228217"
+        },
+        "nombre": "adaptador compuesto perseverante",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228185"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Por lejos conjunto unión."
+            }
+        ],
+        "medicamentos": [
+            "pueda"
+        ],
+        "duracion_estimada_dias": 36,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Señora fernando carne prueba."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228218"
+        },
+        "nombre": "estructura sistémica en red",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022812c"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Entonces mi lópez empresa afirmó."
+            }
+        ],
+        "medicamentos": [
+            "demasiado",
+            "diciembre",
+            "llega"
+        ],
+        "duracion_estimada_dias": 6,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Algunas precisamente resultado resto."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228219"
+        },
+        "nombre": "alianza amplio abanico asimilado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228177"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Elecciones precio período sino todas fin libros ante."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Estoy cámara crecimiento ejemplo ser eran dónde."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Hacía movimiento difícil viejo."
+            }
+        ],
+        "medicamentos": [
+            "quiero",
+            "señora",
+            "particular"
+        ],
+        "duracion_estimada_dias": 58,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Casa amigo ideas decir pública europa."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022821a"
+        },
+        "nombre": "estrategia multimedia opcional",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228122"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Julio familia servicio españoles conseguir jorge he algo."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 39,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Diciembre allí manuel proyectos."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022821b"
+        },
+        "nombre": "hardware sistémica extendido",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022816a"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Sean ciento campaña curso área va alta."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Época igual soy comercio españoles algún."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Octubre sistemas mejores buscar."
+            }
+        ],
+        "medicamentos": [
+            "toda"
+        ],
+        "duracion_estimada_dias": 22,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022821c"
+        },
+        "nombre": "base de datos sensible al contexto en toda la empresa",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228157"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Tema punto resulta."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Ante mediante éste hermano consumo había."
+            }
+        ],
+        "medicamentos": [
+            "tanto",
+            "varios"
+        ],
+        "duracion_estimada_dias": 44,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Posibilidad sentido alrededor frente."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022821d"
+        },
+        "nombre": "habilidad escalable totalmente configurable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228173"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Pablo alrededor plaza doctor octubre actividad."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Habían crecimiento don producto muchas expresión."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Aparece otras francia g hasta resto."
+            }
+        ],
+        "medicamentos": [
+            "alto",
+            "fuego",
+            "ellos"
+        ],
+        "duracion_estimada_dias": 39,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Mucho curso españa principio pasó materia memoria seguridad."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022821e"
+        },
+        "nombre": "array 24/7 versátil",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022819e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Memoria enero viaje poder."
+            }
+        ],
+        "medicamentos": [
+            "aspectos",
+            "perdido",
+            "muchas"
+        ],
+        "duracion_estimada_dias": 21,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022821f"
+        },
+        "nombre": "interfaz gráfico de usuario valor añadido de tamaño adecuado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228117"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Posibilidades club cuales habla ningún abril."
+            }
+        ],
+        "medicamentos": [
+            "nuestro"
+        ],
+        "duracion_estimada_dias": 35,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228220"
+        },
+        "nombre": "soporte orientada a soluciones con ingeniería inversa",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a4"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Este empresa administración iba experiencia televisión."
+            }
+        ],
+        "medicamentos": [
+            "poco",
+            "d",
+            "soy"
+        ],
+        "duracion_estimada_dias": 38,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Experiencia algún producto servicios amigos de perdido pueblo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228221"
+        },
+        "nombre": "sinergia innovadora asimilado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228149"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Civil cual instituto partir."
+            }
+        ],
+        "medicamentos": [
+            "esta",
+            "anterior"
+        ],
+        "duracion_estimada_dias": 12,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Bueno madrid rodríguez quiere siempre particular."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228222"
+        },
+        "nombre": "flexibilidad didáctica exclusivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022814e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Podemos formación podrá distintas naturaleza dirección sé."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Hombre importante último nunca p puerto."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Pero cuarto partir acto capacidad vía."
+            }
+        ],
+        "medicamentos": [
+            "carrera",
+            "va"
+        ],
+        "duracion_estimada_dias": 59,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Personas gonzález acto consecuencia sino."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228223"
+        },
+        "nombre": "metodologías vía web en toda la empresa",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022817d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Unas claro pie prueba dinero mayoría van."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 33,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Favor puntos distintas mucho."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228224"
+        },
+        "nombre": "núcleo bifurcada orientado a equipos",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228170"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "He puerto animales energía militar."
+            }
+        ],
+        "medicamentos": [
+            "r",
+            "mismos",
+            "momentos"
+        ],
+        "duracion_estimada_dias": 57,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228225"
+        },
+        "nombre": "base de trabajo generada por el cliente de arquitectura abierta",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022818f"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Ese área iba llegado consecuencia."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Baja octubre existencia radio pablo curso estructura necesario."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Barcelona hasta fácil rosa organización jamás."
+            }
+        ],
+        "medicamentos": [
+            "alguna"
+        ],
+        "duracion_estimada_dias": 37,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Creo gran creación falta son antonio."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228226"
+        },
+        "nombre": "gestión presupuestaria amplio abanico total",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022812d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Miembros santiago comunicación tan tema llevar."
+            }
+        ],
+        "medicamentos": [
+            "consejo",
+            "algunas",
+            "volvió"
+        ],
+        "duracion_estimada_dias": 30,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Objetivo mira debía actitud."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228227"
+        },
+        "nombre": "producto defectos cero multiplataforma",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228184"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Igual u pone pasar países ese época."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 43,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Llegado sólo encontrar tipos aparece madre volvió pone."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228228"
+        },
+        "nombre": "solución multiestado proactivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a2"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Será memoria había joven tal animales aquellos costa."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Se aparece dios mayores un."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "José lenguaje debido comisión recursos consecuencia."
+            }
+        ],
+        "medicamentos": [
+            "incluso",
+            "suerte",
+            "al"
+        ],
+        "duracion_estimada_dias": 35,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Sociedad centros problemas unión hacer entonces todas humanos."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228229"
+        },
+        "nombre": "base de trabajo holística visionario",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022811d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Seguro siglo mitad tras todos haber."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Menor pequeño poner hubo aquella."
+            }
+        ],
+        "medicamentos": [
+            "esos"
+        ],
+        "duracion_estimada_dias": 48,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Necesidad ve ejemplo muchos materia valor resultado primeras."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022822a"
+        },
+        "nombre": "soporte orientada a soluciones clonado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b9"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Armas verdad qué."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Amigo guerra proceso sectores carácter m finalmente sola."
+            }
+        ],
+        "medicamentos": [
+            "hombres",
+            "pedro",
+            "el"
+        ],
+        "duracion_estimada_dias": 37,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Quienes será aire actitud consejo volvió c."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022822b"
+        },
+        "nombre": "matrices 24/7 integrado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022819f"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Primer ambiente evitar conocer mayo."
+            }
+        ],
+        "medicamentos": [
+            "conciencia",
+            "blanca",
+            "este"
+        ],
+        "duracion_estimada_dias": 39,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Del hicieron su dan secretario año."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022822c"
+        },
+        "nombre": "funcionalidad sistemática seguro",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a1"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Libertad estaba base origen llamado ley lópez."
+            }
+        ],
+        "medicamentos": [
+            "investigación",
+            "has",
+            "puerta"
+        ],
+        "duracion_estimada_dias": 59,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Durante nacional seguro trabajadores niño quiere."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022822d"
+        },
+        "nombre": "medición monitorizada por red adaptativo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228119"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Encuentra hija partidos vida."
+            }
+        ],
+        "medicamentos": [
+            "medios",
+            "dos"
+        ],
+        "duracion_estimada_dias": 49,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Pequeño barcelona siempre libertad."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022822e"
+        },
+        "nombre": "habilidad metódica proactivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022816d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Edad ni distintos dan."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Varios sin julio norte esto además pocos."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Días arriba pero haya."
+            }
+        ],
+        "medicamentos": [
+            "tú",
+            "solo"
+        ],
+        "duracion_estimada_dias": 59,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Libro mayor suficiente santiago."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022822f"
+        },
+        "nombre": "línea segura multimedia integrado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c8"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Guerra dio aquellos siete."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Deseo ninguna capaz."
+            }
+        ],
+        "medicamentos": [
+            "suelo"
+        ],
+        "duracion_estimada_dias": 39,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228230"
+        },
+        "nombre": "aplicación generada por el cliente visionario",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c2"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Media mucho izquierda asimismo mercado último."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Nuestro servicios rodríguez sociedad crecimiento."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Fue tanto hubiera mayoría suerte armas."
+            }
+        ],
+        "medicamentos": [
+            "resulta",
+            "paciente",
+            "suerte"
+        ],
+        "duracion_estimada_dias": 25,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Técnica sueño comercio única."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228231"
+        },
+        "nombre": "instalación bidireccional de tamaño adecuado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228133"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Formación toda pero mundial problemas si aquellos."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Profesional generales superior razones educación tiempos televisión primero."
+            }
+        ],
+        "medicamentos": [
+            "i"
+        ],
+        "duracion_estimada_dias": 31,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228232"
+        },
+        "nombre": "estructura de precios óptima personalizable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228145"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Información más contra habla."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Somos fernando siglo fuentes palabras ojos."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Cuarto material historia llegar madrid."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 13,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228233"
+        },
+        "nombre": "habilidad defectos cero en toda la empresa",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022814e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Sistema parís médico presidente ese."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Hombre sistema sistema hace internacional ley."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Buen área democracia cosas llegar alguna nombre."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 33,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Rafael memoria fue costa económico cultura."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228234"
+        },
+        "nombre": "intranet nacional implementado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228193"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Francia una un prensa vivir clase objeto comisión."
+            }
+        ],
+        "medicamentos": [
+            "decía",
+            "habían"
+        ],
+        "duracion_estimada_dias": 23,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228235"
+        },
+        "nombre": "jerarquía nacional ergonómico",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a7"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Cosa se manuel con desarrollo."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Alguna semanas gente mujer."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Nunca etapa quien sociedad."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 55,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228236"
+        },
+        "nombre": "producto tolerante a fallos exclusivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281d6"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Conjunto peor pequeño grandes."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Tengo evitar posibilidades contra."
+            }
+        ],
+        "medicamentos": [
+            "dicho",
+            "administración"
+        ],
+        "duracion_estimada_dias": 20,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Sí papel estudios manos jamás conjunto hacer."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228237"
+        },
+        "nombre": "firmware motivadora configurable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022812d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Atención estas iba función cada ello nos."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Seguridad carne donde serie dice."
+            }
+        ],
+        "medicamentos": [
+            "demás",
+            "consumo"
+        ],
+        "duracion_estimada_dias": 50,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228238"
+        },
+        "nombre": "adaptador 3ra generación progresivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b9"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Ambos uso países pasado papel único."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Centro puerto permite padre materia vamos he."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Suficiente político fiscal casi mes."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 9,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Sociales hace adelante opinión dice consecuencia."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228239"
+        },
+        "nombre": "éxito secundaria balanceado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228179"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Casos tenido tal entrar."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Así encima diversos serán del."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 17,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Pasó debía alguna."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022823a"
+        },
+        "nombre": "interfaz gráfico de usuario nueva generación basado en objetos",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228152"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Humano bueno humana ninguna actividad electoral objetivo."
+            }
+        ],
+        "medicamentos": [
+            "vez",
+            "instituciones",
+            "nosotros"
+        ],
+        "duracion_estimada_dias": 29,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Centro fiscal prensa empresas."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022823b"
+        },
+        "nombre": "intranet regional versátil",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b8"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Fiscal dos quizá."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Comisión máximo he quiere consecuencia derecha."
+            }
+        ],
+        "medicamentos": [
+            "salida"
+        ],
+        "duracion_estimada_dias": 15,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022823c"
+        },
+        "nombre": "paradigma orientada a soluciones innovador",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228191"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Volvió efectos miembros sus antes trabajo debido."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Voluntad camino ha."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Destino buscar fuera."
+            }
+        ],
+        "medicamentos": [
+            "sí",
+            "con",
+            "creación"
+        ],
+        "duracion_estimada_dias": 33,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022823d"
+        },
+        "nombre": "habilidad multitarea realineado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228112"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Hombres perdido empresas."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Poner ahora amigos popular origen tratamiento realizar comunicación."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Alta futuro días quizá."
+            }
+        ],
+        "medicamentos": [
+            "encuentro",
+            "joven",
+            "música"
+        ],
+        "duracion_estimada_dias": 31,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Además principios violencia propia."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022823e"
+        },
+        "nombre": "fidelidad compuesto automatizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228113"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Ideas la cama aquel."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Servicios hermano santa camino siendo va."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Señor buscar eso políticas sus fuerte sectores."
+            }
+        ],
+        "medicamentos": [
+            "comunidad"
+        ],
+        "duracion_estimada_dias": 55,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Serie principio investigación."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022823f"
+        },
+        "nombre": "groupware radical reducido",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228139"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Primeras prueba unión quedó sistemas derechos."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Ejército existe principios."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "El hacen madrid quería."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 36,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228240"
+        },
+        "nombre": "colaboración óptima multicanal",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022817d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Era existe durante técnica clase."
+            }
+        ],
+        "medicamentos": [
+            "socialista",
+            "empresas"
+        ],
+        "duracion_estimada_dias": 50,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228241"
+        },
+        "nombre": "groupware dinámica reactivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022818b"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Función sido mundo acción."
+            }
+        ],
+        "medicamentos": [
+            "norte",
+            "posibilidades",
+            "estilo"
+        ],
+        "duracion_estimada_dias": 38,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Con unidos otra tenían buscar."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228242"
+        },
+        "nombre": "medición coherente progresivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022817d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Distintos visita mucha resultados humana cuya persona operación."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Tras construcción según dejó centros."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Pequeña contra sea recuerdo presenta."
+            }
+        ],
+        "medicamentos": [
+            "existen",
+            "tiempos"
+        ],
+        "duracion_estimada_dias": 58,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Medidas servicios servicio atrás cuando economía."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228243"
+        },
+        "nombre": "mediante intangible multilateral",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228141"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Unidad base centros número bajo mujeres juego esa."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Sala pequeña conciencia investigación conciencia unión vivir."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Volver mantener méxico haciendo p aparece."
+            }
+        ],
+        "medicamentos": [
+            "santiago",
+            "mes",
+            "conseguir"
+        ],
+        "duracion_estimada_dias": 15,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Les manuel tipos proyectos permite riesgo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228244"
+        },
+        "nombre": "alianza multiestado compartible",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228127"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Vuelve trata comunidad atrás."
+            }
+        ],
+        "medicamentos": [
+            "plaza"
+        ],
+        "duracion_estimada_dias": 8,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Nada jorge llevar sol."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228245"
+        },
+        "nombre": "emulación dinámica seguro",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281ac"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Tener juego enfermedad iglesia."
+            }
+        ],
+        "medicamentos": [
+            "suficiente"
+        ],
+        "duracion_estimada_dias": 37,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Eso felipe allá española hecho."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228246"
+        },
+        "nombre": "éxito secundaria open-source",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022813f"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Curso razón riesgo nada diciembre primer juan llega."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Martín desde gracias."
+            }
+        ],
+        "medicamentos": [
+            "ciento"
+        ],
+        "duracion_estimada_dias": 59,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Tenemos es marzo nombre antonio reforma."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228247"
+        },
+        "nombre": "protocolo heurística mejorado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281af"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Espacio d será santiago ideas niveles vamos."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 6,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Dolor primer alguien reunión mayoría habrá."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228248"
+        },
+        "nombre": "iniciativa misión crítica recontextualizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228155"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Difícil qué curso ambos necesario."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Fernando precio gente nunca y suelo."
+            }
+        ],
+        "medicamentos": [
+            "calidad"
+        ],
+        "duracion_estimada_dias": 53,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Amigos gracias torno."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228249"
+        },
+        "nombre": "middleware local cara a cara",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228129"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Visita busca hay porque."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Esas sea aunque iba."
+            }
+        ],
+        "medicamentos": [
+            "niño",
+            "costa",
+            "han"
+        ],
+        "duracion_estimada_dias": 38,
+        "requiere_hospitalizacion": true,
+        "observaciones": "González siglo seguro ve público persona carlos hacer."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022824a"
+        },
+        "nombre": "encriptar vía web robusto",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228116"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Mesa estamos eso cantidad."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Ellas proceso suerte sido ni."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Proyecto centro carta."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 48,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022824b"
+        },
+        "nombre": "array 5ta generación diverso",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a2"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Atrás jamás tema administración visto medios compañía."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Finalmente cuya habían debido hablar."
+            }
+        ],
+        "medicamentos": [
+            "pesetas",
+            "esas",
+            "marzo"
+        ],
+        "duracion_estimada_dias": 29,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Estoy decía gente estaban diversos."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022824c"
+        },
+        "nombre": "arquitectura misión crítica enfocado al cliente",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281cc"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Estar demás hicieron dentro región propio diversos mercado."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Mucho diversos ver siquiera hija buenos fueron."
+            }
+        ],
+        "medicamentos": [
+            "obras",
+            "familia",
+            "hecho"
+        ],
+        "duracion_estimada_dias": 38,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022824d"
+        },
+        "nombre": "iniciativa basado en necesidades personalizable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022816b"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Clase considera ello padre misma cine lo."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Acciones estar veces sabía frente podrá."
+            }
+        ],
+        "medicamentos": [
+            "padre",
+            "aspecto"
+        ],
+        "duracion_estimada_dias": 54,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Blanco lleva blanco especie siendo volvió."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022824e"
+        },
+        "nombre": "circuito amplio abanico adaptativo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281bd"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Segundo vida cerca demás problema."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Martín hacía hacia."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Juego estaba iba económica."
+            }
+        ],
+        "medicamentos": [
+            "mayoría",
+            "una"
+        ],
+        "duracion_estimada_dias": 31,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Serán naturaleza práctica américa."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022824f"
+        },
+        "nombre": "adaptador maximizada enfocado a la calidad",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228133"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Precios unidad aún hacía juego."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Pocos profesional cama p un."
+            }
+        ],
+        "medicamentos": [
+            "dentro"
+        ],
+        "duracion_estimada_dias": 16,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Vuelta político especial estaban ocho."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228250"
+        },
+        "nombre": "sinergia escalable monitoreado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228196"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Estructura pueblo crisis necesidad hay cómo haya."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Llegar deja artículo."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Los de padres período línea manuel."
+            }
+        ],
+        "medicamentos": [
+            "años",
+            "persona"
+        ],
+        "duracion_estimada_dias": 25,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Señaló victoria igual salir medio entrar armas apoyo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228251"
+        },
+        "nombre": "firmware estática basado en objetos",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228158"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Martín organización control mira horas."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "El imposible formación cada fuera su salud éste."
+            }
+        ],
+        "medicamentos": [
+            "atrás",
+            "local",
+            "octubre"
+        ],
+        "duracion_estimada_dias": 31,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Ley políticas instituciones industria va."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228252"
+        },
+        "nombre": "soporte misión crítica centralizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228164"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Espacio palabra aquella voluntad."
+            }
+        ],
+        "medicamentos": [
+            "resulta"
+        ],
+        "duracion_estimada_dias": 58,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Has hombre instituciones defensa."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228253"
+        },
+        "nombre": "moderador 4ta generación enfocado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022815f"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Hora miembros piel millones."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Origen a norte dios seis."
+            }
+        ],
+        "medicamentos": [
+            "modo",
+            "diez",
+            "efectos"
+        ],
+        "duracion_estimada_dias": 32,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Menos ello b trabajo españa."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228254"
+        },
+        "nombre": "data-warehouse bidireccional innovador",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022819a"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Viene es tribunal pesetas pp."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Texto dan español humano electoral grupos propio."
+            }
+        ],
+        "medicamentos": [
+            "eso",
+            "informe",
+            "segunda"
+        ],
+        "duracion_estimada_dias": 20,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Paz apenas internacional segundo clase socialista especie."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228255"
+        },
+        "nombre": "inteligencia artificial local programable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228131"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "El diferentes cargo y peor."
+            }
+        ],
+        "medicamentos": [
+            "tener",
+            "pequeño"
+        ],
+        "duracion_estimada_dias": 44,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Nuestra e precisamente p todos."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228256"
+        },
+        "nombre": "moderador tolerante a fallos llave pública",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228129"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Pueden finalmente países."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Buenos mientras estructura sabía color."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 25,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Hasta dicho ellas salud consejo explicó."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228257"
+        },
+        "nombre": "contingencia terciaria actualizable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b8"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Importantes pensar mayoría estados resultado blanca paz."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Producto unidos día norte metros."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 43,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Unión somos nuestra siempre siempre actividades."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228258"
+        },
+        "nombre": "array alto nivel monitoreado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022816d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Estas barcelona económico vivir fuera compañía persona zona."
+            }
+        ],
+        "medicamentos": [
+            "poder"
+        ],
+        "duracion_estimada_dias": 37,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Mal contenido podía encima organización ni asimismo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228259"
+        },
+        "nombre": "sinergia sistemática enfocado al cliente",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228114"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Hijos buen grupo sueño se sociedad."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Jamás expresión producto atrás ese tiempos."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 19,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Dólares española nos propuesta le sola."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022825a"
+        },
+        "nombre": "actitud didáctica fundamental",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a0"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Estudio recuerdo pueda."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Hacía ella pone mayores visita madre grupos distintos."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 15,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Fuego días mucho diferencia salud."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022825b"
+        },
+        "nombre": "archivo 24 horas distribuido",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c2"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Debe imposible pregunta seis."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Casi mar podemos arte además época asimismo."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Través señaló hombres sido director cuba eso."
+            }
+        ],
+        "medicamentos": [
+            "donde",
+            "cosas"
+        ],
+        "duracion_estimada_dias": 34,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Administración martín varios septiembre apenas."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022825c"
+        },
+        "nombre": "proceso de mejora sensible al contexto orgánico",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281cb"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Acerca fuentes ciencia económico uso papel."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Curso trabajo muerto pesar quien constitución."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 18,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Rosa miedo constitución nueva dólares material."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022825d"
+        },
+        "nombre": "núcleo cliente-servidor inverso",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c7"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Sería puerta sociedad vamos."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Meses ciudad serie va entrada otra formación."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 32,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022825e"
+        },
+        "nombre": "firmware tolerancia cero avanzado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228148"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Señora embargo administración derecha."
+            }
+        ],
+        "medicamentos": [
+            "experiencia",
+            "vivir",
+            "investigación"
+        ],
+        "duracion_estimada_dias": 27,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Dar blanco también vez será características."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022825f"
+        },
+        "nombre": "acceso recíproca adaptativo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022814c"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Trabajo última habían ir anterior."
+            }
+        ],
+        "medicamentos": [
+            "izquierda"
+        ],
+        "duracion_estimada_dias": 23,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Análisis aspecto o futuro diferencia."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228260"
+        },
+        "nombre": "moderador sistémica avanzado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022815c"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Película perdido estilo viene estoy estaban."
+            }
+        ],
+        "medicamentos": [
+            "edad",
+            "d"
+        ],
+        "duracion_estimada_dias": 13,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Recursos mi derecha segunda siempre m."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228261"
+        },
+        "nombre": "metodologías metódica multi-capas",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228187"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Solamente dentro poder televisión lucha años millones."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 54,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Grado grupo importantes carrera no mayo tipo están."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228262"
+        },
+        "nombre": "proceso de mejora 5ta generación inverso",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a3"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Exterior industria española debido ve."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Objetivo diez existen escuela plan buenos vía."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Vamos estados fácil sueño."
+            }
+        ],
+        "medicamentos": [
+            "mitad"
+        ],
+        "duracion_estimada_dias": 48,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Señaló derecho hacerlo pesetas libertad."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228263"
+        },
+        "nombre": "aplicación multitarea avanzado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228139"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Ir adelante mirada producción."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Asimismo dicen dinero ver apenas."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Marco fecha ex aquel sido ningún."
+            }
+        ],
+        "medicamentos": [
+            "gran",
+            "quien",
+            "posibilidad"
+        ],
+        "duracion_estimada_dias": 47,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228264"
+        },
+        "nombre": "habilidad nueva generación intuitivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022812b"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Parece palabra ahora junto."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Respecto análisis paz mano función."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Principales tema presenta tiempo programa ni."
+            }
+        ],
+        "medicamentos": [
+            "sí",
+            "somos",
+            "importante"
+        ],
+        "duracion_estimada_dias": 29,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Partido universidad administración pública desde."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228265"
+        },
+        "nombre": "conjunto de instrucciones analizada inverso",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022816d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Condiciones nuevo rafael ocasión."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Ellos s tras posibilidades imágenes."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Cosas materia debido vida único dirección muchos."
+            }
+        ],
+        "medicamentos": [
+            "mitad"
+        ],
+        "duracion_estimada_dias": 9,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Cuya contrario buscar explicó centros experiencia libre."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228266"
+        },
+        "nombre": "groupware nacional sincronizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a3"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Juez poder real principios."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Universidad tratamiento gonzález apenas hacía."
+            }
+        ],
+        "medicamentos": [
+            "proyectos",
+            "técnica"
+        ],
+        "duracion_estimada_dias": 42,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Personal distintas mesa méxico algunos varios."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228267"
+        },
+        "nombre": "actitud dedicada intuitivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228152"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Hijo porque cuerpo."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Interior mantener siete hombres defensa tiempo pequeña consecuencia."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Todos ejército sector todas texto."
+            }
+        ],
+        "medicamentos": [
+            "cuatro",
+            "médico"
+        ],
+        "duracion_estimada_dias": 14,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Conciencia cuarto los relaciones miembros parte."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228268"
+        },
+        "nombre": "portal orientada a soluciones basado en funcionalidad",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022818d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Medida niños maría etapa fuerte unidos."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Personas primeras especie pequeño joven luz."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Recuerdo exterior distintas visita programas ocasiones pasado cuatro."
+            }
+        ],
+        "medicamentos": [
+            "revolución"
+        ],
+        "duracion_estimada_dias": 47,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Debe afirmó características embargo has campaña."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228269"
+        },
+        "nombre": "función misión crítica sincronizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228150"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Falta cabo ciencia hombre."
+            }
+        ],
+        "medicamentos": [
+            "economía"
+        ],
+        "duracion_estimada_dias": 12,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Tiempos había personal otra relación largo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022826a"
+        },
+        "nombre": "base del conocimiento generado por la demanda basado en objetos",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228147"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Centro francia enero."
+            }
+        ],
+        "medicamentos": [
+            "día"
+        ],
+        "duracion_estimada_dias": 48,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Nuestro control guerra tener sigue."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022826b"
+        },
+        "nombre": "complejidad generado por la demanda de arquitectura abierta",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a4"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Crisis derechos apenas mundial especialmente trabajadores otro."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 26,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Europea pp cuestión pasa toda."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022826c"
+        },
+        "nombre": "implementación 4ta generación ergonómico",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c2"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Forma dijo imágenes ex plazo produce región lópez."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Humanos memoria aquellos son de escuela."
+            }
+        ],
+        "medicamentos": [
+            "consejo",
+            "d"
+        ],
+        "duracion_estimada_dias": 50,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022826d"
+        },
+        "nombre": "soporte estática integrado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228195"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Necesario salir entre casi encuentro algo ejército cuarto."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Don d servicios tenían carne."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Calle nunca popular número mes."
+            }
+        ],
+        "medicamentos": [
+            "administración",
+            "manuel",
+            "para"
+        ],
+        "duracion_estimada_dias": 57,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Contra francisco cabeza parís voluntad social poder título."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022826e"
+        },
+        "nombre": "contingencia 4ta generación open-source",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228113"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Realizar están programas e lenguaje única."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Abril este social puesto."
+            }
+        ],
+        "medicamentos": [
+            "poder",
+            "a",
+            "medida"
+        ],
+        "duracion_estimada_dias": 41,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022826f"
+        },
+        "nombre": "adaptador explícita multiplataforma",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022814b"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Arriba francisco buen personas."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Importantes cuerpo poner."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Relación viene prueba existencia sueño hijo."
+            }
+        ],
+        "medicamentos": [
+            "nombre",
+            "esto",
+            "buen"
+        ],
+        "duracion_estimada_dias": 38,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228270"
+        },
+        "nombre": "medición uniforme innovador",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228112"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Fernando poco sector presidente."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Sea derecha civil etapa próximo mejores volvió tenían."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 37,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228271"
+        },
+        "nombre": "actitud móvil opcional",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228145"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Oposición máximo acto."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 18,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Clase base martín temas."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228272"
+        },
+        "nombre": "archivo compuesto balanceado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022812c"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Ciudad aquellas libros principio francisco."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Más ante dónde lo partes aparece."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Amigos humano dónde razón."
+            }
+        ],
+        "medicamentos": [
+            "madre",
+            "visita"
+        ],
+        "duracion_estimada_dias": 33,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Pedro próximo dejar joven calle llevar."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228273"
+        },
+        "nombre": "actitud asíncrona automatizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228150"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Ni mantener oposición cama energía alto conocer."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 23,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Creo ésta ni destino alta sobre."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228274"
+        },
+        "nombre": "hardware analizada actualizable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281ce"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Blanca estamos problemas tuvo hasta."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Constitución siendo vía atención ella reunión."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "O acciones mis con chile nuestro."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 54,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Dar relaciones naturaleza ciudad idea."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228275"
+        },
+        "nombre": "aprovechar sistémica orgánico",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b1"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "N vivir popular."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Viene experiencia médico otras."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 31,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228276"
+        },
+        "nombre": "estructura de precios intermedia optimizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228182"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Universidad suficiente futuro toma niveles."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Atrás sería palabras fin tiempo mira."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Tampoco sectores diciembre consecuencia libertad."
+            }
+        ],
+        "medicamentos": [
+            "paz",
+            "palabras"
+        ],
+        "duracion_estimada_dias": 13,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Estamos formas ambos hacía."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228277"
+        },
+        "nombre": "implementación 24/7 avanzado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228133"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Rodríguez cabo punto tampoco."
+            }
+        ],
+        "medicamentos": [
+            "unidad"
+        ],
+        "duracion_estimada_dias": 48,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Cuenta interés socialista muy bueno va."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228278"
+        },
+        "nombre": "desafío 24/7 centralizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228182"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Busca dicen dejó tarde."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 21,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Día domingo iglesia s hizo importante."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228279"
+        },
+        "nombre": "paralelismo didáctica configurable",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a6"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Media quedó tanto valores tomar cámara."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Posición siguiente diciembre días."
+            }
+        ],
+        "medicamentos": [
+            "además",
+            "chile",
+            "orden"
+        ],
+        "duracion_estimada_dias": 41,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Primero la unión felipe viejo mano común apoyo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022827a"
+        },
+        "nombre": "implementación no-volátil horizontal",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b0"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Aquellos nadie psoe ese dos."
+            }
+        ],
+        "medicamentos": [
+            "debía",
+            "efecto",
+            "está"
+        ],
+        "duracion_estimada_dias": 6,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Estado comunidad jóvenes plazo dos construcción."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022827b"
+        },
+        "nombre": "software logística con ingeniería inversa",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228151"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Total mejor muerto hecho bien personas."
+            }
+        ],
+        "medicamentos": [
+            "españoles"
+        ],
+        "duracion_estimada_dias": 31,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Había general distintas."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022827c"
+        },
+        "nombre": "adaptador interactiva basado en funcionalidad",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c0"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Opinión hacen debido mira."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Miedo verdad verdad universidad llegar tener."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 40,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Pregunta pone banco nuestras mismo una."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022827d"
+        },
+        "nombre": "concepto nacional realineado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c5"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Haber cualquier arriba intereses pesar."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Dice s eso señor dios república."
+            }
+        ],
+        "medicamentos": [
+            "cuerpo",
+            "pequeño"
+        ],
+        "duracion_estimada_dias": 8,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Siquiera deja mesa cómo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022827e"
+        },
+        "nombre": "conglomeración tolerancia cero visionario",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022817c"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Apenas deben radio."
+            }
+        ],
+        "medicamentos": [
+            "dan",
+            "hacen"
+        ],
+        "duracion_estimada_dias": 51,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Aún nuestro peor ellos ideas."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022827f"
+        },
+        "nombre": "solución óptima persistente",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022814c"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Ejemplo cuales dicen centro último propuesta."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Hermano muerte cosa constitución riesgo exterior ojos."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 43,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228280"
+        },
+        "nombre": "acceso valor añadido visionario",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228189"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Mujer volvió cerca pequeño necesidad."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Defensa aspectos entre miedo carlos nosotros parte."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Ocasiones primeros posibilidad varios."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 45,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228281"
+        },
+        "nombre": "solución 24/7 clonado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281d3"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Acto cámara estas entonces espacio valores."
+            }
+        ],
+        "medicamentos": [
+            "instituto"
+        ],
+        "duracion_estimada_dias": 29,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Vida llega perdido seguro."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228282"
+        },
+        "nombre": "circuito 3ra generación seguro",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022815d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Mano sangre esas metros cargo nosotros hasta."
+            }
+        ],
+        "medicamentos": [
+            "carácter"
+        ],
+        "duracion_estimada_dias": 52,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Quedó presidente entrar pueda falta pequeño."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228283"
+        },
+        "nombre": "protocolo móvil mandatorio",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022815b"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Les ellos perdido ha jamás."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Alguna violencia mejores nuevas imposible nuestros."
+            }
+        ],
+        "medicamentos": [
+            "sabía",
+            "tampoco",
+            "peor"
+        ],
+        "duracion_estimada_dias": 27,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228284"
+        },
+        "nombre": "acceso multitarea diverso",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281d4"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Mayores padres resultado sólo pronto porque tienen."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Nuestros propio meses contenido han diferentes presenta."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Capacidad trabajar estudio material ella santa."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 15,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Cual por dinero muerto partes líder lópez hubiera."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228285"
+        },
+        "nombre": "protocolo coherente enfocado a la calidad",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022819c"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Reunión se semana unidos siendo ayer historia."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 40,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Veces partes sabía llegar expresión."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228286"
+        },
+        "nombre": "sinergia no-volátil virtual",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022818d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Color cara p armas vista suelo aquí."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Toma destino r."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 60,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Después resto análisis ella educación día esos."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228287"
+        },
+        "nombre": "jerarquía amplio abanico mejorado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228164"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Existe acciones jamás razones ex igual tipos hacía."
+            }
+        ],
+        "medicamentos": [
+            "hechos",
+            "joven",
+            "militar"
+        ],
+        "duracion_estimada_dias": 18,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Donde puntos tribunal volver."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228288"
+        },
+        "nombre": "arquitectura abierta sistémica open-source",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228173"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Encima sólo tampoco buen cabo."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Tenemos propios durante."
+            }
+        ],
+        "medicamentos": [
+            "blanco"
+        ],
+        "duracion_estimada_dias": 21,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Permite parecía junio ministro deseo parece nadie."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228289"
+        },
+        "nombre": "actitud escalable inverso",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228150"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Hecho m europa."
+            }
+        ],
+        "medicamentos": [
+            "construcción",
+            "económica",
+            "pasa"
+        ],
+        "duracion_estimada_dias": 13,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Campo fondo estudios abril estamos siglo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022828a"
+        },
+        "nombre": "base de trabajo asimétrica distribuido",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228149"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Medio has hacia llevar."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Historia sistema quienes incluso riesgo fecha encontrar."
+            }
+        ],
+        "medicamentos": [
+            "cual",
+            "que"
+        ],
+        "duracion_estimada_dias": 22,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Fecha ella principales allí todavía puesto es."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022828b"
+        },
+        "nombre": "moderador explícita recontextualizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281ba"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Tenía niveles favor decisión comisión juego."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 24,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Causa cargo aún septiembre."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022828c"
+        },
+        "nombre": "array híbrida ergonómico",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228194"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Puntos medios haciendo animales base cuerpo josé."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Economía encontrar director."
+            }
+        ],
+        "medicamentos": [
+            "etapa"
+        ],
+        "duracion_estimada_dias": 42,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Mes millones servicio mira pueblo época manos."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022828d"
+        },
+        "nombre": "paralelismo heurística monitoreado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228166"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Cuyo haber embargo dios pequeña visto europea."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Atención espacio mira reunión."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Precios otra hechos padres."
+            }
+        ],
+        "medicamentos": [
+            "existen"
+        ],
+        "duracion_estimada_dias": 55,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Mesa dio casi militares unidos última vuelta."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022828e"
+        },
+        "nombre": "interfaz coherente multicanal",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281b2"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Características para derechos hacía económico."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Señor mayo cinco función."
+            }
+        ],
+        "medicamentos": [
+            "cierto",
+            "quedó"
+        ],
+        "duracion_estimada_dias": 10,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Necesario sangre busca."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022828f"
+        },
+        "nombre": "aprovechar heurística progresivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c3"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Hoy después sería van ninguna."
+            }
+        ],
+        "medicamentos": [
+            "primer",
+            "algún",
+            "cuarto"
+        ],
+        "duracion_estimada_dias": 5,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Creación produce ex muestra productos sociales unos."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228290"
+        },
+        "nombre": "capacidad local orientado a equipos",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022818a"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Estas espacio electoral falta."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 28,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Contrario estuvo españoles a américa."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228291"
+        },
+        "nombre": "jerarquía multitarea monitoreado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228154"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Marco obstante personas zonas blanco dice."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Dejar he en seguridad plan o."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 54,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228292"
+        },
+        "nombre": "caja de herramientas bidireccional intuitivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228164"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Lleva políticas misma."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Según acerca lenguaje estar miedo diario."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 36,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228293"
+        },
+        "nombre": "definición discreta digitalizado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228111"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Dicho consejo enero tenía jamás años."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Partidos proyectos muestra humano claro."
+            }
+        ],
+        "medicamentos": [
+            "común",
+            "importantes",
+            "además"
+        ],
+        "duracion_estimada_dias": 6,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Aquí he van general."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228294"
+        },
+        "nombre": "paradigma tiempo real administrado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022819d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Barcelona este etc niveles número."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Media momento largo cual octubre hasta tierra."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Han esto persona dejar flores."
+            }
+        ],
+        "medicamentos": [
+            "tipo",
+            "ningún",
+            "primera"
+        ],
+        "duracion_estimada_dias": 28,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228295"
+        },
+        "nombre": "orquestar generada por el cliente enfocado a ganancias",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c8"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Semana fondo propio este afirmó creación suerte."
+            }
+        ],
+        "medicamentos": [
+            "somos",
+            "encuentra",
+            "conjunto"
+        ],
+        "duracion_estimada_dias": 60,
+        "requiere_hospitalizacion": false
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228296"
+        },
+        "nombre": "portal misión crítica administrado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022818c"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Oro mayo demasiado eso población."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Ejército trabajadores lenguaje por."
+            }
+        ],
+        "medicamentos": [
+            "película",
+            "muchos",
+            "cambios"
+        ],
+        "duracion_estimada_dias": 56,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Acerca había s madrid dentro ideas todas."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228297"
+        },
+        "nombre": "aprovechar 4ta generación adaptativo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a1"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Sin base militar pasar rey."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Que m cinco deseo oposición ninguna relación quizá."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Ellos explicó decía vuelve buena haya."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 56,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Antes les trata camino región bastante ese."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228298"
+        },
+        "nombre": "inteligencia artificial alto nivel fundamental",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281c8"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Claro al sería quién sueño poco."
+            }
+        ],
+        "medicamentos": [
+            "tal",
+            "seguir",
+            "explicó"
+        ],
+        "duracion_estimada_dias": 24,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Presencia encuentra sólo."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b0228299"
+        },
+        "nombre": "codificar multiestado monitoreado",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228157"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Señor todos mejor está necesidad."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Niño contrario ministro garcía control además tiene menos."
+            }
+        ],
+        "medicamentos": [],
+        "duracion_estimada_dias": 50,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Región aunque estas haber."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022829a"
+        },
+        "nombre": "migración explícita progresivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228149"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Resultados día costa m buena mil lucha."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Cabo difícil tendrá menor esa otros saber."
+            }
+        ],
+        "medicamentos": [
+            "julio",
+            "profesional"
+        ],
+        "duracion_estimada_dias": 34,
+        "requiere_hospitalizacion": true
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022829b"
+        },
+        "nombre": "base del conocimiento sistémica enfocado a la calidad",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022814e"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Etc régimen ahora natural yo centros programas algún."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Máximo dentro atrás toda apoyo fin."
+            }
+        ],
+        "medicamentos": [
+            "ha"
+        ],
+        "duracion_estimada_dias": 50,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Políticas comunidad contra."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022829c"
+        },
+        "nombre": "función escalable enfocado al negocio",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281a8"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Cosas libertad humano ministro."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Materia un forma dicho algún llegó aquellos."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Distintos imágenes junto varias agua nuestra personas."
+            }
+        ],
+        "medicamentos": [
+            "nos",
+            "desarrollo",
+            "fiscal"
+        ],
+        "duracion_estimada_dias": 19,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Consecuencia expresión tarde."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022829d"
+        },
+        "nombre": "iniciativa analizada basado en objetos",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b02281d3"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Mayo g fuentes director."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Presenta empresas pese miembros autoridades."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Has voy salud formación cuanto haciendo último volver."
+            }
+        ],
+        "medicamentos": [
+            "parte",
+            "éxito"
+        ],
+        "duracion_estimada_dias": 28,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Entre duda especie libre importancia fiscal."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022829e"
+        },
+        "nombre": "base de trabajo 5ta generación basado en objetos",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b0228190"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Obras buena área puede viejo para."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Necesario ayuda curso bajo."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "París luego igual pesetas minutos."
+            }
+        ],
+        "medicamentos": [
+            "hablar",
+            "modelo",
+            "fecha"
+        ],
+        "duracion_estimada_dias": 48,
+        "requiere_hospitalizacion": true,
+        "observaciones": "Yo sur mejores medidas ellas."
+    },
+    {
+        "_id": {
+            "$oid": "68edf766ddfed863b022829f"
+        },
+        "nombre": "soporte intangible reactivo",
+        "diagnostico_id": {
+            "$oid": "68edf766ddfed863b022815d"
+        },
+        "pasos": [
+            {
+                "etapa": 0,
+                "descripcion": "Consumo entonces estos clase."
+            },
+            {
+                "etapa": 1,
+                "descripcion": "Pacientes seguridad bastante público quienes."
+            },
+            {
+                "etapa": 2,
+                "descripcion": "Fuerzas o octubre ni misma."
+            }
+        ],
+        "medicamentos": [
+            "espera",
+            "aumento"
+        ],
+        "duracion_estimada_dias": 26,
+        "requiere_hospitalizacion": false,
+        "observaciones": "Obstante idea todas por vio produce."
+    }
+]
