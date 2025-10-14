@@ -1,0 +1,5 @@
+dnspython==2.8.0
+Faker==37.11.0
+mongoengine==0.29.1
+pymongo==4.15.3
+tzdata==2025.2
