@@ -8,7 +8,7 @@ A continuación se presentan dos diagramas clave para comprender la estructura y
 
 ![Esquema jerárquico de datos](images/hierarchical_scheme.png)
 
-### Diagrama Entidad-Relación (E-R)
+### Diagrama Esquematico basado en las colecciones
 
 ![Diagrama E-R](images/schema.png)
 
