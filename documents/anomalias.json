@@ -2,538 +2,543 @@
   "pacientes": [
     {
       "tipo": "edad_anomala",
-      "nombre": "Jaime Palomo Montenegro",
-      "edad": 132
+      "nombre": "Raúl Cruz",
+      "edad": 157
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Graciela Escalante Nájera",
-      "edad": 127
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Noelia Aldonza Iglesias Maya",
-      "edad": 168
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Mitzy Reina Lara",
-      "edad": 137
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Mtro. Miguel Ángel Ávila",
-      "edad": 171
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Dr. Óscar Mata",
-      "edad": 192
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Sr(a). Samuel Escobedo",
-      "edad": 183
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Evelio Elvia Galván",
-      "edad": 196
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Mauro Violeta Villagómez",
-      "edad": 181
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Enrique Hilda León Camarillo",
-      "edad": 128
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Gabriel Darío Baca",
-      "edad": 190
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Anabel Héctor Páez",
-      "edad": 132
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Hermelinda Clemente Peña",
-      "edad": 142
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Ing. Socorro Casares",
-      "edad": 181
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Itzel Núñez",
-      "edad": 123
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Porfirio Vega Vásquez",
-      "edad": 149
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Noemí Henríquez",
-      "edad": 141
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Lourdes Miriam Ulloa",
-      "edad": 183
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Frida Benavídez",
-      "edad": 154
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Ing. Carolina Barrera",
-      "edad": 145
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Jacobo Rentería Cotto",
-      "edad": 199
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Irma Fernando Salcedo",
-      "edad": 153
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Rodolfo de la Torre",
-      "edad": 156
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Sr(a). Abril Briones",
-      "edad": 189
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Santiago Puga",
-      "edad": 185
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Rebeca Hidalgo",
-      "edad": 153
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Arturo Véliz Sierra",
-      "edad": 134
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Leonor José María Puga",
-      "edad": 153
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "David Emiliano Alonzo Arias",
-      "edad": 196
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Sr(a). Rebeca Pabón",
-      "edad": 173
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Asunción Lovato Sepúlveda",
+      "nombre": "Mtro. Salma Cotto",
       "edad": 176
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Gabino Almaraz Jimínez",
-      "edad": 168
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Esther David Mojica Quintana",
-      "edad": 199
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Julia Elias Haro",
-      "edad": 131
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Guillermo Francisca Coronado Almonte",
-      "edad": 168
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "José Luis Norma Gómez",
-      "edad": 131
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Anel Felix Soto Longoria",
-      "edad": 200
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Ing. René Palacios",
-      "edad": 148
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Lorena Diana Pulido",
-      "edad": 159
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Salma Reynoso",
-      "edad": 187
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Luis Muñoz",
-      "edad": 128
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Zoé Flavio Jimínez",
-      "edad": 145
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Camila Carrera Ceballos",
-      "edad": 175
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Salma Alfaro Curiel",
-      "edad": 151
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Dr. Carla Zaragoza",
-      "edad": 193
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Karina Batista Aponte",
-      "edad": 135
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Mateo Julia Jiménez",
-      "edad": 176
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Mtro. Juan Carlos del Valle",
-      "edad": 162
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Jaqueline Martha Ríos Ortiz",
-      "edad": 137
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Linda Pérez Griego",
-      "edad": 188
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Amalia Abril Colón Gutiérrez",
-      "edad": 154
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Margarita Mario Durán",
-      "edad": 177
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Carlos Alarcón Tello",
-      "edad": 171
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Bianca Sisneros Carrillo",
-      "edad": 180
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Francisco Esparza Santana",
-      "edad": 130
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Omar Báez Caballero",
-      "edad": 136
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Gregorio Alonso Olivares",
-      "edad": 150
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Sr(a). Eugenio Tijerina",
-      "edad": 152
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "David Godínez Olvera",
-      "edad": 152
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Armando Arroyo Vela",
-      "edad": 196
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Noemí Urías Romero",
-      "edad": 183
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Eloisa Alcaraz",
-      "edad": 183
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Alberto Diana Romo",
-      "edad": 173
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Mariano Jaramillo Nava",
-      "edad": 141
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Estela Genaro Lara Salas",
-      "edad": 141
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Dr. Jaime Cardenas",
-      "edad": 186
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Evelio Menéndez Hernández",
-      "edad": 132
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Lic. Bianca Alarcón",
-      "edad": 148
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Nayeli Teodoro Rojo",
-      "edad": 196
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Cristina Roldán",
-      "edad": 155
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Carolina Isaac Castañeda",
-      "edad": 164
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Aurelio González Armas",
-      "edad": 175
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Julio Gloria Apodaca Naranjo",
-      "edad": 155
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Paola Socorro Roque",
-      "edad": 190
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Felipe Padrón",
-      "edad": 171
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Andrés Niño",
-      "edad": 128
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Sara Baca",
+      "nombre": "Mtro. Mariano Reséndez",
       "edad": 179
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Antonio José Montañez",
-      "edad": 165
+      "nombre": "Mayte Saiz Acuña",
+      "edad": 163
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Dr. Olivia Urías",
-      "edad": 195
+      "nombre": "Graciela Antonio Bustos",
+      "edad": 139
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Marcos Hugo Yáñez Quiñones",
-      "edad": 171
+      "nombre": "Abel Sergio Ocampo",
+      "edad": 199
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Samuel Carranza",
+      "nombre": "Luis Villarreal",
+      "edad": 148
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Inés Tirado Perales",
+      "edad": 194
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Gregorio José Alvarez Tello",
       "edad": 192
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Yuridia Zepeda Vega",
-      "edad": 189
+      "nombre": "Cristal Aguirre Rodrígez",
+      "edad": 144
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Estefanía Medina",
-      "edad": 200
+      "nombre": "Marisol Murillo",
+      "edad": 168
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Irene Alcántar",
-      "edad": 160
+      "nombre": "Elvia Meraz",
+      "edad": 170
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Samuel Inés Guillen",
-      "edad": 124
+      "nombre": "Esther Suárez",
+      "edad": 149
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Amelia Gurule Carrera",
-      "edad": 165
+      "nombre": "Dr. Daniel Apodaca",
+      "edad": 125
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Paulina Fidel Armas",
-      "edad": 154
-    },
-    {
-      "tipo": "edad_anomala",
-      "nombre": "Miguel Ángel Olvera Reyna",
+      "nombre": "Armando Escamilla",
       "edad": 171
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "Berta Miranda Mota",
-      "edad": 193
+      "nombre": "Beatriz Cervántez",
+      "edad": 152
     },
     {
       "tipo": "edad_anomala",
-      "nombre": "René Cristobal Cintrón",
+      "nombre": "Sr(a). Victoria Badillo",
+      "edad": 164
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Dr. Jaime Alejandro",
+      "edad": 125
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Eugenio Melgar Garibay",
+      "edad": 166
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Ing. Virginia Mejía",
+      "edad": 146
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Sessa Aparicio",
+      "edad": 160
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Federico Wendolin Valencia Díaz",
+      "edad": 144
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Arcelia Sanches Correa",
+      "edad": 176
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Margarita Dolores Beltrán",
+      "edad": 123
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Teodoro Barrera Valdez",
+      "edad": 169
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Roberto Anguiano",
+      "edad": 145
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Daniela Fierro Saldivar",
+      "edad": 155
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Virginia Rebeca Crespo Ferrer",
+      "edad": 180
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Esperanza Castellanos",
+      "edad": 174
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Juana Sevilla Luevano",
+      "edad": 134
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Raúl Santillán Rentería",
+      "edad": 134
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Mtro. Alonso Nevárez",
+      "edad": 131
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Olga Fierro Ybarra",
+      "edad": 145
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "María Eugenia Rosario Elizondo",
+      "edad": 184
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Patricia Alfonso Casas",
+      "edad": 137
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Mónica Leticia Almanza",
+      "edad": 194
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "David Raya Ceja",
+      "edad": 151
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Amelia Julia Llamas",
+      "edad": 148
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Aida Natalia Arriaga",
+      "edad": 154
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Gregorio Alejandra Sevilla Quintero",
+      "edad": 164
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Hernán Sosa López",
+      "edad": 181
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Natividad Bustos",
+      "edad": 175
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Luisa Elsa Aguilera Correa",
+      "edad": 129
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Dr. Eugenia Solorio",
+      "edad": 183
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Cynthia Zacarías Angulo Montoya",
+      "edad": 152
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Evelio Marisela Ochoa",
+      "edad": 144
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Dolores Saldaña Escamilla",
+      "edad": 173
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Luis Miguel Vanesa Vera Ulibarri",
+      "edad": 167
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Sr(a). Manuel Valadez",
+      "edad": 126
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Modesto Óliver Sevilla Jaime",
       "edad": 168
     },
     {
-      "tipo": "fecha_registro_futura",
-      "nombre": "Ing. Armando Mora",
-      "fecha_registro": "2025-10-28 03:52:30.515000"
+      "tipo": "edad_anomala",
+      "nombre": "Concepción Hernandes Peña",
+      "edad": 126
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Rolando Patiño",
+      "edad": 125
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Sr(a). Itzel Llamas",
+      "edad": 132
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Estela Paredes Abrego",
+      "edad": 159
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Emilia Pineda",
+      "edad": 153
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Abigail Roldán",
+      "edad": 179
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Dr. Jos Alcántar",
+      "edad": 160
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Tomás Elias Vigil",
+      "edad": 183
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Ing. Hernán Correa",
+      "edad": 138
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Yolanda Ramírez Malave",
+      "edad": 196
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Anel Amador Navarrete Santillán",
+      "edad": 179
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Ing. Patricio Nieto",
+      "edad": 167
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Marcos Perea Ceballos",
+      "edad": 172
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Dr. Mauricio Olivárez",
+      "edad": 176
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Antonio Hugo Patiño",
+      "edad": 160
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Juan Carlos Cano Acosta",
+      "edad": 179
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Carolina Garza Montes",
+      "edad": 144
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Lic. Amanda Caballero",
+      "edad": 198
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Angélica Alonso Méndez",
+      "edad": 169
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Fernando Granados",
+      "edad": 161
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Javier Dávila Arias",
+      "edad": 168
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Silvia Catalina Saucedo",
+      "edad": 191
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Úrsula Zamudio",
+      "edad": 158
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Dr. Pamela Muñiz",
+      "edad": 143
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Ing. Bernardo Zedillo",
+      "edad": 188
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Roberto Montañez Lebrón",
+      "edad": 150
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Elena Antonia Cardenas Baeza",
+      "edad": 143
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Pascual Linda Roque",
+      "edad": 160
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Gabino Verónica Henríquez Zavala",
+      "edad": 144
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Sr(a). Asunción Pacheco",
+      "edad": 168
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Miriam Marisol Velasco",
+      "edad": 190
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Nayeli Terán Báez",
+      "edad": 129
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Homero Escamilla",
+      "edad": 165
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Itzel Susana Tórrez",
+      "edad": 154
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Sr(a). Leonel Rosario",
+      "edad": 127
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Patricio Meraz Reynoso",
+      "edad": 190
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Inés Lomeli",
+      "edad": 150
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Bianca Sierra",
+      "edad": 148
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Mtro. Anel Solís",
+      "edad": 146
+    },
+    {
+      "tipo": "edad_anomala",
+      "nombre": "Elisa Marisol Matos",
+      "edad": 160
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Ing. Carolina Barrera",
-      "fecha_registro": "2025-10-29 11:48:16.846000"
+      "nombre": "Alberto Galván Alarcón",
+      "fecha_registro": "2025-10-20 02:04:33.380000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Alonso Villareal",
-      "fecha_registro": "2025-12-21 04:29:31.095000"
+      "nombre": "Dr. Jos Alcántar",
+      "fecha_registro": "2025-12-01 18:59:58.135000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Ignacio Calvillo Frías",
-      "fecha_registro": "2025-12-27 02:01:52.679000"
+      "nombre": "Itzel Susana Tórrez",
+      "fecha_registro": "2025-12-28 09:31:26.209000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Sandra Josefina Apodaca Enríquez",
-      "fecha_registro": "2026-01-06 08:15:37.429000"
+      "nombre": "Lucas Pamela Mojica",
+      "fecha_registro": "2026-02-24 22:45:20.662000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Arturo Galván Medina",
-      "fecha_registro": "2026-01-17 17:50:45.302000"
+      "nombre": "Miriam Blanco Yáñez",
+      "fecha_registro": "2026-03-20 02:03:26.283000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Esther David Mojica Quintana",
-      "fecha_registro": "2026-01-22 01:16:46.338000"
+      "nombre": "Andrea Alfonso Vela",
+      "fecha_registro": "2026-04-01 15:53:43.029000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Lic. Bianca Alarcón",
-      "fecha_registro": "2026-02-02 22:57:48.523000"
+      "nombre": "Inés Abigail Amador",
+      "fecha_registro": "2026-05-27 09:36:17.104000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Gabino Almaraz Jimínez",
-      "fecha_registro": "2026-02-05 08:04:23.228000"
+      "nombre": "Virginia Rebeca Crespo Ferrer",
+      "fecha_registro": "2026-06-05 05:57:25.701000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Ing. Socorro Casares",
-      "fecha_registro": "2026-02-19 08:18:33.241000"
+      "nombre": "Eugenio Melgar Garibay",
+      "fecha_registro": "2026-06-13 09:57:13.831000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Dr. Ángel Alfaro",
-      "fecha_registro": "2026-05-01 05:00:15.464000"
+      "nombre": "Sr(a). Claudia Corona",
+      "fecha_registro": "2026-06-27 08:02:29.057000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "María José Francisca Fonseca Reynoso",
-      "fecha_registro": "2026-07-27 17:43:20.679000"
+      "nombre": "Mtro. Mariano Reséndez",
+      "fecha_registro": "2026-07-01 23:40:24.585000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Sara Baca",
-      "fecha_registro": "2026-08-10 10:21:36.367000"
+      "nombre": "Esperanza Castellanos",
+      "fecha_registro": "2026-07-16 03:48:55.184000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Camila Carrera Ceballos",
-      "fecha_registro": "2026-08-19 19:10:51.630000"
+      "nombre": "Roberto Montañez Lebrón",
+      "fecha_registro": "2026-08-20 13:21:22.591000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Linda Pérez Griego",
-      "fecha_registro": "2026-08-20 10:01:02.757000"
+      "nombre": "Pedro Rafaél Zambrano Mesa",
+      "fecha_registro": "2026-08-21 20:22:36.096000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Estefanía Medina",
-      "fecha_registro": "2026-08-29 16:54:20.942000"
+      "nombre": "Lic. Amanda Caballero",
+      "fecha_registro": "2026-09-09 12:16:31.377000"
     },
     {
       "tipo": "fecha_registro_futura",
-      "nombre": "Laura Jacobo Flórez",
-      "fecha_registro": "2026-09-21 22:32:52.253000"
+      "nombre": "Ing. Olivia Montalvo",
+      "fecha_registro": "2026-09-21 20:01:05.514000"
+    },
+    {
+      "tipo": "fecha_registro_futura",
+      "nombre": "Gonzalo Nájera Aguayo",
+      "fecha_registro": "2026-10-01 11:25:28.125000"
+    },
+    {
+      "tipo": "fecha_registro_futura",
+      "nombre": "Esparta Daniela Lara Ibarra",
+      "fecha_registro": "2026-10-15 21:25:47.909000"
     }
   ],
   "medicos": [],

@@ -19,7 +19,7 @@ def seed_diagnosticos(n=200):
             codigo=fake.bothify(text="DX-###"),
             nombre=fake.word(),
             descripcion=null_generator(fake.text()),
-            categoria=null_generator(random.choice(["cardiologia", "neurologia", "oncologia"])),
+            categoria=null_generator(random.choice(["cardiologia", "neurologia", "oncologia", "pediatria", "", None])),
             activo=random.choice([True, False])
         ).save()
 
@@ -43,13 +43,16 @@ def seed_doctores(n=200):
     for _ in range(n):
         Doctor(
             nombre=fake.name(),
-            especialidad=random.choice(["Pediatría", "Cardiología", "Oncología", "Neurología"]),
+            especialidad=random.choice(["Pediatría", "Cardiología", "Oncología", "Neurología", "General", ""]),
             licencia_medica=fake.bothify(text="LIC-#####"),
-            fecha_contratacion=fake.date_time_between(start_date="-10y", end_date="now"),
+            fecha_contratacion=fake.date_time_between(start_date="-10y", end_date="+2y"),
             activo=random.choice([True, False]),
             horarios=Horarios(
                 lunes=null_generator([f"{h}:00" for h in range(8, 13)]),
                 martes=null_generator([f"{h}:00" for h in range(8, 13)]),
+                miercoles=null_generator([f"{h}:00" for h in range(8, 13)]),
+                jueves=null_generator([f"{h}:00" for h in range(8,13)]),
+                viernes=null_generator([f"{h}:00" for h in range(8, 13)]),
             ),
             ubicacion=Ubicacion(
                 hospital=fake.company(),
@@ -62,7 +65,7 @@ def seed_dispositivos(n=200):
     for _ in range(n):
         DispositivoMedico(
             nombre=fake.word(),
-            tipo=random.choice(["Monitor", "Bomba", "Sensor", "Respirador"]),
+            tipo=random.choice(["Monitor", "Bomba", "Sensor", "Respirador", ""]),
             fabricante=null_generator(fake.company()),
             en_uso=random.choice([True, False]),
             mantenimiento=[
@@ -82,8 +85,9 @@ def seed_pacientes(n=200):
     for _ in range(n):
         Paciente(
             nombre=fake.name(),
-            edad=random.randint(1, 99),
+            edad=random.randint(1, 200),
             sexo=random.choice(["M", "F", "Otro"]),
+            fecha_registro=fake.date_time_between(start_date="-10y", end_date="+1y"),
             contacto=Contacto(
                 telefono=null_generator(fake.phone_number()),
                 email=null_generator(fake.email()),
@@ -95,11 +99,11 @@ def seed_pacientes(n=200):
                 )
             ),
             activo=random.choice([True, False]),
-            alergias=random.choice([["penicilina", "mariscos", "latex", "benzocaina", "lana"], [], None]),
-            condiciones_cronicas=random.choice([["diabetes", "hipertensión", "asma", "arritmias"], [], None]),
+            alergias=random.choice([["penicilina", "mariscos", "latex", "benzocaina", "lana", ""], [], None]),
+            condiciones_cronicas=random.choice([["diabetes", "hipertensión", "asma", "arritmias", ""], [], None]),
             historial_clinico=[
                 HistorialClinico(
-                    fecha=fake.date_time_between(start_date="-2y", end_date="now"),
+                    fecha=fake.date_time_between(start_date="-10y", end_date="now"),
                     diagnostico_id=random.choice(diagnosticos) if diagnosticos else None,
                     tratamiento_id=random.choice(tratamientos) if tratamientos else None,
                     doctor_id=random.choice(doctores) if doctores else None,
@@ -110,7 +114,6 @@ def seed_pacientes(n=200):
         ).save()
 
 def seed_all():
-    print("=== Carga de los datos ===")
     seed_diagnosticos()
     seed_tratamientos()
     seed_doctores()

@@ -1,2517 +1,2487 @@
 [
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f9191"
+            "$oid": "68f034e37c0131e1afd2f60e"
         },
-        "codigo": "DX-926",
-        "nombre": "obras",
-        "descripcion": "Respuesta términos días difícil. Actividad punto va cabeza campo. Éxito ley decía.\nDatos humano autoridades objeto jóvenes siglo tampoco. Le ese fácil cabeza alrededor.",
-        "categoria": "cardiologia",
+        "codigo": "DX-726",
+        "nombre": "comercio",
+        "descripcion": "Nosotros menor elecciones ocasiones sido he. Cambios visto juez ningún paciente maría explicó. Quiero televisión manera contrario. Última estructura arriba duda cuando nuestra.",
+        "categoria": "pediatria",
         "fecha_creacion": {
-            "$date": 1760571288275
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9192"
-        },
-        "codigo": "DX-276",
-        "nombre": "mar",
-        "descripcion": "Casa nuevos sectores presidente línea. Riesgo programa función nunca muchos rafael. B puerto habría cámara acto puesto doctor.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288276
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9193"
-        },
-        "codigo": "DX-897",
-        "nombre": "norte",
-        "descripcion": "Libre fuerte victoria. Marco baja blanco otro ve aspecto.\nNatural misma mantener pablo deja. Características recuerdo sangre instituciones mal función.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288276
+            "$date": 1760572643090
         },
         "activo": false
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f9194"
+            "$oid": "68f034e37c0131e1afd2f60f"
         },
-        "codigo": "DX-228",
-        "nombre": "cultural",
-        "descripcion": "Julio será mayo posible actividades cantidad. Ocasiones importante práctica llevar como sistema.\nPoblación imagen medidas. O seguro población dónde santa. Miedo nadie libros voz que jefe he.",
-        "categoria": "neurologia",
+        "codigo": "DX-178",
+        "nombre": "después",
+        "categoria": "pediatria",
         "fecha_creacion": {
-            "$date": 1760571288276
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9195"
-        },
-        "codigo": "DX-652",
-        "nombre": "horas",
-        "descripcion": "Tiene pocos he viene día alrededor anterior señora. Semana dar ministerio hijos último. Origen futuro muchos movimiento.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288277
+            "$date": 1760572643091
         },
         "activo": false
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f9196"
-        },
-        "codigo": "DX-137",
-        "nombre": "dolor",
-        "descripcion": "Internacional tierra civil rosa. Gran pablo viene aunque haber alguna.\nPesetas decir habla encuentra muerto quiero unidos. Queda cultural calle como cámara.",
-        "fecha_creacion": {
-            "$date": 1760571288277
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9197"
-        },
-        "codigo": "DX-114",
-        "nombre": "equipo",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288278
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9198"
-        },
-        "codigo": "DX-170",
-        "nombre": "flores",
-        "descripcion": "Palabras ello contra estos. Económica deben cuales esfuerzo cuenta puesto modelo.\nDerecha cuenta campaña aparece felipe internacional marzo.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288278
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9199"
-        },
-        "codigo": "DX-751",
-        "nombre": "vino",
-        "descripcion": "Hija ser haya hospital necesidad texto. Antes tal natural decisión nosotros. Campaña veces tema.\nCine están otros esa allí. Punto lleva cultura porque tenido. Estuvo pueblo tema mundial llevar iba.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288279
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f919a"
-        },
-        "codigo": "DX-732",
-        "nombre": "plaza",
-        "descripcion": "Suficiente cuarto segunda principales. Parte sin muerte sin necesidad demás.\nEso experiencia ciento solamente cantidad pequeña vio. Trabajadores fuego tenemos siguiente. Mi nuestro diciembre.",
-        "fecha_creacion": {
-            "$date": 1760571288279
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f919b"
-        },
-        "codigo": "DX-602",
-        "nombre": "están",
-        "descripcion": "Diversas producto diciembre acuerdo mantener título realizar. Noviembre quizá decisión d fuerza.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288280
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f919c"
-        },
-        "codigo": "DX-017",
-        "nombre": "y",
-        "fecha_creacion": {
-            "$date": 1760571288280
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f919d"
-        },
-        "codigo": "DX-779",
-        "nombre": "niños",
-        "descripcion": "Abril partidos diario haya estaban dirección. Debido dan movimiento. Autoridades todas sociedad asunto.\nProgramas llama hubo técnica fiscal. Amigo cultura mucho.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288280
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f919e"
-        },
-        "codigo": "DX-469",
-        "nombre": "manera",
-        "descripcion": "Allí sólo seguir hay mal. Secretario hija algunos argentina. Uso papel pública estado vivir san solamente. Presenta aspecto pequeña.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288281
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f919f"
-        },
-        "codigo": "DX-734",
-        "nombre": "materia",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288281
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a0"
-        },
-        "codigo": "DX-013",
-        "nombre": "régimen",
-        "descripcion": "Padre comisión aun negro investigación ocho francia. Diferentes demasiado llegó corazón. Llama favor acuerdo fuego.\nAsimismo militar distintas capital niveles europa grupo. Dio creación menor s.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288282
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a1"
-        },
-        "codigo": "DX-402",
-        "nombre": "tema",
-        "descripcion": "Señora cabo por. El noviembre producto tres.\nSistema puerto través diversas quien donde siguientes. Desde donde juez tenemos casa.\nB interior secretario eso. Acerca lo cosas.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288282
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a2"
-        },
-        "codigo": "DX-588",
-        "nombre": "grandes",
-        "descripcion": "Puerta teoría derecha. Amigo ello estaban ante negro. Económico ocho tras fuera.",
-        "fecha_creacion": {
-            "$date": 1760571288283
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a3"
-        },
-        "codigo": "DX-608",
-        "nombre": "equipo",
-        "descripcion": "Banco dio mejor volver debido llevar marco. Autor primero podrá ciudad. Pasado debía chile reforma tema falta. Ahí horas nueva encontrar control orden quedó.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288283
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a4"
-        },
-        "codigo": "DX-132",
-        "nombre": "nivel",
-        "descripcion": "Tales tenemos precio consejo nosotros según. Éste viaje cuenta he las. Estuvo puso mar.\nI unión vez acciones difícil estar. Natural jefe pesetas puso jóvenes.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288284
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a5"
-        },
-        "codigo": "DX-034",
-        "nombre": "pablo",
-        "descripcion": "Intereses corte este decía total naturaleza decisión. Idea deseo a causa actual r. Zona final también decir mismo creación productos.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288284
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a6"
-        },
-        "codigo": "DX-855",
-        "nombre": "argentina",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288284
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a7"
-        },
-        "codigo": "DX-746",
-        "nombre": "conocimiento",
-        "descripcion": "Programa quedó varios antes mis. Película maría aún máximo.\nPoblación formas nos violencia. Peso modo única había. Práctica unidos mismos autor aire este.",
-        "fecha_creacion": {
-            "$date": 1760571288285
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a8"
-        },
-        "codigo": "DX-505",
-        "nombre": "suficiente",
-        "fecha_creacion": {
-            "$date": 1760571288285
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91a9"
-        },
-        "codigo": "DX-959",
-        "nombre": "ni",
-        "descripcion": "Real veces edad hemos. Práctica congreso obras salud título visita.\nEsa entre lo sino sur afirmó ministro. Habría informe pasar. Llamado piel diferencia en voluntad.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288286
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91aa"
-        },
-        "codigo": "DX-251",
-        "nombre": "sola",
-        "descripcion": "Proyectos m peor ésta derecha vuelta las. Aquellas período constitución conocer manuel juego entonces unidad.",
-        "fecha_creacion": {
-            "$date": 1760571288286
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ab"
-        },
-        "codigo": "DX-742",
-        "nombre": "posibilidad",
-        "descripcion": "Hacia ministro objetivo plazo allí vivir. Unos rey ambos uno supuesto organización.\nTelevisión manera consecuencia razón interés.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288286
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ac"
-        },
-        "codigo": "DX-368",
-        "nombre": "tratamiento",
-        "descripcion": "Político actividad meses grande hace jefe sobre.\nIncluso algunos reforma semanas creación dinero. Quería fiscal español.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288287
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ad"
-        },
-        "codigo": "DX-878",
-        "nombre": "cabeza",
-        "descripcion": "Apenas exterior asimismo grado estar. Pp tuvo tres hijos camino.\nNos salud sociedad momentos van aumento.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288287
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ae"
-        },
-        "codigo": "DX-727",
-        "nombre": "puntos",
-        "descripcion": "Seguir precios medio paciente en. Durante así carne carne.\nJusticia recursos precisamente quiero. Pueda llegó n mucho recuerdo hasta. Mañana meses iglesia nivel marco debe después cambios.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288288
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91af"
-        },
-        "codigo": "DX-664",
-        "nombre": "tampoco",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288288
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b0"
-        },
-        "codigo": "DX-517",
-        "nombre": "favor",
-        "descripcion": "Ejemplo encuentra encontrar garcía escuela. Energía diez secretario vamos partido. Obra españoles carlos lado vino.\nGenerales democracia ésta entrada segundo valor libre.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288288
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b1"
-        },
-        "codigo": "DX-448",
-        "nombre": "d",
-        "descripcion": "Varias europea así vuelve cuya mundo i diversos. Año menos millones ve conocer. Próximo empresas alguien trabajo dejar calidad políticas cómo. Hace miembros otra nos.",
-        "fecha_creacion": {
-            "$date": 1760571288289
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b2"
-        },
-        "codigo": "DX-404",
-        "nombre": "construcción",
-        "fecha_creacion": {
-            "$date": 1760571288289
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b3"
-        },
-        "codigo": "DX-372",
-        "nombre": "libro",
-        "descripcion": "Próximo claro hijos m. Escuela te cambios rey humana concepto ejército nacional. Días demasiado ya media.\nServicios solo fácil fuerte ambiente. Cual hizo ciento derechos. Encima país santiago actual.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288290
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b4"
-        },
-        "codigo": "DX-198",
-        "nombre": "generales",
-        "descripcion": "Unidad lucha niveles mitad persona casi me. Ellas nadie otras antes embargo silencio.\nSiempre ni va secretario época políticos. El carta destino temas prensa cabo.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288290
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b5"
-        },
-        "codigo": "DX-548",
-        "nombre": "sea",
-        "descripcion": "Plaza viene tuvo. Esos llegado armas.",
-        "fecha_creacion": {
-            "$date": 1760571288291
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b6"
-        },
-        "codigo": "DX-267",
-        "nombre": "semanas",
-        "descripcion": "Habla habría bien imágenes creo medida.\nProgramas pronto programas noviembre educación semana. Carrera todos todo políticos no acciones hacia.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288291
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b7"
-        },
-        "codigo": "DX-062",
-        "nombre": "amigos",
-        "descripcion": "Deben causa parís debía. Persona trabajar podía zona. Nuestro llegar socialista primera sobre joven marzo diversos.\nEvitar formas me cultura. Problema sector pero usted haya fernando.",
-        "fecha_creacion": {
-            "$date": 1760571288291
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b8"
-        },
-        "codigo": "DX-397",
-        "nombre": "hemos",
-        "descripcion": "Flores rosa tales ideas características.\nCuerpo encuentra obstante república por enero. Bastante atención escuela seis importantes relaciones.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288292
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91b9"
-        },
-        "codigo": "DX-709",
-        "nombre": "aire",
-        "descripcion": "Personal de jorge mitad curso. Grande libros último parecía.\nQuien cine silencio libre libros mar. Pesar puesto área tales para próximo madre. Bajo esfuerzo he visto unas.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288292
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ba"
-        },
-        "codigo": "DX-985",
-        "nombre": "debido",
-        "descripcion": "Mal calidad quería sé segunda tiene mismo. Pocos llama otro importancia español.\nPrograma punto dos clase. Seguridad acerca soy propuesta usted diferentes. Pasó cambio da forma sino esa.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288293
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91bb"
-        },
-        "codigo": "DX-305",
-        "nombre": "por",
-        "descripcion": "Objetivo cada ante debe. Secretario hablar s programas constitución.\nMediante señaló situación todavía hace marco este parecía. Esfuerzo suelo francia quien él. Sea hacer entonces.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288293
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91bc"
-        },
-        "codigo": "DX-382",
-        "nombre": "mayor",
-        "fecha_creacion": {
-            "$date": 1760571288293
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91bd"
-        },
-        "codigo": "DX-835",
-        "nombre": "dio",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288294
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91be"
-        },
-        "codigo": "DX-527",
-        "nombre": "pone",
-        "descripcion": "Fue campo todas aunque período cuarto. Está noche ciudad actual quiero una nuevos esfuerzo. Sido argentina sean mundial llegar.\nPartir director así derechos. Antonio visita encuentro hacerlo.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288294
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91bf"
-        },
-        "codigo": "DX-979",
-        "nombre": "importantes",
-        "descripcion": "Luis hoy j sabe debido. Centro acto américa solo conocer muerte defensa camino.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288294
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c0"
-        },
-        "codigo": "DX-133",
-        "nombre": "señaló",
-        "descripcion": "Términos volver seis formación reunión pronto cabeza. Generales comenzó intereses llega de.\nPartido aquellos sean derecho. Chile tenía decisión soy aquellos siguiente.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288295
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c1"
-        },
-        "codigo": "DX-575",
-        "nombre": "nuestros",
-        "descripcion": "Contenido j club pueden primeras allá minutos viene. Con voz conocer arriba capital demasiado quiero. Evitar pasa dijo vez puedo políticas mediante.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288295
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c2"
-        },
-        "codigo": "DX-275",
-        "nombre": "mientras",
-        "descripcion": "Bastante estos hora le n tribunal pueden. Aparece comenzó dolor propia y los.\nHablar apenas nacional. También año salud estudios.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288296
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c3"
-        },
-        "codigo": "DX-953",
-        "nombre": "si",
-        "descripcion": "Público don características materia esto cuarto guerra padre. Pie campo largo común libro.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288296
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c4"
-        },
-        "codigo": "DX-921",
-        "nombre": "electoral",
-        "descripcion": "Características elementos uno color mantener paz banco. Allá da principio boca muerto.\nOcasiones sur diversos suficiente. Silencio economía clase. Madrid cabeza tuvo.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288296
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c5"
-        },
-        "codigo": "DX-486",
-        "nombre": "camino",
-        "descripcion": "Razones debido agua estos llegar radio consejo voluntad. Grande riesgo dado grupo.\nTotal m tres algún. Decía dios cuerpo lo e tal. Existe música padre arriba ésta les.",
-        "fecha_creacion": {
-            "$date": 1760571288297
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c6"
-        },
-        "codigo": "DX-256",
-        "nombre": "segundo",
-        "descripcion": "Razones radio horas sin nuestros manos campo.\nPresidente cosas pueda compañía cual tenido prensa. Qué éste buena esas eso.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288297
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c7"
-        },
-        "codigo": "DX-674",
-        "nombre": "área",
-        "fecha_creacion": {
-            "$date": 1760571288298
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c8"
-        },
-        "codigo": "DX-072",
-        "nombre": "asociación",
-        "descripcion": "Jefe primeras tiempos entre hoy historia diversas. Lado falta encuentran empresas aquel aparece uso.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288298
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91c9"
-        },
-        "codigo": "DX-496",
-        "nombre": "términos",
-        "descripcion": "Ahí psoe horas iglesia mesa relación cabo. Persona que quien idea central datos quién. Interés había difícil ni falta fecha habría.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288299
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ca"
-        },
-        "codigo": "DX-913",
-        "nombre": "haya",
-        "descripcion": "Marco importante mujeres ojos. Solamente existen llegado quien baja gonzález cama mano. B fuego lleva medidas.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288299
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91cb"
-        },
-        "codigo": "DX-793",
-        "nombre": "produce",
-        "descripcion": "Única haya baja. Tenemos político base luis económica grupo recursos libertad.\nDice salida comunidad. Fuera destino tuvo han miedo gracias. Dijo padre grande. Comisión trabajadores ciencia.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288299
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91cc"
-        },
-        "codigo": "DX-393",
-        "nombre": "finalmente",
-        "fecha_creacion": {
-            "$date": 1760571288300
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91cd"
-        },
-        "codigo": "DX-575",
-        "nombre": "central",
-        "descripcion": "Hijos productos habrá medida padres espacio. Capacidad objetivo cuerpo pasa cosas. Intereses función cuadro sabía diciembre especialmente.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288300
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ce"
-        },
-        "codigo": "DX-755",
-        "nombre": "nuevas",
-        "descripcion": "Pensar dar amigos ahí tales plan. Consecuencia prensa tu calle algún da.\nEn más parte precio. Instituciones población u pesar noche.\nHombres niveles nada carrera niño consecuencia hijo.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288301
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91cf"
-        },
-        "codigo": "DX-117",
-        "nombre": "él",
-        "descripcion": "Favor está viaje chile. Voz g primer tengo. Sur natural ni realidad dar único civil.\nRecursos eran ley garcía productos blanco. Pequeño uno acciones pone humano. Tienen menos ellas materia sus.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288301
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d0"
-        },
-        "codigo": "DX-611",
-        "nombre": "jóvenes",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288301
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d1"
-        },
-        "codigo": "DX-575",
-        "nombre": "mucha",
-        "descripcion": "Autoridades también estos respecto. Santa existen él falta alguien mejor.\nTales tiempos casa hijos. Psoe va sólo. Diario llegado área abril.",
-        "fecha_creacion": {
-            "$date": 1760571288302
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d2"
-        },
-        "codigo": "DX-553",
-        "nombre": "gobierno",
-        "descripcion": "Eran porque hija ministro vio especial. Paciente señora capital. Animales propuesta capital propia sociedad tenía cierta tal.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288302
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d3"
-        },
-        "codigo": "DX-423",
-        "nombre": "dónde",
-        "descripcion": "Puede peor creación sería. Proyecto mi todo española. Amigos control capaz actividades.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288303
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d4"
-        },
-        "codigo": "DX-602",
-        "nombre": "valor",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288303
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d5"
-        },
-        "codigo": "DX-923",
-        "nombre": "mañana",
-        "descripcion": "Posibilidades estas figura creo paciente saber padres. Unos alrededor empresa. Papel comunidad estado estamos hasta manos.\nDebido actividad miembros. Familia arriba mesa.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288303
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d6"
-        },
-        "codigo": "DX-320",
-        "nombre": "tampoco",
-        "descripcion": "Información compañía por historia negro. Cine constitución sea creo quedó. Español suelo premio mundo.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288304
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d7"
-        },
-        "codigo": "DX-735",
-        "nombre": "sea",
-        "descripcion": "Cine juan con miedo.\nSigue segunda mantener último. S santiago sabe san podría carta.\nSigue mantener sin tú. Humana iba j felipe espera nuevas. Dios unión vía principio acuerdo base abril.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288304
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d8"
-        },
-        "codigo": "DX-140",
-        "nombre": "cuya",
-        "fecha_creacion": {
-            "$date": 1760571288305
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91d9"
-        },
-        "codigo": "DX-059",
-        "nombre": "internacional",
-        "descripcion": "Españoles información llama toma especial ojos barcelona. Vez habría policía mujeres boca ante.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288305
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91da"
-        },
-        "codigo": "DX-425",
-        "nombre": "será",
-        "descripcion": "Defensa muchos ayuda me conocimiento organización. Juez sala gobierno valores ideas.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288306
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91db"
-        },
-        "codigo": "DX-301",
-        "nombre": "actitud",
-        "descripcion": "Pueblo horas peso distintas vino tenían sala. Queda parecía recursos lenguaje entre con.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288306
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91dc"
+            "$oid": "68f034e37c0131e1afd2f610"
         },
         "codigo": "DX-845",
-        "nombre": "mujeres",
-        "descripcion": "Única valor años necesidad ir pronto visita. Cada n trabajar sociales comunidad. Salida forma televisión clase marzo resto.",
+        "nombre": "gran",
         "fecha_creacion": {
-            "$date": 1760571288306
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91dd"
-        },
-        "codigo": "DX-210",
-        "nombre": "podría",
-        "descripcion": "Industria esto necesario. Base cuarto este tan cine. Muerto noche vino. Palabra soy formación bien medio había buena.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288307
+            "$date": 1760572643091
         },
         "activo": false
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f91de"
+            "$oid": "68f034e37c0131e1afd2f611"
         },
-        "codigo": "DX-246",
-        "nombre": "ahora",
+        "codigo": "DX-242",
+        "nombre": "propia",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643092
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f612"
+        },
+        "codigo": "DX-861",
+        "nombre": "propios",
+        "descripcion": "Todos políticos centros conciencia.\nTambién jamás cama libros pesar libertad blanca diferencia. Servicios lenguaje seguro últimos según vida. Consecuencia quiere resto.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643092
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f613"
+        },
+        "codigo": "DX-695",
+        "nombre": "cama",
+        "descripcion": "Esa construcción paso diez familia baja. Quienes aquel respuesta través principio mismo. Ejército pueblo asociación pequeño permite.",
+        "fecha_creacion": {
+            "$date": 1760572643093
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f614"
+        },
+        "codigo": "DX-841",
+        "nombre": "compañía",
+        "descripcion": "Vivir público fue varias. Madre cosas marco nunca cómo. Pequeña hay dijo san.\nOficial marco popular muchos dejar mientras nuestras. Economía tarde tuvo están condiciones aquella políticos.",
+        "fecha_creacion": {
+            "$date": 1760572643093
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f615"
+        },
+        "codigo": "DX-700",
+        "nombre": "propios",
+        "descripcion": "Pequeño revolución han sean. Película programas médico local amor. Interior especialmente estaba mientras plazo hijos g. Por partido dijo distintas pueblo principales.",
+        "fecha_creacion": {
+            "$date": 1760572643093
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f616"
+        },
+        "codigo": "DX-726",
+        "nombre": "río",
+        "descripcion": "Ellos tribunal electoral mi empresas ministerio. Muerto gobierno práctica padre. Nos consecuencia humanos europa.",
+        "fecha_creacion": {
+            "$date": 1760572643094
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f617"
+        },
+        "codigo": "DX-528",
+        "nombre": "ve",
+        "descripcion": "Perdido personal información mucha social en. Metros perdido puntos.\nEncontrar junto entonces corte banco. Dentro decir tampoco. Diciembre mismos cualquier ésta. Libre negro posición hemos un cargo.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643095
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f618"
+        },
+        "codigo": "DX-405",
+        "nombre": "hace",
+        "descripcion": "Aquel produce personal plazo otro primero. Suficiente políticos aun sería. Permite generales puedo yo nuestros rodríguez. Unos radio parís claro modo francisco banco.",
+        "fecha_creacion": {
+            "$date": 1760572643095
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f619"
+        },
+        "codigo": "DX-299",
+        "nombre": "cinco",
+        "descripcion": "Función mi hizo mediante. Sí fuerza principios futuro naturaleza propio premio. Tras tiempo negro j manuel.",
         "categoria": "cardiologia",
         "fecha_creacion": {
-            "$date": 1760571288307
+            "$date": 1760572643096
         },
-        "activo": true
+        "activo": false
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f91df"
+            "$oid": "68f034e37c0131e1afd2f61a"
         },
-        "codigo": "DX-784",
-        "nombre": "explicó",
-        "descripcion": "Etc ley amor mujeres. Materia siglo habrá medio carta. Función sé la paso programas gracias. Opinión salud minutos salud visita todavía.",
-        "categoria": "oncologia",
+        "codigo": "DX-147",
+        "nombre": "modo",
+        "descripcion": "Pasar iglesia tiempos deja. Uso resultado cambios dolor explicó parece según. Mercado tenido local medios destino septiembre radio.",
         "fecha_creacion": {
-            "$date": 1760571288308
+            "$date": 1760572643096
         },
-        "activo": true
+        "activo": false
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f91e0"
+            "$oid": "68f034e37c0131e1afd2f61b"
         },
-        "codigo": "DX-613",
-        "nombre": "persona",
-        "descripcion": "Volver final cual tiempo queda. Ocasiones natural mano pues.",
+        "codigo": "DX-647",
+        "nombre": "momento",
+        "descripcion": "Muerto campo ella habrá aparece nuestra día. Relación supuesto ocasión momento esto. Viejo vino amigo amigo.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643096
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f61c"
+        },
+        "codigo": "DX-734",
+        "nombre": "encontrar",
+        "descripcion": "Mirada porque menos aún contra. Respuesta podría varios cosas además atrás partir. Del niveles precios modelo diciembre soy siendo.",
         "categoria": "neurologia",
         "fecha_creacion": {
-            "$date": 1760571288308
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91e1"
-        },
-        "codigo": "DX-640",
-        "nombre": "unos",
-        "descripcion": "Cuanto segunda acciones. Francisco hay serán datos fácil españa. Juicio sangre santa dejó.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288308
+            "$date": 1760572643097
         },
         "activo": true
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f91e2"
-        },
-        "codigo": "DX-346",
-        "nombre": "partidos",
-        "descripcion": "Líder momento memoria dar sea. Dejar cuenta cierto al evitar pasa tienen.\nValor pronto qué eso. Alta oro tú cabo poder viene países.\nMientras nacional marzo popular.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288309
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91e3"
-        },
-        "codigo": "DX-994",
-        "nombre": "sea",
-        "descripcion": "Servicio unión ocasiones ciudad ante. Cámara consecuencia sala superior sea. Trabajadores obras población podría nosotros asociación tan.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288309
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91e4"
-        },
-        "codigo": "DX-613",
-        "nombre": "siquiera",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288310
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91e5"
-        },
-        "codigo": "DX-128",
-        "nombre": "francisco",
-        "descripcion": "Particular finalmente político. Operación padres llegado esta n espacio. Que revolución decía mirada últimos negro.",
-        "fecha_creacion": {
-            "$date": 1760571288310
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91e6"
-        },
-        "codigo": "DX-577",
-        "nombre": "y",
-        "descripcion": "A julio camino sólo. Pie interés director encuentra supuesto humano proyecto. Pronto fuerte hombre felipe aunque cual programa.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288310
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91e7"
-        },
-        "codigo": "DX-219",
-        "nombre": "blanco",
-        "descripcion": "Esa área peor efecto. Dar crisis memoria has.\nVez vivir el esos capacidad vez. Habían cara título noviembre visto cantidad porque.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288311
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91e8"
-        },
-        "codigo": "DX-383",
-        "nombre": "socialista",
-        "descripcion": "Principales naturaleza c imágenes período términos tiene. Consecuencia u tenido casos cuya. Estuvo total apoyo país causa esta.",
-        "fecha_creacion": {
-            "$date": 1760571288311
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91e9"
-        },
-        "codigo": "DX-470",
-        "nombre": "d",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288312
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ea"
-        },
-        "codigo": "DX-034",
-        "nombre": "salir",
-        "descripcion": "Fuerzas economía qué secretario mucha. Sólo seguir cuya material compañía que principal. Cara sur tanto encima manera manos pues área.\nIglesia real ello diferentes. Idea atención concepto eran.",
-        "fecha_creacion": {
-            "$date": 1760571288312
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91eb"
-        },
-        "codigo": "DX-222",
-        "nombre": "fin",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288312
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ec"
-        },
-        "codigo": "DX-219",
-        "nombre": "estamos",
-        "descripcion": "Sé si sabía organización. Base octubre vivir número podemos jorge diciembre. Tomar esas mal enero buenos destino bueno. Iba ii algún valor deja cierta familia.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288313
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ed"
-        },
-        "codigo": "DX-769",
-        "nombre": "nos",
-        "descripcion": "Artículo hace partir número.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288313
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ee"
-        },
-        "codigo": "DX-943",
-        "nombre": "texto",
-        "descripcion": "Decisión resultados argentina opinión proceso.\nServicio peso dolor iglesia parece. Contenido casi cuatro jorge premio casa.\nMirada puerto buena sociedad texto. Estudios eso derecho real parís.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288314
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ef"
-        },
-        "codigo": "DX-587",
-        "nombre": "uso",
-        "descripcion": "Como fuentes solo carne zona club. Caso corazón zonas argentina madre contenido ministro.\nPrimeros pasó anterior varios.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288314
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f0"
-        },
-        "codigo": "DX-544",
-        "nombre": "ninguna",
-        "descripcion": "Cuerpo técnica chile pues cuerpo edad dar. Santiago mejores posibilidad seguir poner finalmente. Constitución partidos dio fernando.\nQuería ayuda calle pregunta cuanto contrario tal.",
-        "fecha_creacion": {
-            "$date": 1760571288314
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f1"
-        },
-        "codigo": "DX-224",
-        "nombre": "más",
-        "descripcion": "Mano estuvo pesetas prensa paso sociales porque papel. Realidad día el hacerlo europea. Últimos dolor viejo secretario.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288315
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f2"
-        },
-        "codigo": "DX-827",
-        "nombre": "algunos",
-        "descripcion": "Casi tal pueda rodríguez. Estos cierta has color. Política aquellos experiencia dice sus obras.\nS más parís expresión comisión. París igual internacional uso encuentran siempre.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288315
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f3"
-        },
-        "codigo": "DX-183",
-        "nombre": "lleva",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288316
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f4"
-        },
-        "codigo": "DX-950",
-        "nombre": "éxito",
-        "descripcion": "Comercio pueda carne amor llegó. Llegó llegado carácter causa grande historia manuel. Sigue capital político aquí sea.\nEncontrar ver francisco presidente control antes. Estaba fondo s san.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288316
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f5"
-        },
-        "codigo": "DX-423",
-        "nombre": "solamente",
-        "descripcion": "Cosa solamente varios europea lleva más esas eran. Difícil unas metros llama sur presente función. Real alta obra nunca.\nPrincipios solo mesa hermano. Sala paz segunda entonces trabajadores felipe.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288317
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f6"
-        },
-        "codigo": "DX-123",
-        "nombre": "tenían",
-        "descripcion": "Éxito atención hubo junio. Sectores sangre alrededor deseo d madrid. Época e bajo ojos.\nVoy diario sin acerca posibilidades niveles. Poco tampoco siempre próximo ese c.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288317
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f7"
-        },
-        "codigo": "DX-241",
-        "nombre": "cuatro",
-        "descripcion": "Tierra cuya mercado bajo. Iba militares habían cuatro manera torno.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288317
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f8"
-        },
-        "codigo": "DX-104",
-        "nombre": "militares",
-        "descripcion": "Encuentra instituto iglesia época jorge buena dijo vio. Sabía fondo lucha origen. Aquella minutos cuatro.\nHoras clase tipo mis corazón rey empresa. Común estudio deja sistema líder.",
-        "fecha_creacion": {
-            "$date": 1760571288318
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91f9"
-        },
-        "codigo": "DX-377",
-        "nombre": "sectores",
-        "descripcion": "Minutos resultados muerte estas ambos. Pie líder premio.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288318
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91fa"
-        },
-        "codigo": "DX-154",
-        "nombre": "domingo",
-        "descripcion": "Fondo dios con santiago quedó. Cierto supuesto hubo escuela socialista.\nTipos ellas crecimiento lópez. Qué lenguaje iglesia llega mundial después has.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288319
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91fb"
-        },
-        "codigo": "DX-827",
-        "nombre": "línea",
-        "descripcion": "Casa miedo algún diario mal humano base. Vía formación nuestro formación.\nCondiciones economía dejó mejores m real idea.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288319
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91fc"
-        },
-        "codigo": "DX-203",
-        "nombre": "ello",
-        "descripcion": "Mi rey r encuentro santiago septiembre nivel próximo. Vivir control embargo tenía.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288319
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91fd"
-        },
-        "codigo": "DX-304",
-        "nombre": "comunicación",
-        "descripcion": "Ir iglesia hacia las guerra jefe nada.\nMarcha seguir estado semanas tenemos. Revolución centros información miedo paso seguir. Tribunal mes sea nombre dios evitar carne.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288320
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91fe"
-        },
-        "codigo": "DX-129",
-        "nombre": "gracias",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288320
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f91ff"
-        },
-        "codigo": "DX-860",
-        "nombre": "resto",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288321
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9200"
-        },
-        "codigo": "DX-804",
-        "nombre": "proyectos",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288321
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9201"
-        },
-        "codigo": "DX-746",
-        "nombre": "allí",
-        "descripcion": "Varias solamente siguientes partido allá buenos persona domingo. Nadie fueron efectos pensar baja. Conseguir reforma evitar nuestras mujeres líder.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288321
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9202"
-        },
-        "codigo": "DX-276",
-        "nombre": "principales",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288322
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9203"
-        },
-        "codigo": "DX-397",
-        "nombre": "cuyo",
-        "descripcion": "Proyecto primera comunicación último distintas incluso líder. Río europa organización este fin fuentes poder mi.\nNos punto favor peso dan conocimiento.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288322
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9204"
-        },
-        "codigo": "DX-011",
-        "nombre": "diversos",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288323
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9205"
-        },
-        "codigo": "DX-943",
-        "nombre": "segundo",
-        "descripcion": "Psoe tal eso nuestros tiene políticos. Actividades van primera dejar llamado fin pesar.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288323
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9206"
-        },
-        "codigo": "DX-736",
-        "nombre": "realidad",
-        "descripcion": "Opinión recursos fue dejar. Principales hijo total y con.\nVio nivel momento precio acto julio. Ningún ayer encuentran medios idea el. González necesidad francia cierto estaban. Pese barcelona plazo.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288323
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9207"
-        },
-        "codigo": "DX-805",
-        "nombre": "semanas",
-        "descripcion": "Modo obstante dolor son ser. Amigo autor fecha varias viaje cuya pueda.\nUn capaz comunidad aspectos unión.",
-        "fecha_creacion": {
-            "$date": 1760571288324
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9208"
-        },
-        "codigo": "DX-204",
-        "nombre": "victoria",
-        "descripcion": "Ministro garcía joven ser punto toma. José obstante zonas mayoría i francisco.\nPlaza estas mucha al poner importante fernando. Otro estudio cara cuadro valor estructura diez.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288324
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9209"
-        },
-        "codigo": "DX-339",
-        "nombre": "valores",
-        "descripcion": "Fuera centros puedo adelante. Luego local plan sé carne trabajo. Hijos allá victoria españoles.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288324
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f920a"
-        },
-        "codigo": "DX-460",
-        "nombre": "pueden",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288325
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f920b"
-        },
-        "codigo": "DX-326",
-        "nombre": "ejército",
-        "descripcion": "Origen tan recuerdo cambio ambos siglo propuesta se. Misma cómo pocos hoy personas. Estoy servicio único destino tres diversos.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288325
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f920c"
-        },
-        "codigo": "DX-270",
-        "nombre": "quien",
-        "descripcion": "Cabeza violencia tenido unión noche precio condiciones. Rosa porque pueda produce pablo a sueño.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288326
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f920d"
-        },
-        "codigo": "DX-875",
-        "nombre": "dólares",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288326
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f920e"
-        },
-        "codigo": "DX-064",
-        "nombre": "precisamente",
-        "descripcion": "Serán figura por. Que cuenta unión recuerdo acciones.\nUnidad diversas título derecha. Líder político sobre derechos.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288326
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f920f"
-        },
-        "codigo": "DX-063",
-        "nombre": "serie",
-        "descripcion": "Reunión grande color dicho diez mediante. Argentina cabeza necesario pasó.\nDebido que lenguaje análisis zonas. Comercio eran hecho tenemos plazo términos antonio.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288327
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9210"
-        },
-        "codigo": "DX-830",
-        "nombre": "puesto",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288327
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9211"
-        },
-        "codigo": "DX-183",
-        "nombre": "clase",
-        "descripcion": "Cambios muchos el superior e izquierda. Forma país existencia. Señor historia salida. Barcelona principal imágenes hoy sangre expresión.\nMucha sobre sol dentro. Campaña resto fuera.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288328
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9212"
-        },
-        "codigo": "DX-055",
-        "nombre": "da",
-        "descripcion": "Datos da hecho comunicación cuales. Paz quien dos cuatro europa primeras. Voz poco vuelta considera junio encontrar días viejo.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288328
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9213"
-        },
-        "codigo": "DX-216",
-        "nombre": "opinión",
-        "descripcion": "Dar función destino dejó.\nEmbargo usted hay. Lenguaje efectos manos un. Argentina europa problemas objetivo hospital mayores.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288328
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9214"
-        },
-        "codigo": "DX-782",
-        "nombre": "dijo",
-        "descripcion": "Resulta martín m sino. Pasa región cama estado real crecimiento largo socialista.\nCinco línea elementos popular acerca. Última mar banco profesional libre.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288329
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9215"
-        },
-        "codigo": "DX-615",
-        "nombre": "fueron",
-        "descripcion": "Años lleva qué. Realizar mal falta esta título derecho.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288329
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9216"
-        },
-        "codigo": "DX-112",
-        "nombre": "razones",
-        "descripcion": "Campo proceso alrededor igual pesar necesidad.\nAmigo siglo cinco grupos banco presenta posibilidades tema. Cultural donde dar. La armas afirmó generales ejemplo hora manuel.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288330
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9217"
-        },
-        "codigo": "DX-505",
-        "nombre": "quedó",
-        "descripcion": "Proceso padres grande puede amigos tres. Animales por hicieron pueden través sobre especial.",
-        "fecha_creacion": {
-            "$date": 1760571288330
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9218"
-        },
-        "codigo": "DX-351",
-        "nombre": "por",
-        "descripcion": "Blanca muy frente voluntad tierra derecha. Puesto medidas podría programa están mil. Otras zona proyectos trata. Área diversas o río parte.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288330
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9219"
-        },
-        "codigo": "DX-025",
-        "nombre": "sigue",
-        "fecha_creacion": {
-            "$date": 1760571288331
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f921a"
-        },
-        "codigo": "DX-760",
-        "nombre": "maría",
-        "descripcion": "Supuesto construcción actitud número sus. Demás norte mercado ve. Calle televisión domingo república pasó resulta. Sectores seguro p etc.\nProductos tampoco orden actitud muerto haber rosa.",
-        "fecha_creacion": {
-            "$date": 1760571288331
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f921b"
-        },
-        "codigo": "DX-212",
-        "nombre": "artículo",
-        "descripcion": "Estuvo técnica investigación niño familia elecciones. Ninguna pudo nuevos características pública. Sea mirada necesidad.\nMismo grande mi espera. Éste rodríguez debe c están mar.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288332
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f921c"
-        },
-        "codigo": "DX-447",
-        "nombre": "acerca",
-        "descripcion": "Luis principio puso realidad.\nPolíticas económico tomar. Hacer cuestión uso.\nArriba sala española unidad. Centro militares unión santa.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288332
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f921d"
-        },
-        "codigo": "DX-484",
-        "nombre": "punto",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288332
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f921e"
-        },
-        "codigo": "DX-128",
-        "nombre": "esta",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288333
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f921f"
-        },
-        "codigo": "DX-800",
-        "nombre": "arriba",
-        "descripcion": "Resultado datos presencia diversas origen. Régimen forma texto adelante éste conocimiento.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288333
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9220"
-        },
-        "codigo": "DX-701",
-        "nombre": "arte",
-        "descripcion": "Fecha sociedad mitad cual amor un. Mañana calle boca la tenían cualquier. Formación otro consumo sido.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288334
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9221"
-        },
-        "codigo": "DX-412",
-        "nombre": "podrá",
-        "descripcion": "Que llegado proyectos madrid.\nEllo defensa decisión presenta. Amigos alto tema destino. Dicho través ley horas.\nSangre ha podía en sino p. Alguna diario operación veces.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288334
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9222"
-        },
-        "codigo": "DX-041",
-        "nombre": "solamente",
-        "fecha_creacion": {
-            "$date": 1760571288334
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9223"
-        },
-        "codigo": "DX-378",
-        "nombre": "universidad",
-        "descripcion": "Alrededor pone banco sociales presidente reforma comunidad. Porque dentro régimen favor b. Teatro lo libros propia.\nPeor aún suerte. Afirmó existen hacer j mundo sola i.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288335
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9224"
-        },
-        "codigo": "DX-125",
-        "nombre": "cerca",
-        "fecha_creacion": {
-            "$date": 1760571288335
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9225"
-        },
-        "codigo": "DX-594",
-        "nombre": "amor",
-        "descripcion": "Va consejo sabía. Proyectos ideas tener apenas consumo visto argentina.\nFavor cultural visita presente. Música libro ésta esos constitución plaza. Sector hijos hacerlo una fueron.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288336
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9226"
-        },
-        "codigo": "DX-591",
-        "nombre": "señora",
-        "descripcion": "Qué española corazón distintos doctor lugar pasado. Grupos club no atrás ir especie condiciones esta. Riesgo acto lleva menor.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288336
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9227"
-        },
-        "codigo": "DX-236",
-        "nombre": "importante",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288336
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9228"
-        },
-        "codigo": "DX-516",
-        "nombre": "quizá",
-        "descripcion": "Último demás por mí.\nFlores ayer aquellas hay fuerza voluntad concepto través.\nSuficiente cabeza hombre uno blanco puerta. Partidos e vamos principales existencia banco.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288337
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9229"
-        },
-        "codigo": "DX-936",
-        "nombre": "creación",
-        "descripcion": "Alguien tengo llama uso junio algunos joven manuel.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288337
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f922a"
-        },
-        "codigo": "DX-589",
-        "nombre": "hacía",
-        "descripcion": "Medida algunos entonces esfuerzo aparece sector puesto. Voluntad grande estado desde.\nPrograma razones domingo maría rosa valores ve.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288338
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f922b"
-        },
-        "codigo": "DX-705",
-        "nombre": "habrá",
-        "descripcion": "Ha cuenta parecía lejos amigo ahí. Valores podrá ello temas busca. Ii cosas entrada aire.\nComenzó éste lado orden través. Único hacía diferentes propia europa primera.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288338
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f922c"
-        },
-        "codigo": "DX-093",
-        "nombre": "banco",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288338
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f922d"
-        },
-        "codigo": "DX-858",
-        "nombre": "pues",
-        "descripcion": "Piel mientras dólares. Iba especial libro unos presenta. Sistema amor formación mitad ojos mismos.\nActitud unidad habrá equipo. Bajo peor zona alrededor nombre.",
-        "fecha_creacion": {
-            "$date": 1760571288339
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f922e"
-        },
-        "codigo": "DX-394",
-        "nombre": "opinión",
-        "descripcion": "Estilo quería dentro.\nCierto este negro domingo miembros encuentro. Esta les acciones ciencia sí están jamás.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288339
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f922f"
-        },
-        "codigo": "DX-082",
-        "nombre": "distintos",
-        "descripcion": "Relación hablar cuerpo.\nGuerra han dios diferentes. Programas mejor última todos octubre hicieron.\nComercio esto llegar fecha varias padres. Cuenta situación distintos también hora metros por nueva.",
-        "fecha_creacion": {
-            "$date": 1760571288340
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9230"
-        },
-        "codigo": "DX-729",
-        "nombre": "allí",
-        "descripcion": "Habrá tiene pie siendo seguridad aquí. Animales diez dejó carrera objeto pasa.",
-        "fecha_creacion": {
-            "$date": 1760571288340
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9231"
-        },
-        "codigo": "DX-005",
-        "nombre": "conjunto",
-        "descripcion": "Las principio justicia además tras. Varios dio sector peso hablar cuanto contenido.\nAcuerdo difícil cinco favor segunda parís. Sociales mañana hemos resultado. Domingo calle frente cuatro.",
-        "fecha_creacion": {
-            "$date": 1760571288341
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9232"
-        },
-        "codigo": "DX-301",
-        "nombre": "allá",
-        "descripcion": "Sector vino programa cantidad recursos pp santa. Ellos paciente aquí tuvo tribunal temas.\nPsoe curso volver. Asimismo existe efectos comunidad posible tiene nos.",
-        "fecha_creacion": {
-            "$date": 1760571288341
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9233"
-        },
-        "codigo": "DX-414",
-        "nombre": "área",
-        "descripcion": "Alta profesional experiencia investigación campaña intereses otra vino. Antonio datos historia. Hermano él más hacía.",
-        "fecha_creacion": {
-            "$date": 1760571288341
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9234"
-        },
-        "codigo": "DX-846",
-        "nombre": "máximo",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288342
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9235"
-        },
-        "codigo": "DX-666",
-        "nombre": "demás",
-        "descripcion": "Cuya he vino ellas se comercio. Ayer mientras para propia tú el siglo único. Vamos razones supuesto proyecto. Especie fueron sean línea falta hija efecto.",
-        "fecha_creacion": {
-            "$date": 1760571288342
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9236"
-        },
-        "codigo": "DX-517",
-        "nombre": "superior",
-        "descripcion": "Señor apenas industria mar pequeño presenta. Enfermedad cuya ocasión g comunicación. U miembros asunto paz contenido cuadro juan tales. Vuelta nuestros exterior cuando.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288343
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9237"
-        },
-        "codigo": "DX-978",
-        "nombre": "sé",
-        "descripcion": "Propia relaciones r. Pesar técnica estaba reforma plan.\nDespués mientras europea volver voz cuya sur cargo. Muerto precio temas tanto actual.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288343
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9238"
-        },
-        "codigo": "DX-539",
-        "nombre": "momentos",
-        "descripcion": "Persona primera atrás sé algún. Llama días larga mujeres minutos instituto importantes.\nSangre edad animales siendo riesgo central norte. Medidas trabajar quien programa total buenos.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288343
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9239"
-        },
-        "codigo": "DX-008",
-        "nombre": "eran",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288344
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f923a"
-        },
-        "codigo": "DX-563",
-        "nombre": "hubo",
-        "descripcion": "Texto construcción dinero posibilidad. Dentro sistemas visita rafael eso.\nSeñor ningún programas. Noviembre experiencia marcha algunas. Alguien pronto ojos aquellas gobierno violencia hemos.",
-        "fecha_creacion": {
-            "$date": 1760571288344
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f923b"
-        },
-        "codigo": "DX-565",
-        "nombre": "paso",
-        "descripcion": "Sigue allá acto mí cuenta capital modelo quienes. Podía humanos políticos sol. Orden blanca mientras salud. Cuya entre lejos político.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288345
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f923c"
-        },
-        "codigo": "DX-434",
-        "nombre": "razón",
-        "descripcion": "Corte buena humanos sobre etapa éxito. Con sido seguro animales millones humano. Única servicios carácter es.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288345
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f923d"
-        },
-        "codigo": "DX-991",
-        "nombre": "estudio",
-        "fecha_creacion": {
-            "$date": 1760571288345
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f923e"
+            "$oid": "68f034e37c0131e1afd2f61d"
         },
         "codigo": "DX-486",
-        "nombre": "dólares",
-        "descripcion": "Sistemas económico mantener e alguna ciencia. Comisión ninguna son manuel lejos jefe vida real. París sabe torno menos varias sola.",
+        "nombre": "importante",
+        "descripcion": "Servicio agua grupo partir. Visto mayores casos. Hacerlo crecimiento presidente constitución les existe puso.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643097
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f61e"
+        },
+        "codigo": "DX-904",
+        "nombre": "pueblo",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643098
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f61f"
+        },
+        "codigo": "DX-830",
+        "nombre": "última",
+        "descripcion": "Los general cuadro claro méxico. Parecía sistema mira.",
+        "fecha_creacion": {
+            "$date": 1760572643098
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f620"
+        },
+        "codigo": "DX-056",
+        "nombre": "construcción",
+        "descripcion": "Línea espacio señora elementos todo. Serie medidas acciones personas por. También media cuyo considera pp. Máximo tanto aquellas fue.",
         "categoria": "oncologia",
         "fecha_creacion": {
-            "$date": 1760571288346
+            "$date": 1760572643099
         },
         "activo": true
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f923f"
+            "$oid": "68f034e37c0131e1afd2f621"
         },
-        "codigo": "DX-587",
-        "nombre": "carne",
-        "descripcion": "Industria mayor relaciones etc productos nuevos mayoría. Mitad ahí salud tuvo fuego pues da.",
+        "codigo": "DX-276",
+        "nombre": "más",
+        "descripcion": "Consecuencia sabía situación hacen lo usted jamás. Dice juan guerra otra servicios nombre cara. Espacio oficial médico luego.\nUso seis miembros nadie encuentra últimos. Pues pues hacia.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643099
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f622"
+        },
+        "codigo": "DX-424",
+        "nombre": "cosa",
+        "descripcion": "Tú juez encuentran hechos posibilidades fue fiscal razón. Iglesia país cuadro pedro estaba. Pequeña antes última flores parece clase.",
+        "fecha_creacion": {
+            "$date": 1760572643100
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f623"
+        },
+        "codigo": "DX-473",
+        "nombre": "abril",
+        "descripcion": "Políticos julio edad momentos. Local objetivo lugar plazo puntos.\nSegunda pensar estoy qué haber consejo. Exterior visto deja llevar habla. Línea empresa punto.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643100
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f624"
+        },
+        "codigo": "DX-348",
+        "nombre": "interior",
+        "descripcion": "Hicieron nadie comenzó grupo superior función. José historia fueron parecía.\nSectores diario llegado actividades ayuda decía. Asimismo dolor fin viaje.",
+        "fecha_creacion": {
+            "$date": 1760572643100
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f625"
+        },
+        "codigo": "DX-607",
+        "nombre": "programa",
+        "fecha_creacion": {
+            "$date": 1760572643101
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f626"
+        },
+        "codigo": "DX-399",
+        "nombre": "trabajadores",
+        "descripcion": "Puedo llegó casa fueron fuerza militares mañana. Paciente pasó esto somos. De abril llegado españoles esa hubo. Años fernando memoria última tenido obra libros.",
+        "fecha_creacion": {
+            "$date": 1760572643101
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f627"
+        },
+        "codigo": "DX-157",
+        "nombre": "forma",
+        "descripcion": "Capacidad estructura rey ideas. Suerte historia cámara instituciones año debido.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643102
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f628"
+        },
+        "codigo": "DX-633",
+        "nombre": "banco",
+        "descripcion": "Creación tiempos luego dirección cuya. Democracia premio exterior especie martín.",
         "categoria": "oncologia",
         "fecha_creacion": {
-            "$date": 1760571288346
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9240"
-        },
-        "codigo": "DX-444",
-        "nombre": "palabras",
-        "descripcion": "Mismo cambios ayuda rosa esa violencia estaba. Verdad datos tribunal dónde calle méxico. Tiempo aspecto otras situación crecimiento piel cultura.\nCultural santa muchos he local través corazón.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288347
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9241"
-        },
-        "codigo": "DX-912",
-        "nombre": "cultural",
-        "descripcion": "Ministro pese busca puede momentos. Río debía mujer buen partidos. Solución enero p camino dan uso.",
-        "fecha_creacion": {
-            "$date": 1760571288347
+            "$date": 1760572643102
         },
         "activo": true
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f9242"
-        },
-        "codigo": "DX-906",
-        "nombre": "oro",
-        "descripcion": "Sangre primero futuro pues. Ninguna acuerdo sur volvió hubiera. Vuelve cuestión problemas existencia dinero seis.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288347
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9243"
-        },
-        "codigo": "DX-040",
-        "nombre": "acciones",
-        "descripcion": "Lenguaje varios gonzález causa común. Tampoco posible razón conciencia. Presidente rodríguez aquellos caso pudo.\nSueño ideas figura marzo creación don corazón. Estos máximo aunque donde muchos.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288348
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9244"
-        },
-        "codigo": "DX-226",
-        "nombre": "ellos",
-        "descripcion": "Aparece quiero formación tanto número américa demasiado negro. Claro proceso lucha importante soy conocer recursos demasiado. Servicio grandes ciencia sentido mujeres fueron r aire.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288348
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9245"
-        },
-        "codigo": "DX-953",
-        "nombre": "p",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288349
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9246"
-        },
-        "codigo": "DX-203",
-        "nombre": "fuerzas",
-        "descripcion": "Teatro podrá francisco ley. Nuevo experiencia cama nosotros aire padre diez capacidad. Destino película cuatro instituciones memoria elecciones.",
-        "fecha_creacion": {
-            "$date": 1760571288349
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9247"
-        },
-        "codigo": "DX-613",
-        "nombre": "iba",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288349
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9248"
-        },
-        "codigo": "DX-927",
-        "nombre": "evitar",
-        "descripcion": "Han espera fecha primer éste llama buscar. Temas premio dentro humanos los.\nPrimero pensar ese curso habrá. Encuentran parís otros entonces.",
-        "fecha_creacion": {
-            "$date": 1760571288350
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9249"
-        },
-        "codigo": "DX-848",
-        "nombre": "nada",
-        "descripcion": "Título llama dan peor. Suerte encuentra paz maría salida servicios siendo. Cabeza instituto objetivo razón al encima.",
-        "categoria": "oncologia",
-        "fecha_creacion": {
-            "$date": 1760571288350
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f924a"
-        },
-        "codigo": "DX-500",
-        "nombre": "millones",
-        "descripcion": "Información tenía allá nosotros no escuela conocimiento. Situación apenas sean.\nAutoridades pueblo metros atención manos. Mañana revolución cámara decir acerca.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288351
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f924b"
-        },
-        "codigo": "DX-644",
-        "nombre": "económica",
-        "descripcion": "Contenido mi muchos función había función parte. Diciembre hablar niveles esto encuentra empresa.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288351
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f924c"
+            "$oid": "68f034e37c0131e1afd2f629"
         },
         "codigo": "DX-197",
-        "nombre": "cada",
-        "descripcion": "México términos aumento entre serán quedó.\nComisión dolor mediante línea diversos realidad puede. Oro podría cámara país plazo.",
+        "nombre": "mejores",
+        "descripcion": "Muestra especialmente general. Condiciones cambios cuatro fuerte idea.\nMartín paciente así estos. Obstante va habla experiencia fin. Características ocasión año quedó necesidad.",
+        "categoria": "",
         "fecha_creacion": {
-            "$date": 1760571288352
+            "$date": 1760572643103
         },
         "activo": true
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f924d"
+            "$oid": "68f034e37c0131e1afd2f62a"
         },
-        "codigo": "DX-612",
-        "nombre": "negro",
-        "descripcion": "Nuestra aquel francia precios prensa autor idea trabajar. Región tal nadie diversas tras oficial.\nDemás nuestro solo puso.",
-        "categoria": "oncologia",
+        "codigo": "DX-555",
+        "nombre": "aquella",
+        "descripcion": "Cama aquellos encontrar nuestras. Producto palabra somos además dolor paz.\nEntrar niveles programa boca lo dolor acción carrera.",
         "fecha_creacion": {
-            "$date": 1760571288352
+            "$date": 1760572643103
         },
         "activo": true
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f924e"
+            "$oid": "68f034e37c0131e1afd2f62b"
         },
-        "codigo": "DX-017",
-        "nombre": "dinero",
-        "descripcion": "Nuestra septiembre mayo posibilidades ideas. Cuales tu ir hora radio. Blanca octubre el e línea edad.\nInterior entonces medios posibilidad corte antes. Juan real enfermedad espera palabra.",
-        "categoria": "oncologia",
+        "codigo": "DX-028",
+        "nombre": "entrada",
+        "descripcion": "Cierta cuarto dios suficiente diversos autoridades. Agua único conocer me local has.\nCierto si arriba humana cierta voluntad. Mundial nunca entrar.",
+        "categoria": "neurologia",
         "fecha_creacion": {
-            "$date": 1760571288352
+            "$date": 1760572643104
         },
         "activo": false
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f924f"
+            "$oid": "68f034e37c0131e1afd2f62c"
+        },
+        "codigo": "DX-128",
+        "nombre": "carta",
+        "descripcion": "Buen sus es concepto cuadro general. Cuatro máximo adelante. Costa agua otros ayer atención.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643104
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f62d"
+        },
+        "codigo": "DX-301",
+        "nombre": "puerto",
+        "descripcion": "Santa estructura necesidad mesa militares proceso para.\nObras sigue visto esfuerzo alto concepto ley. Da día línea viejo fuego.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643105
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f62e"
+        },
+        "codigo": "DX-052",
+        "nombre": "ya",
+        "descripcion": "Español distintos hubo material carrera esfuerzo favor viene. Intereses civil reforma cantidad pesar de. Común mercado vio fue. Mientras estado acciones.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643105
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f62f"
+        },
+        "codigo": "DX-147",
+        "nombre": "cambio",
+        "descripcion": "Operación comunicación aspectos. Vía destino miembros dejar arriba entrar central existen. Gracias buenos guerra. María cuarto buenos ayuda mejor empresa.",
+        "fecha_creacion": {
+            "$date": 1760572643106
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f630"
+        },
+        "codigo": "DX-470",
+        "nombre": "línea",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643106
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f631"
+        },
+        "codigo": "DX-772",
+        "nombre": "asociación",
+        "descripcion": "Riesgo términos tiempos c estamos mis. Son trabajo juan mis banco poner respuesta unos.",
+        "fecha_creacion": {
+            "$date": 1760572643107
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f632"
+        },
+        "codigo": "DX-997",
+        "nombre": "fuerte",
+        "descripcion": "Niveles actitud miembros estructura. Quién importancia tenía comisión.\nAntes marzo niveles creo.\nCuba gente campaña orden seguir. Ocasiones pie buena queda. Aparece posible particular palabra.",
+        "fecha_creacion": {
+            "$date": 1760572643107
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f633"
+        },
+        "codigo": "DX-201",
+        "nombre": "dijo",
+        "descripcion": "Profesional ciencia teoría miembros g será club. Espera personas ningún solución cual. Presente lejos existe aunque hospital proceso ni.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643108
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f634"
+        },
+        "codigo": "DX-143",
+        "nombre": "mientras",
+        "descripcion": "Clase respuesta del encuentran situación su todas niveles. Sus corazón abril. Local otros fútbol importantes tiempo muy nombre.\nDónde salir hijos papel puntos difícil internacional menor.",
+        "fecha_creacion": {
+            "$date": 1760572643109
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f635"
+        },
+        "codigo": "DX-337",
+        "nombre": "material",
+        "descripcion": "Sol i nuestra una vía encontrar valor. Entonces esto mil encuentra.\nTales opinión mujeres jóvenes. Unas exterior lo prensa esto. Silencio tenido alguien vez.",
+        "fecha_creacion": {
+            "$date": 1760572643109
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f636"
+        },
+        "codigo": "DX-818",
+        "nombre": "luis",
+        "descripcion": "Interior maría aire central dentro. Diez unas obra pequeño. Política decir juego grupos necesidad políticas.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643110
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f637"
+        },
+        "codigo": "DX-812",
+        "nombre": "marzo",
+        "fecha_creacion": {
+            "$date": 1760572643110
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f638"
+        },
+        "codigo": "DX-435",
+        "nombre": "gonzález",
+        "descripcion": "Número rodríguez memoria familia. Oficial primeros fácil pacientes ideas compañía fecha.\nIi europea respecto pese aquellas quedó. México análisis pasado educación éxito cerca.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643111
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f639"
+        },
+        "codigo": "DX-540",
+        "nombre": "amor",
+        "descripcion": "Largo sangre doctor ésta luego demás. Ser grupo suerte nosotros hacer.\nMiguel industria acuerdo libre capital marco. Producto un siete piel teatro. Empresas cambio derechos más.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643111
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f63a"
+        },
+        "codigo": "DX-516",
+        "nombre": "así",
+        "descripcion": "Destino cuerpo ocasiones proyectos principales parte. Sin volvió media jamás defensa hasta marcha durante. Otras tras quizá peso.\nQuizá permite figura popular. Poco vez manera santa cuenta ayuda mes.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643112
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f63b"
+        },
+        "codigo": "DX-998",
+        "nombre": "razón",
+        "descripcion": "I estructura capacidad base hospital tengo. Siquiera cuanto ejército obra. Problemas orden seguridad hace generales al.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643112
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f63c"
+        },
+        "codigo": "DX-895",
+        "nombre": "gonzález",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643113
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f63d"
+        },
+        "codigo": "DX-514",
+        "nombre": "sectores",
+        "descripcion": "Control tampoco premio ellos largo dice. Fiscal mis estado vino sí costa.\nEsa modo américa ningún claro como diversas. Economía primer riesgo sol algún palabras especial total.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643113
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f63e"
+        },
+        "codigo": "DX-617",
+        "nombre": "real",
+        "descripcion": "Siempre exterior producto real hoy calidad. Mucho cabo paciente. Españoles son ministro partido.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643113
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f63f"
+        },
+        "codigo": "DX-371",
+        "nombre": "ser",
+        "descripcion": "Sociedad queda exterior parecía sol mantener. Pie sentido porque noche.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643114
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f640"
+        },
+        "codigo": "DX-123",
+        "nombre": "pasado",
+        "descripcion": "Vuelta presencia varias mirada. Produce pese campo joven haciendo.\nJosé universidad asunto jamás debe trabajo través. Baja b están fuego busca tan sabe. Tras ejército cultural lleva tiempo ocasión.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643114
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f641"
+        },
+        "codigo": "DX-462",
+        "nombre": "puntos",
+        "descripcion": "Información ante cine campaña actividad. Francia hizo personal peor el tema.\nPresenta cargo la siquiera. Camino cuenta etc ahí deben. Aquellos largo marco decía conocimiento manera habría anterior.",
+        "fecha_creacion": {
+            "$date": 1760572643115
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f642"
+        },
+        "codigo": "DX-718",
+        "nombre": "hijo",
+        "descripcion": "Pasado imágenes creación problema evitar. Nuevas materia como noche grandes principales ayuda.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643115
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f643"
+        },
+        "codigo": "DX-822",
+        "nombre": "diciembre",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643116
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f644"
+        },
+        "codigo": "DX-765",
+        "nombre": "texto",
+        "descripcion": "Futuro otro función. Sean actual militares memoria período explicó esta.",
+        "fecha_creacion": {
+            "$date": 1760572643116
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f645"
+        },
+        "codigo": "DX-361",
+        "nombre": "pueden",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643117
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f646"
+        },
+        "codigo": "DX-843",
+        "nombre": "grupos",
+        "descripcion": "Noche mundo antes ayuda. Las cambio médico sabe fondo mantener esfuerzo.\nPrincipales volver empresas paso. Te corazón otros medios oro dio.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643117
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f647"
+        },
+        "codigo": "DX-530",
+        "nombre": "algunas",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643118
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f648"
+        },
+        "codigo": "DX-192",
+        "nombre": "mis",
+        "descripcion": "Cierto minutos niño ley. Enfermedad quería mundo mismos última población. Rey puede sabe siempre problema actitud s.\nAlgunos debido mí plazo. Libertad materia ese público compañía.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643118
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f649"
+        },
+        "codigo": "DX-488",
+        "nombre": "decisión",
+        "descripcion": "Única luego policía unas haber entre empresas. Pregunta días nosotros imagen una. Comunicación has estilo primero poder distintas o.\nMayores igual qué equipo relaciones tan. Encontrar aire fernando.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643119
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f64a"
+        },
+        "codigo": "DX-424",
+        "nombre": "lado",
+        "descripcion": "Buenos relaciones idea mal lado. Llega análisis corazón proyectos me. Es corazón oposición administración.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643119
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f64b"
+        },
+        "codigo": "DX-123",
+        "nombre": "aún",
+        "fecha_creacion": {
+            "$date": 1760572643120
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f64c"
+        },
+        "codigo": "DX-990",
+        "nombre": "he",
+        "descripcion": "Contra fiscal don siguiente máximo. Hombres principio orden esfuerzo a viejo. Diferentes psoe gonzález.\nFecha tal iba ningún han. O fecha empresa. Guerra apoyo martín armas imagen.",
+        "fecha_creacion": {
+            "$date": 1760572643120
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f64d"
+        },
+        "codigo": "DX-824",
+        "nombre": "origen",
+        "descripcion": "Sin comenzó fueron población llegar reunión cámara. Siglo político pocos tú cultura producción m. Personal investigación luz luz saber. Misma va imagen elementos cuenta.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643121
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f64e"
+        },
+        "codigo": "DX-378",
+        "nombre": "has",
+        "descripcion": "Trabajo llegó fuerza ley mira cada paz. Necesidad informe área hacerlo común imagen.\nPoder junto secretario haya. Nueva pequeña poner verdad negro aquellas interior. Dolor líder esas origen segunda.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643121
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f64f"
+        },
+        "codigo": "DX-533",
+        "nombre": "propios",
+        "descripcion": "Cuatro actitud ellas hombres vida dejó. Central río jorge fuerza otros para. Buenos organización cantidad político población.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643122
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f650"
+        },
+        "codigo": "DX-578",
+        "nombre": "estados",
+        "fecha_creacion": {
+            "$date": 1760572643122
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f651"
+        },
+        "codigo": "DX-750",
+        "nombre": "parís",
+        "descripcion": "Países dentro según tener padre. Ciencia dicen pequeña estaban américa.\nSeguridad nuevas bajo llegó finalmente electoral victoria dado. Mucho cámara pablo grande.",
+        "fecha_creacion": {
+            "$date": 1760572643123
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f652"
+        },
+        "codigo": "DX-895",
+        "nombre": "material",
+        "fecha_creacion": {
+            "$date": 1760572643123
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f653"
+        },
+        "codigo": "DX-166",
+        "nombre": "usted",
+        "descripcion": "Control autor padres natural muchas misma muy condiciones. Aquel modo fondo.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643124
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f654"
+        },
+        "codigo": "DX-201",
+        "nombre": "pie",
+        "descripcion": "Decía sector habían recursos busca pero análisis explicó. Haya cambio gobierno militar. Personas social les g ir obras. Tipo juicio puesto.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643124
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f655"
+        },
+        "codigo": "DX-014",
+        "nombre": "aquellas",
+        "descripcion": "Esfuerzo aquella tendrá precios para. Señor ciudad esto niño actitud congreso suficiente.\nDuda tribunal consecuencia compañía u justicia. Mi grado hace aquel políticas.",
+        "fecha_creacion": {
+            "$date": 1760572643125
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f656"
+        },
+        "codigo": "DX-345",
+        "nombre": "investigación",
+        "descripcion": "Universidad carácter algún dio historia. Puerta generales teoría realidad viene tiempos. Papel finalmente día norte.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643125
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f657"
+        },
+        "codigo": "DX-975",
+        "nombre": "marzo",
+        "descripcion": "Cabo tres éxito principales futuro. Común generales forma juez mirada ningún. Mitad estar usted tres gracias pequeño público.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643126
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f658"
+        },
+        "codigo": "DX-780",
+        "nombre": "entre",
+        "descripcion": "Presidente realizar conseguir mismos esos resulta.\nHicieron deseo salud alto países toda texto. Esas conciencia espera. Ex dios año.\nFormas posible universidad usted. Española d ejército gran.",
+        "fecha_creacion": {
+            "$date": 1760572643126
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f659"
+        },
+        "codigo": "DX-236",
+        "nombre": "sur",
+        "fecha_creacion": {
+            "$date": 1760572643127
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f65a"
+        },
+        "codigo": "DX-094",
+        "nombre": "dice",
+        "descripcion": "Puesto especialmente etc unión libros música. Voy estados defensa luz capaz. Metros capacidad cabeza ojos mercado alguien.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643127
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f65b"
+        },
+        "codigo": "DX-044",
+        "nombre": "nuestros",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643128
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f65c"
+        },
+        "codigo": "DX-703",
+        "nombre": "señaló",
+        "descripcion": "Popular primer cultural. Han carta cuerpo capacidad.\nJunio participación resulta sabe hacerlo mundo. Mira hacer violencia manuel manera fuerte.",
+        "fecha_creacion": {
+            "$date": 1760572643128
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f65d"
+        },
+        "codigo": "DX-400",
+        "nombre": "agua",
+        "descripcion": "Sí informe diario película campo habían mirada. Pequeño exterior asimismo objeto estas visita socialista voy. Organización me jamás.",
+        "fecha_creacion": {
+            "$date": 1760572643128
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f65e"
+        },
+        "codigo": "DX-608",
+        "nombre": "radio",
+        "descripcion": "Fecha mayo octubre fondo mismos. Mar rey antes viejo lugar clase proyectos.",
+        "fecha_creacion": {
+            "$date": 1760572643129
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f65f"
+        },
+        "codigo": "DX-121",
+        "nombre": "hombres",
+        "descripcion": "Carrera no ayuda. Luz tiempos aparece minutos consecuencia.\nCuestión peso natural dinero. Importantes podemos fiscal anterior militar puerto. Ningún dijo mediante propios.",
+        "fecha_creacion": {
+            "$date": 1760572643129
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f660"
+        },
+        "codigo": "DX-313",
+        "nombre": "apenas",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643130
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f661"
+        },
+        "codigo": "DX-790",
+        "nombre": "modo",
+        "descripcion": "Posibilidades sido director superior único. Unión cual ninguna argentina policía cuba hombres.\nEscuela amigo hicieron larga. Forma asunto carácter europea.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643130
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f662"
+        },
+        "codigo": "DX-480",
+        "nombre": "ciencia",
+        "descripcion": "Etc derecha llegó encima figura estados cara. Cierta otros actitud gonzález hacerlo. Capacidad causa hizo pequeña zona.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643131
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f663"
+        },
+        "codigo": "DX-840",
+        "nombre": "metros",
+        "descripcion": "Datos propios medio futuro cuerpo origen unas. Siempre alrededor sigue flores fondo crisis salud.\nExterior sé derecho nosotros gonzález. Joven han mayo cantidad en.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643131
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f664"
+        },
+        "codigo": "DX-647",
+        "nombre": "país",
+        "fecha_creacion": {
+            "$date": 1760572643132
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f665"
+        },
+        "codigo": "DX-065",
+        "nombre": "pocos",
+        "descripcion": "Industria tras características orden sean. Éxito estuvo modo sabe mano. Amigos dónde difícil tomar torno diferentes.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643132
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f666"
+        },
+        "codigo": "DX-040",
+        "nombre": "santiago",
+        "descripcion": "Estados imposible dan le nunca. Interés poco sus gobierno todos.\nCiento garcía nuevas van. Bien fondo socialista único fernando cine. Propio aparece socialista consumo.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643133
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f667"
+        },
+        "codigo": "DX-771",
+        "nombre": "democracia",
+        "descripcion": "Compañía etapa especialmente oposición muchas modo hechos. Junto mercado propio piel nadie llamado. Suelo quería médico primera tampoco trabajadores parte tiempos.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643133
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f668"
+        },
+        "codigo": "DX-225",
+        "nombre": "actual",
+        "descripcion": "Acuerdo electoral voy tanto. Televisión amigos fuentes sala.\nCurso calidad pública única habrá demás cine.",
+        "fecha_creacion": {
+            "$date": 1760572643134
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f669"
+        },
+        "codigo": "DX-250",
+        "nombre": "acuerdo",
+        "descripcion": "Miembros oposición curso mal zonas mañana espera bastante. Posición existen visto miguel serán.\nGenerales dado viene ha haya área fondo. Durante plan blanca aun cuerpo teatro al propuesta.",
+        "fecha_creacion": {
+            "$date": 1760572643134
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f66a"
+        },
+        "codigo": "DX-160",
+        "nombre": "tuvo",
+        "descripcion": "Están muchas cada oro tales sólo verdad. Fondo tan político dijo el internacional familia.\nParecía problemas superior evitar. Profesional aun otro ésta desarrollo.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643135
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f66b"
+        },
+        "codigo": "DX-560",
+        "nombre": "características",
+        "descripcion": "Peso todos ni experiencia dar. Llega ninguna dan ni.\nMarcha más diario vuelve sea dar pone. Vuelta costa grandes revolución tenía quiero mesa.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643135
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f66c"
+        },
+        "codigo": "DX-676",
+        "nombre": "elecciones",
+        "descripcion": "Posible e ve distintos al. Papel armas respuesta.\nMédico aquellas cualquier nuestros. Pocos autor diciembre carne siquiera. Principales costa permite tu vista esas trabajar marzo.",
+        "fecha_creacion": {
+            "$date": 1760572643136
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f66d"
+        },
+        "codigo": "DX-945",
+        "nombre": "presenta",
+        "descripcion": "Crecimiento nos administración carlos salir cama. Dos último términos lópez operación derechos capaz.\nPronto él según decisión blanco vino oficial ha. Iba crisis dejar marzo.",
+        "fecha_creacion": {
+            "$date": 1760572643136
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f66e"
+        },
+        "codigo": "DX-169",
+        "nombre": "durante",
+        "descripcion": "Decir quienes cómo pocos lucha. Crecimiento cama sueño imagen suerte esto posibilidades.\nObjetivo paz reforma pueda incluso diario. Modelo en presente salida.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643137
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f66f"
+        },
+        "codigo": "DX-586",
+        "nombre": "así",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643137
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f670"
+        },
+        "codigo": "DX-027",
+        "nombre": "lugar",
+        "fecha_creacion": {
+            "$date": 1760572643138
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f671"
+        },
+        "codigo": "DX-584",
+        "nombre": "control",
+        "descripcion": "Don electoral tengo español violencia área. Organización san río.\nAmigo centros jamás. Sala mientras económica n.\nLo club esas partidos primer iglesia ve informe. Tipo lenguaje e juego.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643138
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f672"
+        },
+        "codigo": "DX-571",
+        "nombre": "jorge",
+        "descripcion": "Alta final varios cuba idea. Persona militares líder creación incluso cierta medidas.\nEconomía fecha tú dirección será presidente. Ayer hombre yo.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643139
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f673"
+        },
+        "codigo": "DX-432",
+        "nombre": "partes",
+        "descripcion": "Rosa costa queda n premio ante. Color también respuesta nacional conocimiento sé. Lado siquiera propio presidente larga.",
+        "fecha_creacion": {
+            "$date": 1760572643140
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f674"
+        },
+        "codigo": "DX-774",
+        "nombre": "creación",
+        "descripcion": "Fuera club conocer. Habrá tratamiento salida sectores.\nSiquiera junio aire posibilidad mismo. Jefe ir día u muy.",
+        "fecha_creacion": {
+            "$date": 1760572643140
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f675"
+        },
+        "codigo": "DX-010",
+        "nombre": "todo",
+        "descripcion": "Debía primeros ahora través tiene llegar. Máximo siglo usted decisión orden. Santa por caso imágenes ambiente dicho.",
+        "fecha_creacion": {
+            "$date": 1760572643141
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f676"
+        },
+        "codigo": "DX-991",
+        "nombre": "estoy",
+        "descripcion": "Atención ambiente qué generales total estuvo. Bien fiscal igual sería solamente. Costa humano trabajo capaz quiere sino.\nEs d segunda luego. Fuerza asunto puso autor sigue nombre n.",
+        "fecha_creacion": {
+            "$date": 1760572643141
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f677"
+        },
+        "codigo": "DX-255",
+        "nombre": "empresas",
+        "descripcion": "Europea ese blanco tú calle noviembre casa. Programa no región mercado primeros. Siquiera alta dio unidos de baja última.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643142
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f678"
+        },
+        "codigo": "DX-830",
+        "nombre": "propuesta",
+        "descripcion": "Tendrá m adelante superior tener cabo. Acerca período viene semana.\nPelícula práctica rosa posición. Octubre luego tengo hacer comunidad respuesta.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643142
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f679"
         },
         "codigo": "DX-741",
-        "nombre": "cada",
-        "descripcion": "Hasta cosa varias blanco ambos falta había. Régimen ellos horas líder. Manuel centros momentos.",
+        "nombre": "abril",
+        "descripcion": "Medidas considera campaña momentos producción prensa memoria. Además producto principal pp sea respuesta junto. Hija nuestro formación sabía actividades estado menor.",
         "categoria": "oncologia",
         "fecha_creacion": {
-            "$date": 1760571288353
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9250"
-        },
-        "codigo": "DX-390",
-        "nombre": "éste",
-        "descripcion": "Nacional juan lado méxico alto pero. Tengo acuerdo antonio mí oposición hecho. Mano millones mercado busca dónde.\nProfesional personal dejó pero vivir. Menos cantidad españoles ellas edad aquella.",
-        "fecha_creacion": {
-            "$date": 1760571288353
+            "$date": 1760572643143
         },
         "activo": true
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f9251"
+            "$oid": "68f034e37c0131e1afd2f67a"
         },
-        "codigo": "DX-271",
-        "nombre": "próximo",
+        "codigo": "DX-902",
+        "nombre": "s",
+        "descripcion": "Nada reunión estaba máximo población. Sol interior idea tengo le resto explicó. Sobre barcelona fuerte solución puntos da memoria.",
+        "categoria": "",
         "fecha_creacion": {
-            "$date": 1760571288354
+            "$date": 1760572643143
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f67b"
+        },
+        "codigo": "DX-801",
+        "nombre": "elecciones",
+        "descripcion": "E fuerzas has personas ojos minutos chile.\nQueda cierta ciento obra plan premio. Pregunta ministro realizar mi sociales tendrá sociales.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643144
         },
         "activo": false
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f9252"
+            "$oid": "68f034e37c0131e1afd2f67c"
+        },
+        "codigo": "DX-308",
+        "nombre": "plan",
+        "descripcion": "Comisión unión pensar falta tenían garcía perdido. Civil uso día efecto.\nDentro evitar ellas haber sólo. Condiciones tan teatro. Chile revolución miedo precios.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643144
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f67d"
+        },
+        "codigo": "DX-455",
+        "nombre": "si",
+        "descripcion": "Paz llega del debe. Dan durante mujer principios.\nJuicio tarde vida. Diciembre eso unión fue dio final vuelta.\nEspecialmente capacidad iba. Tiene te europea importancia tipos.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643145
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f67e"
+        },
+        "codigo": "DX-074",
+        "nombre": "entre",
+        "descripcion": "Este mil texto. Deseo agua ocasión hablar.\nDa necesidad español tampoco ante llegado. Través seguridad nivel acerca ministerio diario.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643145
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f67f"
+        },
+        "codigo": "DX-489",
+        "nombre": "principal",
+        "descripcion": "Premio hace poco hubo. Análisis solo suerte director calidad pesar mayores. Usted objeto revolución sociedad administración dentro solamente.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643146
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f680"
+        },
+        "codigo": "DX-758",
+        "nombre": "cantidad",
+        "descripcion": "Saber algunos fueron fuerte humana y países. Algunas mitad i relaciones fútbol. Nosotros he pronto equipo prueba parte.\nCiudad jóvenes presente actual santa. Naturaleza persona vez.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643146
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f681"
+        },
+        "codigo": "DX-488",
+        "nombre": "sabe",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643147
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f682"
+        },
+        "codigo": "DX-266",
+        "nombre": "último",
+        "descripcion": "Sería millones debido necesario segunda. Tampoco ambos vista época medio fondo democracia hicieron. Medida vía parece por cerca entrar.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643147
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f683"
+        },
+        "codigo": "DX-193",
+        "nombre": "población",
+        "fecha_creacion": {
+            "$date": 1760572643148
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f684"
+        },
+        "codigo": "DX-319",
+        "nombre": "tomar",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643148
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f685"
+        },
+        "codigo": "DX-083",
+        "nombre": "fuerte",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643148
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f686"
+        },
+        "codigo": "DX-983",
+        "nombre": "encuentran",
+        "descripcion": "Respuesta llegar va dijo.\nQue memoria crecimiento prueba. Posibilidad caso sueño origen niveles mucho. Pregunta grande siquiera opinión finalmente próximo términos.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643149
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f687"
+        },
+        "codigo": "DX-175",
+        "nombre": "muerte",
+        "descripcion": "Televisión jefe pesar sociedad palabra. Haciendo militares u revolución días aquellos. Siguiente etapa nivel música salida plan recursos justicia.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643149
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f688"
+        },
+        "codigo": "DX-109",
+        "nombre": "proceso",
+        "fecha_creacion": {
+            "$date": 1760572643150
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f689"
+        },
+        "codigo": "DX-143",
+        "nombre": "niño",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643150
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f68a"
+        },
+        "codigo": "DX-588",
+        "nombre": "tiene",
+        "descripcion": "Mucho aquellos dentro.\nProduce luego mis república río varias. Aun mediante millones obra. Ciento ocasiones puso pronto temas podemos las resultados. Presente todo primeros cuando quienes mientras.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643151
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f68b"
+        },
+        "codigo": "DX-604",
+        "nombre": "alto",
+        "descripcion": "López conocer algunos padres. Ésta artículo dinero pablo hoy mal.\nTrata lleva esto hecho calle. Solo elementos vino país. Hospital guerra mil única ciento enfermedad expresión.",
+        "fecha_creacion": {
+            "$date": 1760572643151
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f68c"
+        },
+        "codigo": "DX-548",
+        "nombre": "cierto",
+        "descripcion": "Nuevos pie libros conjunto hija. Junio estados pueden.\nTipos tenía podía porque derechos. Chile joven aún libertad pregunta sector lucha.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643152
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f68d"
+        },
+        "codigo": "DX-747",
+        "nombre": "conciencia",
+        "descripcion": "Comercio último visto suerte ser europea todavía. Palabras casi plan un son poner operación.\nCiencia mañana vista era mejores tanto mayoría. Distintos cuya dicen.",
+        "fecha_creacion": {
+            "$date": 1760572643152
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f68e"
+        },
+        "codigo": "DX-933",
+        "nombre": "objeto",
+        "descripcion": "Algunas tarde mujer joven muerte. Interior pie cinco hemos cinco pública. Pequeño con segunda participación.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643153
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f68f"
+        },
+        "codigo": "DX-142",
+        "nombre": "n",
+        "descripcion": "Causa sola le produce conocer. Total términos enfermedad favor obstante.\nMenor hace haciendo afirmó llegar llamado. Horas j estuvo técnica música aquella martín.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643154
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f690"
+        },
+        "codigo": "DX-889",
+        "nombre": "organización",
+        "descripcion": "Aquel salud universidad psoe juicio. Población salir valor aquí verdad fuerte muchas. Domingo siguientes reunión ir junto.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643154
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f691"
+        },
+        "codigo": "DX-941",
+        "nombre": "práctica",
+        "descripcion": "Sí realizar resultado nombre adelante datos entre. Encuentro relaciones quizá pequeño pública distintos. Prensa clase país.\nU civil producción equipo.",
+        "fecha_creacion": {
+            "$date": 1760572643155
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f692"
+        },
+        "codigo": "DX-551",
+        "nombre": "volver",
+        "fecha_creacion": {
+            "$date": 1760572643155
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f693"
+        },
+        "codigo": "DX-377",
+        "nombre": "tú",
+        "descripcion": "Principales hospital diferencia necesario fuerza única. Militares industria país mar manera propuesta hijo.\nVuelve régimen siquiera riesgo nuevo fernando. Sola director año país había ambos.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643156
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f694"
+        },
+        "codigo": "DX-989",
+        "nombre": "afirmó",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643157
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f695"
+        },
+        "codigo": "DX-603",
+        "nombre": "debía",
+        "descripcion": "Don hijos equipo económico mujer hija frente aquella. Mal niños dar pronto cosas última.",
+        "fecha_creacion": {
+            "$date": 1760572643157
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f696"
+        },
+        "codigo": "DX-763",
+        "nombre": "defensa",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643158
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f697"
+        },
+        "codigo": "DX-856",
+        "nombre": "siquiera",
+        "fecha_creacion": {
+            "$date": 1760572643158
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f698"
+        },
+        "codigo": "DX-064",
+        "nombre": "miedo",
+        "descripcion": "Sector tener secretario r. Era cabeza prueba produce palabras.\nAsimismo unión siguiente c.",
+        "fecha_creacion": {
+            "$date": 1760572643158
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f699"
+        },
+        "codigo": "DX-865",
+        "nombre": "enfermedad",
+        "descripcion": "Aquellos sino partidos opinión razón. Cultura sistema llega etapa. Reforma hermano palabras instituto saber difícil tierra.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643159
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f69a"
+        },
+        "codigo": "DX-859",
+        "nombre": "elecciones",
+        "fecha_creacion": {
+            "$date": 1760572643159
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f69b"
+        },
+        "codigo": "DX-805",
+        "nombre": "entrada",
+        "descripcion": "Políticas viene vía. Asociación única dijo toda mujer.\nHaber dan era material misma. Mil da mantener uno.\nActual edad internacional servicio control. Palabras quién sigue paso. Mayoría hay llegado.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643160
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f69c"
+        },
+        "codigo": "DX-112",
+        "nombre": "psoe",
+        "descripcion": "Blanco quienes éste éxito menos. Creo propia hasta deseo allá futuro hizo principios. Cuestión baja deja cuyo posibilidades.",
+        "fecha_creacion": {
+            "$date": 1760572643160
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f69d"
+        },
+        "codigo": "DX-977",
+        "nombre": "tres",
+        "descripcion": "Medios trabajo amigo tan afirmó falta título. Interior cuando trata educación trata claro acto. Aquellas sectores victoria aunque años aquel.",
+        "fecha_creacion": {
+            "$date": 1760572643161
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f69e"
+        },
+        "codigo": "DX-555",
+        "nombre": "secretario",
+        "descripcion": "Vuelta libre lópez sino presencia elecciones quién señaló. Corte mujer informe viejo.\nPunto título casa. Un partidos movimiento sala se. Pequeña número situación n yo.",
+        "fecha_creacion": {
+            "$date": 1760572643161
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f69f"
+        },
+        "codigo": "DX-344",
+        "nombre": "donde",
+        "descripcion": "Sus pasó vino ambos falta. Hecho ese cierto n. Fin centro solamente vida.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643162
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a0"
+        },
+        "codigo": "DX-806",
+        "nombre": "sueño",
+        "descripcion": "Pero mucha premio blanca parís ésta sigue.\nConocimiento mil servicios día tenido trata. Mis experiencia decisión primeras voy.",
+        "fecha_creacion": {
+            "$date": 1760572643162
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a1"
+        },
+        "codigo": "DX-546",
+        "nombre": "esos",
+        "descripcion": "Mar r contenido política respecto fin españoles. Favor como equipo. Camino pero favor amigo.\nPráctica nombre sí principio. Común psoe hubo familia aquellas.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643162
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a2"
+        },
+        "codigo": "DX-756",
+        "nombre": "creo",
+        "descripcion": "Elementos cultura origen unidad semana blanco mesa. Medidas sector estado carne donde fuera. Capacidad obras universidad esfuerzo luego. Hermano cuba secretario resultado.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643163
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a3"
+        },
+        "codigo": "DX-358",
+        "nombre": "llegado",
+        "descripcion": "Operación pueda libertad final saber. Presencia riesgo unidos muerte.\nTan octubre países porque fútbol mejor llama. Resulta mal vida máximo congreso situación nuevo trabajo.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643164
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a4"
+        },
+        "codigo": "DX-609",
+        "nombre": "duda",
+        "descripcion": "Buen estos barcelona noviembre teoría han hora. Tú principio seis aspectos realidad aquella ésta peso. Sala siguiente república incluso.",
+        "fecha_creacion": {
+            "$date": 1760572643164
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a5"
+        },
+        "codigo": "DX-508",
+        "nombre": "pero",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643165
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a6"
+        },
+        "codigo": "DX-608",
+        "nombre": "relaciones",
+        "descripcion": "Bien toda siglo mientras dio estas. Crecimiento época civil. Relación pasó estructura vuelta espera.\nEspaña medio internacional obra algo habrá. Radio autor desarrollo ese.",
+        "fecha_creacion": {
+            "$date": 1760572643165
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a7"
+        },
+        "codigo": "DX-172",
+        "nombre": "madre",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643165
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a8"
+        },
+        "codigo": "DX-387",
+        "nombre": "hacía",
+        "descripcion": "Capaz muerte conseguir ejemplo unos resulta.\nMedio victoria maría quien especie victoria.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643166
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6a9"
+        },
+        "codigo": "DX-649",
+        "nombre": "mayor",
+        "descripcion": "Algunos marcha partidos suerte luz pronto edad. Conjunto datos proyecto cabeza mitad martín países. Figura especialmente televisión supuesto humanos pie equipo sentido.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643166
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6aa"
+        },
+        "codigo": "DX-663",
+        "nombre": "principales",
+        "descripcion": "Aun sector mil. Partes eran buena vino causa buena luz sus. Mundo propio electoral autor movimiento anterior producto.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643167
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6ab"
+        },
+        "codigo": "DX-629",
+        "nombre": "veces",
+        "descripcion": "Único fuerza educación éste posibilidad primera película. Finalmente diferencia interior sin jamás hicieron casi aparece. Sobre media datos van.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643167
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6ac"
+        },
+        "codigo": "DX-869",
+        "nombre": "muchos",
+        "descripcion": "Nombre cuando armas. Existe objetivo libertad ir materia evitar puede. Organización dan estudios miembros mucho haciendo.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643168
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6ad"
+        },
+        "codigo": "DX-947",
+        "nombre": "pública",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643168
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6ae"
+        },
+        "codigo": "DX-640",
+        "nombre": "hospital",
+        "descripcion": "Mesa ejemplo seis. Nunca reforma esas fueron así habían barcelona. Económica problemas juego esta pesar primera pacientes.\nLe curso mejores resultado. Crisis donde tenían haya da mar buenos.",
+        "fecha_creacion": {
+            "$date": 1760572643169
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6af"
+        },
+        "codigo": "DX-046",
+        "nombre": "exterior",
+        "descripcion": "Ahora pequeño relaciones vida prueba ambiente. Importantes quizá ambiente diferencia antonio. Política principal policía. Dólares cuarto dolor domingo aquí mar cuyo hermano.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643169
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b0"
+        },
+        "codigo": "DX-312",
+        "nombre": "pasó",
+        "descripcion": "Perdido último prensa carácter. Boca económico pueblo ellas aumento mayores.\nRosa música poner yo. Anterior tales seis entrar estudios final cierta. Mucha partido cabo fecha pesetas pronto vez suelo.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643170
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b1"
+        },
+        "codigo": "DX-408",
+        "nombre": "ningún",
+        "descripcion": "Cosa suficiente valores encontrar vía asimismo medio victoria. Mundo atención idea construcción poder.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643170
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b2"
+        },
+        "codigo": "DX-119",
+        "nombre": "carlos",
+        "descripcion": "Particular radio he llama esta. Santiago podía vivir. Futuro argentina calidad éste proyectos oro puerto.\nCorazón conjunto podía posición ii garcía fuerzas. González comercio unas.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643171
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b3"
+        },
+        "codigo": "DX-319",
+        "nombre": "septiembre",
+        "descripcion": "Incluso decir desde respuesta. Puesto ciento obra estilo unidos dijo. Plazo posible sólo.\nIzquierda un mañana una proyecto. Justicia considera a. N dado hospital lado.",
+        "fecha_creacion": {
+            "$date": 1760572643171
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b4"
+        },
+        "codigo": "DX-420",
+        "nombre": "puedo",
+        "descripcion": "Desarrollo producto anterior operación gonzález pasó muerto igual. Pasado imágenes decisión su través hombres creo. Existe vio necesario grado porque.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643172
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b5"
+        },
+        "codigo": "DX-444",
+        "nombre": "parece",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643172
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b6"
+        },
+        "codigo": "DX-328",
+        "nombre": "supuesto",
+        "descripcion": "Universidad pese jamás hablar pueblo días conseguir. Español alguna fecha.\nPosibilidades distintos algunos sea segunda claro. G cuanto centros.",
+        "fecha_creacion": {
+            "$date": 1760572643173
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b7"
+        },
+        "codigo": "DX-023",
+        "nombre": "ellas",
+        "descripcion": "Época origen persona proyectos única. Encima qué creo creo pensar. Aun seis francisco estado sala.\nPropios plaza mira semana madre expresión niño. Hora social línea cultura posición fuerzas.",
+        "fecha_creacion": {
+            "$date": 1760572643173
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b8"
+        },
+        "codigo": "DX-116",
+        "nombre": "reunión",
+        "descripcion": "Boca sangre resulta hacen artículo particular bueno informe.\nPresenta naturaleza menos entre buen nueva sociales. Lugar juicio luz propios.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643174
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6b9"
+        },
+        "codigo": "DX-354",
+        "nombre": "carrera",
+        "descripcion": "Político caso europa blanco. Uno cuales ningún falta. María hubo sus. Etc verdad día cual partir acto vista.\nDel jorge temas efecto resultados. Superior así mí hecho muchas.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643174
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6ba"
+        },
+        "codigo": "DX-803",
+        "nombre": "lo",
+        "descripcion": "Recuerdo vuelve blanca nueva existe.\nDía se menor vez modo mismos común. Artículo octubre cuerpo vino manos.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643175
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6bb"
+        },
+        "codigo": "DX-071",
+        "nombre": "medios",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643175
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6bc"
+        },
+        "codigo": "DX-039",
+        "nombre": "enero",
+        "descripcion": "Apenas pasó mes manos. Formación teoría juez cámara.\nClase contra ministro baja cuba. Igual tenemos pregunta estas hospital existe las. Salud de deseo difícil precio muestra aquella especial.",
+        "categoria": "cardiologia",
+        "fecha_creacion": {
+            "$date": 1760572643175
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6bd"
+        },
+        "codigo": "DX-030",
+        "nombre": "teoría",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643176
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6be"
+        },
+        "codigo": "DX-813",
+        "nombre": "sistemas",
+        "descripcion": "Usted armas estudio tener estas. Dicho vamos secretario estado. Casi libre políticos humana pasar.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643176
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6bf"
+        },
+        "codigo": "DX-900",
+        "nombre": "allá",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643177
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6c0"
+        },
+        "codigo": "DX-660",
+        "nombre": "el",
+        "descripcion": "Trabajar unas son aquellas aquellos mismo poner. Buen cuestión oro paso unas segunda. Medio saber habla puesto pablo nuevo.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643177
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6c1"
+        },
+        "codigo": "DX-287",
+        "nombre": "buen",
+        "descripcion": "Te generales fin investigación pronto. Se te visto futuro. Justicia entrar general ve tuvo reforma.\nSería ellas bajo operación unión. Misma energía guerra serán llevar año presencia.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643178
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6c2"
+        },
+        "codigo": "DX-675",
+        "nombre": "don",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643178
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6c3"
+        },
+        "codigo": "DX-605",
+        "nombre": "otro",
+        "descripcion": "Hacer hablar baja fútbol siete medio control. Historia dirección les sino arte.\nPlaza plan bueno partido. Nada posición posibilidad imposible evitar junio existen resultado.",
+        "fecha_creacion": {
+            "$date": 1760572643178
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6c4"
+        },
+        "codigo": "DX-459",
+        "nombre": "cosa",
+        "fecha_creacion": {
+            "$date": 1760572643179
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6c5"
+        },
+        "codigo": "DX-498",
+        "nombre": "policía",
+        "descripcion": "Ex viene única ejército fue camino algunos. Pasa me temas único ciencia. Caso habría años ya sociedad nombre.\nElla mayor fuera revolución cultura. Mundo esta cara permite plazo.",
+        "fecha_creacion": {
+            "$date": 1760572643179
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6c6"
+        },
+        "codigo": "DX-207",
+        "nombre": "investigación",
+        "fecha_creacion": {
+            "$date": 1760572643180
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6c7"
+        },
+        "codigo": "DX-975",
+        "nombre": "valores",
+        "descripcion": "Libre salir película nunca. Propia sobre antes política según dejó. Primeras cuerpo obstante.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643180
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6c8"
         },
         "codigo": "DX-766",
-        "nombre": "nivel",
-        "descripcion": "Esfuerzo veces torno estoy pasado bajo autoridades. Parece presenta josé vista hay aspectos a.\nPolítica dijo estaban este jorge. Asociación fondo llegó joven ahora importantes.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288354
-        },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9253"
-        },
-        "codigo": "DX-205",
-        "nombre": "este",
-        "descripcion": "Visto madre suelo julio unidad. González sí sus ejército hizo española suficiente. Media es real internacional agua nadie etc. Salida organización empresas ese buen.\nEx creo objeto afirmó.",
-        "categoria": "cardiologia",
-        "fecha_creacion": {
-            "$date": 1760571288354
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9254"
-        },
-        "codigo": "DX-226",
-        "nombre": "desde",
-        "descripcion": "Libro empresas aunque da. Período lleva días unión visita no conseguir tampoco. Carta luis control democracia estados problema.",
+        "nombre": "empresas",
         "categoria": "oncologia",
         "fecha_creacion": {
-            "$date": 1760571288355
+            "$date": 1760572643181
         },
         "activo": false
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f9255"
+            "$oid": "68f034e37c0131e1afd2f6c9"
         },
-        "codigo": "DX-033",
-        "nombre": "campaña",
-        "descripcion": "Hermano aparece alguien imagen m argentina barcelona.\nTienen mundo datos desarrollo. Eran tener apenas modo.",
+        "codigo": "DX-789",
+        "nombre": "medio",
+        "descripcion": "Defensa fuerte arte tal. Ninguna imágenes salida encontrar desde algunas civil volvió.",
         "fecha_creacion": {
-            "$date": 1760571288355
-        },
-        "activo": false
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9256"
-        },
-        "codigo": "DX-506",
-        "nombre": "otra",
-        "descripcion": "Fondo existen pese decisión. Fondo cantidad espacio secretario jamás según resultado. Mucha hechos plazo campaña salud.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288356
+            "$date": 1760572643181
         },
         "activo": true
     },
     {
         "_id": {
-            "$oid": "68f02f9836d842ecba0f9257"
+            "$oid": "68f034e37c0131e1afd2f6ca"
         },
-        "codigo": "DX-183",
-        "nombre": "situación",
-        "descripcion": "Hospital cosa artículo mar flores. Pesar nunca cuarto conseguir mundo.\nBuena libro eran menos puntos allí. Otro político viene silencio demás. Términos lo comunicación alta.",
+        "codigo": "DX-985",
+        "nombre": "cuatro",
+        "descripcion": "Algunos carácter aspecto propia edad. Escuela futuro creación carta vio. Tienen fuego siglo.\nLos actitud miguel crecimiento todos han.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643182
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6cb"
+        },
+        "codigo": "DX-237",
+        "nombre": "salud",
+        "descripcion": "Hacer antonio prueba ya actual estamos. Mes cine radio amigo dólares. Programas arriba humano principios grupos.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643182
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6cc"
+        },
+        "codigo": "DX-576",
+        "nombre": "proceso",
+        "descripcion": "Origen armas estaba junio nombre. Salir medidas unos música p. Ojos sectores precisamente dicen memoria.",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643182
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6cd"
+        },
+        "codigo": "DX-273",
+        "nombre": "don",
+        "categoria": "pediatria",
+        "fecha_creacion": {
+            "$date": 1760572643183
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6ce"
+        },
+        "codigo": "DX-479",
+        "nombre": "el",
+        "descripcion": "Largo libre aspecto constitución necesario m empresa. Apoyo serán principios hace corte aspectos. Sus será crecimiento fueron. Ministerio apoyo cuestión encima.",
+        "categoria": "",
+        "fecha_creacion": {
+            "$date": 1760572643183
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6cf"
+        },
+        "codigo": "DX-087",
+        "nombre": "horas",
+        "descripcion": "Posibilidades ojos manuel quién recursos color torno. Plazo cargo carrera otras hecho mil.",
+        "categoria": "neurologia",
+        "fecha_creacion": {
+            "$date": 1760572643184
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6d0"
+        },
+        "codigo": "DX-103",
+        "nombre": "habría",
+        "descripcion": "Televisión mal después será sistema méxico izquierda. Total hemos sólo lejos cosas verdad. Otras parte consejo siguientes antes práctica.",
+        "fecha_creacion": {
+            "$date": 1760572643184
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6d1"
+        },
+        "codigo": "DX-328",
+        "nombre": "ciudad",
+        "descripcion": "Ejemplo zona señora septiembre. Un jamás esfuerzo américa amigos mayores. Esos sigue volver figura lópez.",
+        "fecha_creacion": {
+            "$date": 1760572643185
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6d2"
+        },
+        "codigo": "DX-811",
+        "nombre": "entrada",
+        "descripcion": "Ver español teoría centros arriba especie. Régimen obstante cuales tema flores amigo señor. Sola electoral plazo cuestión música gracias.",
+        "fecha_creacion": {
+            "$date": 1760572643185
+        },
+        "activo": true
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6d3"
+        },
+        "codigo": "DX-348",
+        "nombre": "fuerte",
+        "descripcion": "Tribunal cuando últimos ayer período sus dado. Presencia universidad española especie dado texto. Cómo gran ante hablar.",
+        "fecha_creacion": {
+            "$date": 1760572643186
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6d4"
+        },
+        "codigo": "DX-065",
+        "nombre": "cultura",
+        "descripcion": "Interés mientras tener común gran ve voz dicho. Demás propuesta animales manos.\nCrisis aunque pensar puede llamado distintas las control. Estaban mí humana conjunto hacen. Ejemplo río pocos.",
+        "categoria": "oncologia",
+        "fecha_creacion": {
+            "$date": 1760572643186
+        },
+        "activo": false
+    },
+    {
+        "_id": {
+            "$oid": "68f034e37c0131e1afd2f6d5"
+        },
+        "codigo": "DX-293",
+        "nombre": "estuvo",
+        "descripcion": "Historia estudio dio va sectores esfuerzo. De ojos teatro existencia suelo congreso año.\nQuién acuerdo cierta creo sueño pone. Razón centros garcía ejemplo partir asunto estaba.",
         "categoria": "cardiologia",
         "fecha_creacion": {
-            "$date": 1760571288356
+            "$date": 1760572643187
         },
-        "activo": true
-    },
-    {
-        "_id": {
-            "$oid": "68f02f9836d842ecba0f9258"
-        },
-        "codigo": "DX-280",
-        "nombre": "plaza",
-        "descripcion": "Nuestras cantidad partir presente. Prueba producción han pie real pregunta sabía.\nPuso m proceso mucho. Todas te deben tenido ya hija.",
-        "categoria": "neurologia",
-        "fecha_creacion": {
-            "$date": 1760571288356
-        },
-        "activo": true
+        "activo": false
     }
 ]
