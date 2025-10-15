@@ -22,8 +22,8 @@ def detectar_anomalias_medicos():
     for m in db.medicos.find({"especialidad": {"$exists": False}}):
         anomalías.append({"tipo": "campo_faltante", "campo": "especialidad", "_id": str(m.get("_id"))})
     hoy = datetime.now()
-    for m in db.medicos.find({"fecha_ingreso": {"$gt": hoy}}):
-        anomalías.append({"tipo": "fecha_ingreso_futura", "nombre": m.get("nombre"), "fecha_ingreso": str(m.get("fecha_ingreso"))})
+    for m in db.medicos.find({"fecha_contratacion": {"$gt": hoy}}):
+        anomalías.append({"tipo": "fecha_contratacion_futura", "nombre": m.get("nombre"), "fecha_contratacion": str(m.get("fecha_contratacion"))})
     return anomalías
 
 def detectar_anomalias_citas():
