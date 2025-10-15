@@ -1,9 +1,4 @@
-from pymongo import MongoClient
-
-# Conexión 
-client = MongoClient("mongodb://localhost:27017/")
-db_name = "gestion_hospitalaria"
-db = client[db_name]
+from config.env import db, db_name
 
 print(f"Base de datos creada o conectada: {db_name}\n")
 
@@ -157,11 +152,11 @@ def create_collections():
     for name, validator in collections.items():
         if name in db.list_collection_names():
             print(f"Colección existente: {name}")
-            db.command({
-                "collMod": name,
-                "validator": validator,
-                "validationLevel": "strict"
-            })
+            # db.command({
+            #     "collMod": name,
+            #     "validator": validator,
+            #     "validationLevel": "strict"
+            # })
         else:
             db.create_collection(name, validator=validator)
             print(f"Colección creada: {name}")
