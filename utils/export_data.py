@@ -54,6 +54,6 @@ def export_all_data(output_dir="documents"):
 
 
 
-if __name__ == "__main__":
+def export_all():
     export_all_collections()
     export_all_data()
